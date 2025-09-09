@@ -1,10 +1,9 @@
 import { sanity } from '@/sanity/client'
 import { ALL_PROJECTS } from '@/sanity/queries'
+import type { Project } from '@/types/sanity'
 
-export const revalidate = 0; // always fetch fresh
 export default async function WorkPage() {
-  const projects = await sanity.fetch(ALL_PROJECTS)
-
+  const projects = await sanity.fetch<Project[]>(ALL_PROJECTS)
   return (
     <main className="max-w-5xl mx-auto p-6">
       <h1 className="text-2xl font-semibold mb-4">Selected Work</h1>
