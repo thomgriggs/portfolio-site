@@ -1,15 +1,14 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
 import { sanity } from '@/sanity/client'
 import { ALL_PROJECTS } from '@/sanity/queries'
 import type { Project } from '@/types/sanity'
 
 export default async function WorkPage() {
-  const projects = await sanity.fetch<Project[]>(ALL_PROJECTS)
+  const projects = await sanity.fetch<Project[]>(ALL_PROJECTS) as Project[]
   return (
     <main className="max-w-5xl mx-auto p-6">
       <h1 className="text-2xl font-semibold mb-4">Selected Work</h1>
       <ul className="space-y-3">
-        {(projects ?? []).map((p: any) => (
+        {(projects ?? []).map((p) => (
           <li key={p._id} className="border rounded p-4">
             <div className="font-medium">{p.title}</div>
             {p.year ? <div className="text-sm text-gray-500">{p.year}</div> : null}

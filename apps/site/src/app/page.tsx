@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
 import { sanity } from '@/sanity/client'
 import { ALL_PROJECTS } from '@/sanity/queries'
 import type { Project } from '@/types/sanity'
@@ -9,7 +8,7 @@ export const dynamic = 'force-dynamic';
 
 export default async function WorkPage() {
   noStore();
-  const projects = await sanity.fetch<Project[]>(ALL_PROJECTS);
+  const projects = await sanity.fetch<Project[]>(ALL_PROJECTS) as Project[];
 
   return (
     <main className="max-w-5xl mx-auto p-6">
