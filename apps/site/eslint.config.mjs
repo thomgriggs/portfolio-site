@@ -13,8 +13,19 @@ const eslintConfig = [
   ...compat.extends("next/core-web-vitals", "next/typescript"),
   {
     rules: {
-      // Temporarily disable no-explicit-any for Vercel deployment
-      "@typescript-eslint/no-explicit-any": "off",
+      // TypeScript best practices
+      "@typescript-eslint/no-explicit-any": "error",
+      "@typescript-eslint/no-unused-vars": "error",
+      "@typescript-eslint/no-non-null-assertion": "warn",
+      
+      // React best practices
+      "react/no-unescaped-entities": "error",
+      "react/jsx-key": "error",
+      
+      // General best practices
+      "no-console": "warn",
+      "prefer-const": "error",
+      "no-var": "error",
     },
   },
   {
