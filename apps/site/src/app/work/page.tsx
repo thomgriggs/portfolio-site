@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { sanity } from '@/sanity/client'
 import { ALL_PROJECTS } from '@/sanity/queries'
 import type { Project } from '@/types/sanity'
