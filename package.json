@@ -1,4 +1,13 @@
 {
+  "name": "portfolio-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "cd apps/site && npm run build",
+    "dev": "cd apps/site && npm run dev",
+    "start": "cd apps/site && npm run start",
+    "lint": "cd apps/site && npm run lint"
+  },
   "devDependencies": {
     "typescript": "^5.9.2"
   }
