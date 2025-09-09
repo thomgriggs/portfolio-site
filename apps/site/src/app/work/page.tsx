@@ -1,6 +1,7 @@
 import { sanity } from '@/sanity/client'
 import { ALL_PROJECTS } from '@/sanity/queries'
 
+export const revalidate = 0; // always fetch fresh
 export default async function WorkPage() {
   const projects = await sanity.fetch(ALL_PROJECTS)
 
