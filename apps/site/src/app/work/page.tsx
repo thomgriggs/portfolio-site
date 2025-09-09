@@ -3,7 +3,7 @@ import { ALL_PROJECTS } from '@/sanity/queries'
 import type { Project } from '@/types/sanity'
 
 export default async function WorkPage() {
-  const projects = await sanity.fetch<Project[]>(ALL_PROJECTS) as Project[]
+  const projects = await sanity.fetch<Project[]>(ALL_PROJECTS)
   return (
     <main className="max-w-5xl mx-auto p-6">
       <h1 className="text-2xl font-semibold mb-4">Selected Work</h1>

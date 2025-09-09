@@ -6,7 +6,8 @@
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint . --ext .ts,.tsx,.js,.jsx --max-warnings 0",
+    "lint:fix": "eslint . --ext .ts,.tsx,.js,.jsx --fix"
   },
   "dependencies": {
     "@sanity/client": "^7.11.0",
