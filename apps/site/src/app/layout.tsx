@@ -25,11 +25,11 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "Thomas Griggs - Portfolio",
-    template: "%s | Thomas Griggs - Portfolio",
+    default: "Thomas Griggs - Senior Frontend Developer",
+    template: "%s | Thomas Griggs",
   },
-  description: "Portfolio showcasing selected work and projects by Thomas Griggs. Explore featured projects, web development, and creative solutions.",
-  keywords: ["portfolio", "web development", "frontend", "react", "nextjs", "typescript"],
+  description: "Senior frontend developer specializing in accessible, performant, and interactive web experiences. 250+ hotel websites built. Available for remote work worldwide.",
+  keywords: ["frontend developer", "React", "Next.js", "TypeScript", "accessibility", "performance", "web development", "hotel websites", "remote work"],
   authors: [{ name: "Thomas Griggs" }],
   creator: "Thomas Griggs",
   openGraph: {
@@ -73,8 +73,13 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <ErrorBoundary>
+          <a href="#main-content" className="skip-link">
+            Skip to main content
+          </a>
           <Navigation />
-          {children}
+          <main id="main-content">
+            {children}
+          </main>
           <Footer />
           <Analytics />
           <Script

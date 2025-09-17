@@ -19,15 +19,24 @@ export default async function HomePage() {
         <div className="homepage-hero-content">
           <div className="homepage-hero-text">
             <h1 className="homepage-title">
-              Thom Griggs
+              Senior Frontend Developer
             </h1>
             <p className="homepage-subtitle">
-              Senior Frontend Developer
+              Building accessible, performant web experiences
             </p>
             <p className="homepage-description">
-              I translate beautiful designs into clean, accessible code. With 15+ years of experience 
-              and 250+ handcrafted websites, I help teams bridge the gap between design and development.
+              I specialize in React, Next.js, and TypeScript. With 250+ hotel websites built and 
+              a focus on accessibility and performance, I help teams ship quality code that users love.
             </p>
+            
+            <div className="homepage-cta">
+              <Link href="/contact" className="cta-button">
+                Let&apos;s Work Together
+              </Link>
+              <Link href="/projects" className="cta-button-secondary">
+                View My Work
+              </Link>
+            </div>
             
             <div className="homepage-stats">
               <div className="homepage-stat">

@@ -1,0 +1,7 @@
+Failed projects from batch 1:
+- Ecrin Blanc: Timeout 30000ms exceeded
+- French Theory: net::ERR_CERT_DATE_INVALID
+Failed projects from batch 2:
+- Bernard Loiseau: Timeout 30000ms exceeded
+- Ecrin Blanc: Timeout 30000ms exceeded
+- French Theory: net::ERR_CERT_DATE_INVALID

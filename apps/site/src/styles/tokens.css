@@ -1,0 +1,19 @@
+:root {
+	/* colors */
+	--bg: #0b0b0c;
+	--text: #eaeaea;
+	--muted: #9aa0a6;
+	--primary: #7bd7ff;   /* accent you can tune later */
+	--card: #121214;
+	--border: #1f1f22;
+
+	/* typography */
+	--font-serif: "Noto Serif", ui-serif, Georgia, serif;
+	--font-sans: ui-sans-serif, system-ui, Inter, Arial, sans-serif;
+
+	/* spacing & radii */
+	--space-1: 4px;  --space-2: 8px;  --space-3: 12px;  --space-4: 16px;
+	--space-6: 24px; --space-8: 32px; --space-12: 48px; --space-16: 64px;
+	--radius: 16px;
+	--shadow: 0 10px 30px rgba(0,0,0,.25);
+}

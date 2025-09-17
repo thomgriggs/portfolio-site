@@ -1,0 +1,41 @@
+[
+	{
+		"slug": "brand-spotlight",
+		"title": "Brand Spotlight Microsite",
+		"role": "Front-End Developer",
+		"stack": ["HTML/SASS", "jQuery/JS", "Swiper"],
+		"year": 2024,
+		"challenge": "Turn a complex Figma into a smooth, ADA-conscious microsite in 10 days.",
+		"solution": "Hand-coded responsive grid, custom Swiper helpers, keyboard nav & skip links.",
+		"impact": "Shipped on time; +18% page engagement; lighthouse a11y 96–100.",
+		"image": "/images/spotlight-projects/brand-spotlight.jpg",
+		"url": "https://example.com/brand-spotlight",
+		"tags": ["Accessibility", "Performance", "Responsive Design"]
+	},
+	{
+		"slug": "slider-lab",
+		"title": "Interactive Slider Component Library",
+		"role": "Front-End Developer",
+		"stack": ["React", "TypeScript", "CSS Modules"],
+		"year": 2024,
+		"challenge": "Build a reusable slider component that works across 50+ hotel websites with zero accessibility violations.",
+		"solution": "Custom React hooks for keyboard navigation, ARIA labels, and smooth animations.",
+		"impact": "Reduced development time by 60%; 100% accessibility compliance; zero client complaints.",
+		"image": "/images/spotlight-projects/slider-lab.jpg",
+		"url": "https://example.com/slider-lab",
+		"tags": ["React", "TypeScript", "Component Library"]
+	},
+	{
+		"slug": "cms-ux-upgrades",
+		"title": "CMS UX Performance Overhaul",
+		"role": "Front-End Developer",
+		"stack": ["Next.js", "Sanity", "Performance"],
+		"year": 2024,
+		"challenge": "Migrate legacy CMS to modern stack while maintaining 250+ existing hotel websites.",
+		"solution": "Incremental migration with Next.js 15, Sanity integration, and performance monitoring.",
+		"impact": "40% faster load times; 95% Core Web Vitals green; zero downtime migration.",
+		"image": "/images/spotlight-projects/cms-upgrade.jpg",
+		"url": "https://example.com/cms-upgrade",
+		"tags": ["Next.js", "Performance", "Migration"]
+	}
+]

@@ -1,0 +1,888 @@
+{
+  "exactMatches": [],
+  "partialMatches": [
+    {
+      "project": "Hotel Elysees Union",
+      "filename": "hotel-elysees-union",
+      "match": "partial",
+      "suggestions": [
+        "elysees-union-apartments"
+      ]
+    },
+    {
+      "project": "Bloomhouse Hotel Paris",
+      "filename": "bloomhouse-hotel-paris",
+      "match": "partial",
+      "suggestions": [
+        "hotel-paris-muguet",
+        "hotel-paris-petitlouvre",
+        "hotel-paris-printemps"
+      ]
+    },
+    {
+      "project": "Dandy Hotel Paris",
+      "filename": "dandy-hotel-paris",
+      "match": "partial",
+      "suggestions": [
+        "hotel-paris-muguet",
+        "hotel-paris-petitlouvre",
+        "hotel-paris-printemps"
+      ]
+    },
+    {
+      "project": "Le Millie Rose Hotel Paris",
+      "filename": "le-millie-rose-hotel-paris",
+      "match": "partial",
+      "suggestions": [
+        "hotel-paris-muguet",
+        "hotel-paris-petitlouvre",
+        "hotel-paris-printemps"
+      ]
+    },
+    {
+      "project": "Hotel De Lempereur",
+      "filename": "hotel-de-lempereur",
+      "match": "partial",
+      "suggestions": [
+        "hotel-de-la-boetie"
+      ]
+    },
+    {
+      "project": "Hotel paris Richmond",
+      "filename": "hotel-paris-richmond",
+      "match": "partial",
+      "suggestions": [
+        "hotel-paris-muguet",
+        "hotel-paris-petitlouvre",
+        "hotel-paris-printemps",
+        "lyric-hotel-paris"
+      ]
+    },
+    {
+      "project": "Ascot Paris Hotel",
+      "filename": "ascot-paris-hotel",
+      "match": "partial",
+      "suggestions": [
+        "paris-hotel-lion",
+        "paris-hotel-yllen-eiffel"
+      ]
+    },
+    {
+      "project": "Maison Des Ambassadeurs",
+      "filename": "maison-des-ambassadeurs",
+      "match": "partial",
+      "suggestions": [
+        "maison-des-armateurs"
+      ]
+    },
+    {
+      "project": "Grand Hotel Des Balcons",
+      "filename": "grand-hotel-des-balcons",
+      "match": "partial",
+      "suggestions": [
+        "hotel-des-dunes"
+      ]
+    },
+    {
+      "project": "Atmospheres Hotel Paris",
+      "filename": "atmospheres-hotel-paris",
+      "match": "partial",
+      "suggestions": [
+        "hotel-paris-muguet",
+        "hotel-paris-petitlouvre",
+        "hotel-paris-printemps"
+      ]
+    },
+    {
+      "project": "Hotel De L'Etrier",
+      "filename": "hotel-de-letrier",
+      "match": "partial",
+      "suggestions": [
+        "hotel-de-la-boetie"
+      ]
+    },
+    {
+      "project": "Hotel Beaurepaire",
+      "filename": "hotel-beaurepaire",
+      "match": "partial",
+      "suggestions": [
+        "hotel-beauregard"
+      ]
+    },
+    {
+      "project": "2L Collection",
+      "filename": "2l-collection",
+      "match": "partial",
+      "suggestions": [
+        "collection-vesper"
+      ]
+    },
+    {
+      "project": "Chateau De Mercues",
+      "filename": "chateau-de-mercues",
+      "match": "partial",
+      "suggestions": [
+        "chateau-de-riell",
+        "chateau-des-avenieres",
+        "hotel-golf-chateau-de-chailly"
+      ]
+    },
+    {
+      "project": "Handsome Hotel paris",
+      "filename": "handsome-hotel-paris",
+      "match": "partial",
+      "suggestions": [
+        "hotel-paris-muguet",
+        "hotel-paris-petitlouvre",
+        "hotel-paris-printemps"
+      ]
+    },
+    {
+      "project": "Bob Hotel Paris",
+      "filename": "bob-hotel-paris",
+      "match": "partial",
+      "suggestions": [
+        "hotel-paris-muguet",
+        "hotel-paris-petitlouvre",
+        "hotel-paris-printemps"
+      ]
+    },
+    {
+      "project": "Legend Hotel Paris",
+      "filename": "legend-hotel-paris",
+      "match": "partial",
+      "suggestions": [
+        "hotel-paris-muguet",
+        "hotel-paris-petitlouvre",
+        "hotel-paris-printemps"
+      ]
+    },
+    {
+      "project": "Snob Hotel Paris",
+      "filename": "snob-hotel-paris",
+      "match": "partial",
+      "suggestions": [
+        "hotel-paris-muguet",
+        "hotel-paris-petitlouvre",
+        "hotel-paris-printemps"
+      ]
+    },
+    {
+      "project": "Le Saint Hotel Paris",
+      "filename": "le-saint-hotel-paris",
+      "match": "partial",
+      "suggestions": [
+        "hotel-paris-muguet",
+        "hotel-paris-petitlouvre",
+        "hotel-paris-printemps"
+      ]
+    }
+  ],
+  "noMatches": [
+    {
+      "project": "Brittany & Spa Hotel Restaurant Spa",
+      "filename": "brittany-spa-hotel-restaurant-spa"
+    },
+    {
+      "project": "Hotel Panache",
+      "filename": "hotel-panache"
+    },
+    {
+      "project": "Hotel Donjon Vincennes",
+      "filename": "hotel-donjon-vincennes"
+    },
+    {
+      "project": "Chateau Le Cagnard",
+      "filename": "chateau-le-cagnard"
+    },
+    {
+      "project": "Hotel De Re",
+      "filename": "hotel-de-re"
+    },
+    {
+      "project": "7 Eiffel Hotel",
+      "filename": "7-eiffel-hotel"
+    },
+    {
+      "project": "Eifel Segur",
+      "filename": "eifel-segur"
+    },
+    {
+      "project": "KRS Hotels",
+      "filename": "krs-hotels"
+    },
+    {
+      "project": "Residence Charles Floquet",
+      "filename": "residence-charles-floquet"
+    },
+    {
+      "project": "Hotel du Bois",
+      "filename": "hotel-du-bois"
+    },
+    {
+      "project": "Folkestone Opera",
+      "filename": "folkestone-opera"
+    },
+    {
+      "project": "Hotel Washington Opera",
+      "filename": "hotel-washington-opera"
+    },
+    {
+      "project": "Hotel Demeures Historiques",
+      "filename": "hotel-demeures-historiques"
+    },
+    {
+      "project": "Elysees Ceramic",
+      "filename": "elysees-ceramic"
+    },
+    {
+      "project": "Mythic Suites",
+      "filename": "mythic-suites"
+    },
+    {
+      "project": "Ecrin Blanc Courchevel",
+      "filename": "ecrin-blanc-courchevel"
+    },
+    {
+      "project": "Bernard Loiseau",
+      "filename": "bernard-loiseau"
+    },
+    {
+      "project": "Montleuri Paris",
+      "filename": "montleuri-paris"
+    },
+    {
+      "project": "Moulin Royale",
+      "filename": "moulin-royale"
+    },
+    {
+      "project": "Marguery Villas",
+      "filename": "marguery-villas"
+    },
+    {
+      "project": "Sydney Opera",
+      "filename": "sydney-opera"
+    },
+    {
+      "project": "Montien Hotel",
+      "filename": "montien-hotel"
+    },
+    {
+      "project": "MJ Holidays",
+      "filename": "mj-holidays"
+    },
+    {
+      "project": "Vendome Opera Hotel",
+      "filename": "vendome-opera-hotel"
+    },
+    {
+      "project": "Pine Cay",
+      "filename": "pine-cay"
+    },
+    {
+      "project": "Pine Cay Properties",
+      "filename": "pine-cay-properties"
+    },
+    {
+      "project": "Hotel Colisee",
+      "filename": "hotel-colisee"
+    },
+    {
+      "project": "Saint James Club",
+      "filename": "saint-james-club"
+    },
+    {
+      "project": "duO Hotel",
+      "filename": "duo-hotel"
+    },
+    {
+      "project": "Saint James Paris",
+      "filename": "saint-james-paris"
+    },
+    {
+      "project": "Paris Art Hotel",
+      "filename": "paris-art-hotel"
+    },
+    {
+      "project": "Les Domainesde Fontenille",
+      "filename": "les-domainesde-fontenille"
+    },
+    {
+      "project": "369 Hotels & Maisons",
+      "filename": "369-hotels-maisons"
+    },
+    {
+      "project": "Maison FL",
+      "filename": "maison-fl"
+    },
+    {
+      "project": "Le Mathurin Hotel & Spa",
+      "filename": "le-mathurin-hotel-spa"
+    },
+    {
+      "project": "Aida Hotel Spa",
+      "filename": "aida-hotel-spa"
+    },
+    {
+      "project": "Ballyfin",
+      "filename": "ballyfin"
+    },
+    {
+      "project": "Relais Bosquet Hotel",
+      "filename": "relais-bosquet-hotel"
+    },
+    {
+      "project": "Le M St Germain",
+      "filename": "le-m-st-germain"
+    },
+    {
+      "project": "Hotel Central Saint Germain",
+      "filename": "hotel-central-saint-germain"
+    },
+    {
+      "project": "Cocoon Inn",
+      "filename": "cocoon-inn"
+    },
+    {
+      "project": "Cantu di Mare",
+      "filename": "cantu-di-mare"
+    },
+    {
+      "project": "La Mirande",
+      "filename": "la-mirande"
+    },
+    {
+      "project": "Bristol",
+      "filename": "bristol"
+    },
+    {
+      "project": "Hotel Touraine Opera",
+      "filename": "hotel-touraine-opera"
+    },
+    {
+      "project": "Le Bristol Hotel",
+      "filename": "le-bristol-hotel"
+    },
+    {
+      "project": "Le Versailles",
+      "filename": "le-versailles"
+    },
+    {
+      "project": "Cadran Hotel",
+      "filename": "cadran-hotel"
+    },
+    {
+      "project": "Ile de France",
+      "filename": "ile-de-france"
+    },
+    {
+      "project": "Riad Fes",
+      "filename": "riad-fes"
+    },
+    {
+      "project": "Hotel centre Reims",
+      "filename": "hotel-centre-reims"
+    },
+    {
+      "project": "Hotel Les Deux Gares",
+      "filename": "hotel-les-deux-gares"
+    },
+    {
+      "project": "Auberge Du Pays Retz",
+      "filename": "auberge-du-pays-retz"
+    },
+    {
+      "project": "Hotel Hermitage",
+      "filename": "hotel-hermitage"
+    },
+    {
+      "project": "Hotel Grand Parc",
+      "filename": "hotel-grand-parc"
+    },
+    {
+      "project": "Select Hotel",
+      "filename": "select-hotel"
+    },
+    {
+      "project": "St Delis",
+      "filename": "st-delis"
+    },
+    {
+      "project": "Fonscolombe",
+      "filename": "fonscolombe"
+    },
+    {
+      "project": "Roosevelt Hotel",
+      "filename": "roosevelt-hotel"
+    },
+    {
+      "project": "Chanalai Hotel and Resorts",
+      "filename": "chanalai-hotel-and-resorts"
+    },
+    {
+      "project": "Hotel Opera Lafayette",
+      "filename": "hotel-opera-lafayette"
+    },
+    {
+      "project": "Intercontinental Doha The City",
+      "filename": "intercontinental-doha-the-city"
+    },
+    {
+      "project": "Residence Acro Plage",
+      "filename": "residence-acro-plage"
+    },
+    {
+      "project": "Hotel Central Saint Germain",
+      "filename": "hotel-central-saint-germain"
+    },
+    {
+      "project": "Villa Abbazia",
+      "filename": "villa-abbazia"
+    },
+    {
+      "project": "French Theory",
+      "filename": "french-theory"
+    },
+    {
+      "project": "Le Jardin des Douars",
+      "filename": "le-jardin-des-douars"
+    },
+    {
+      "project": "Alpen Valley",
+      "filename": "alpen-valley"
+    },
+    {
+      "project": "Hotel Victor Hugo",
+      "filename": "hotel-victor-hugo"
+    },
+    {
+      "project": "French Coco Luxury Botique Hotel",
+      "filename": "french-coco-luxury-botique-hotel"
+    },
+    {
+      "project": "Hotel Bienvenue",
+      "filename": "hotel-bienvenue"
+    },
+    {
+      "project": "Le Comptoirdu Caviar",
+      "filename": "le-comptoirdu-caviar"
+    },
+    {
+      "project": "BHF Paris",
+      "filename": "bhf-paris"
+    },
+    {
+      "project": "Auberge Du Jeu De Paume Chantilly",
+      "filename": "auberge-du-jeu-de-paume-chantilly"
+    },
+    {
+      "project": "Ecrin Blanc",
+      "filename": "ecrin-blanc"
+    },
+    {
+      "project": "La Chambre Du Marais",
+      "filename": "la-chambre-du-marais"
+    },
+    {
+      "project": "King Jason Paphos",
+      "filename": "king-jason-paphos"
+    },
+    {
+      "project": "Hotel Arcadie",
+      "filename": "hotel-arcadie"
+    },
+    {
+      "project": "Louis IVI Mare",
+      "filename": "louis-ivi-mare"
+    },
+    {
+      "project": "King Jason Protaras",
+      "filename": "king-jason-protaras"
+    },
+    {
+      "project": "Marceau Champs-Elysees",
+      "filename": "marceau-champselysees"
+    },
+    {
+      "project": "Benvengudo",
+      "filename": "benvengudo"
+    },
+    {
+      "project": "Tobira",
+      "filename": "tobira"
+    },
+    {
+      "project": "Ter Elst",
+      "filename": "ter-elst"
+    },
+    {
+      "project": "Hotel Londra Palace",
+      "filename": "hotel-londra-palace"
+    },
+    {
+      "project": "The Royal Apollonia",
+      "filename": "the-royal-apollonia"
+    },
+    {
+      "project": "Hotel Opera D'Antin",
+      "filename": "hotel-opera-dantin"
+    },
+    {
+      "project": "Serge Vieira",
+      "filename": "serge-vieira"
+    },
+    {
+      "project": "Villa Des Orangers",
+      "filename": "villa-des-orangers"
+    },
+    {
+      "project": "Suit Case Best Western",
+      "filename": "suit-case-best-western"
+    },
+    {
+      "project": "Pas de l'Ours",
+      "filename": "pas-de-lours"
+    },
+    {
+      "project": "La Bastide En Gascogne",
+      "filename": "la-bastide-en-gascogne"
+    },
+    {
+      "project": "Hotel Maubeuge",
+      "filename": "hotel-maubeuge"
+    },
+    {
+      "project": "Hotel Saint Marc",
+      "filename": "hotel-saint-marc"
+    },
+    {
+      "project": "Maisons Taillevent Paris",
+      "filename": "maisons-taillevent-paris"
+    },
+    {
+      "project": "Manoir de Lan Kerellec",
+      "filename": "manoir-de-lan-kerellec"
+    },
+    {
+      "project": "Harmony Spa Budapest",
+      "filename": "harmony-spa-budapest"
+    },
+    {
+      "project": "Capsis Elite Resort",
+      "filename": "capsis-elite-resort"
+    },
+    {
+      "project": "Hotel Petit Paris",
+      "filename": "hotel-petit-paris"
+    },
+    {
+      "project": "Off Paris Siene",
+      "filename": "off-paris-siene"
+    },
+    {
+      "project": "Hotel X Toronto",
+      "filename": "hotel-x-toronto"
+    },
+    {
+      "project": "La Comtesse",
+      "filename": "la-comtesse"
+    },
+    {
+      "project": "Hotel Exquis Paris",
+      "filename": "hotel-exquis-paris"
+    },
+    {
+      "project": "Hotel Felicien Paris",
+      "filename": "hotel-felicien-paris"
+    },
+    {
+      "project": "Hotel La Parizienne",
+      "filename": "hotel-la-parizienne"
+    },
+    {
+      "project": "Hotel Crayon",
+      "filename": "hotel-crayon"
+    },
+    {
+      "project": "Hotel Crayon Rouge",
+      "filename": "hotel-crayon-rouge"
+    },
+    {
+      "project": "Hotel Odyssey Paris",
+      "filename": "hotel-odyssey-paris"
+    },
+    {
+      "project": "Aria Hotel Budapest",
+      "filename": "aria-hotel-budapest"
+    },
+    {
+      "project": "Hotel Champerret Elysees",
+      "filename": "hotel-champerret-elysees"
+    },
+    {
+      "project": "Hotel Dauphine St Germain",
+      "filename": "hotel-dauphine-st-germain"
+    },
+    {
+      "project": "Casablanca Hotel",
+      "filename": "casablanca-hotel"
+    },
+    {
+      "project": "Elysee Hotel",
+      "filename": "elysee-hotel"
+    },
+    {
+      "project": "Hotel Giraffe",
+      "filename": "hotel-giraffe"
+    },
+    {
+      "project": "Duna Park Milfontes",
+      "filename": "duna-park-milfontes"
+    },
+    {
+      "project": "Villathena",
+      "filename": "villathena"
+    },
+    {
+      "project": "Malcom & Barret Hotel and Bar",
+      "filename": "malcom-barret-hotel-and-bar"
+    },
+    {
+      "project": "Vintage Hotel",
+      "filename": "vintage-hotel"
+    },
+    {
+      "project": "Villas Le Barone",
+      "filename": "villas-le-barone"
+    },
+    {
+      "project": "Library Hotel",
+      "filename": "library-hotel"
+    },
+    {
+      "project": "Hotel Emile",
+      "filename": "hotel-emile"
+    },
+    {
+      "project": "Le Bellechasse Saint Germain",
+      "filename": "le-bellechasse-saint-germain"
+    },
+    {
+      "project": "La Maison Champs Elysees",
+      "filename": "la-maison-champs-elysees"
+    },
+    {
+      "project": "Mercure Cantania Excelsior",
+      "filename": "mercure-cantania-excelsior"
+    },
+    {
+      "project": "Hotel Saintgregoire",
+      "filename": "hotel-saintgregoire"
+    },
+    {
+      "project": "L'Imprimerie Hotel",
+      "filename": "limprimerie-hotel"
+    },
+    {
+      "project": "Hotel Henry IV",
+      "filename": "hotel-henry-iv"
+    },
+    {
+      "project": "Hotel Clement",
+      "filename": "hotel-clement"
+    },
+    {
+      "project": "Terra Place",
+      "filename": "terra-place"
+    },
+    {
+      "project": "Duna Park Beach Club",
+      "filename": "duna-park-beach-club"
+    },
+    {
+      "project": "Auberge De La Source",
+      "filename": "auberge-de-la-source"
+    },
+    {
+      "project": "Quay Perth",
+      "filename": "quay-perth"
+    },
+    {
+      "project": "Dun Parque Alentejo Star Hotel",
+      "filename": "dun-parque-alentejo-star-hotel"
+    },
+    {
+      "project": "Duna Park HS Milfontes Beach",
+      "filename": "duna-park-hs-milfontes-beach"
+    },
+    {
+      "project": "Duna Park Mimi",
+      "filename": "duna-park-mimi"
+    },
+    {
+      "project": "Duna Park Moinho Da Asneira",
+      "filename": "duna-park-moinho-da-asneira"
+    },
+    {
+      "project": "Duna Park Quinta Da Samoqueirinha",
+      "filename": "duna-park-quinta-da-samoqueirinha"
+    },
+    {
+      "project": "Duna Park Unique Apartments",
+      "filename": "duna-park-unique-apartments"
+    },
+    {
+      "project": "The Suncliff Seafront Hotel by Oceana",
+      "filename": "the-suncliff-seafront-hotel-by-oceana"
+    },
+    {
+      "project": "Hotel Lautrec Opera",
+      "filename": "hotel-lautrec-opera"
+    },
+    {
+      "project": "Le Petit Coq Aux Champs",
+      "filename": "le-petit-coq-aux-champs"
+    },
+    {
+      "project": "Ferme Saint Simeon",
+      "filename": "ferme-saint-simeon"
+    },
+    {
+      "project": "Louis St Elias Resort",
+      "filename": "louis-st-elias-resort"
+    },
+    {
+      "project": "Privilege Toulouse",
+      "filename": "privilege-toulouse"
+    },
+    {
+      "project": "Mercure",
+      "filename": "mercure"
+    },
+    {
+      "project": "Hotel Mermoz",
+      "filename": "hotel-mermoz"
+    },
+    {
+      "project": "Hotel Le Lavoisier",
+      "filename": "hotel-le-lavoisier"
+    },
+    {
+      "project": "Safari Tours",
+      "filename": "safari-tours"
+    },
+    {
+      "project": "The Palm Seychelles",
+      "filename": "the-palm-seychelles"
+    },
+    {
+      "project": "Hotel Longchamp Elysees",
+      "filename": "hotel-longchamp-elysees"
+    },
+    {
+      "project": "Elegancia Hotels",
+      "filename": "elegancia-hotels"
+    },
+    {
+      "project": "Hotel de Suez",
+      "filename": "hotel-de-suez"
+    }
+  ],
+  "availableScreenshots": [
+    "1er-etage",
+    "academie-hotel",
+    "akan-collection",
+    "alma-hotel-contact",
+    "alma-hotel-homepage",
+    "alma-hotel-restaurant",
+    "alma-hotel-rooms",
+    "alma-hotel-spa",
+    "alma-hotel",
+    "altai-courchevel",
+    "ares-paris-hotel",
+    "brasserie-leschenapans",
+    "campings-liberte",
+    "cendyn-website",
+    "chateau-apigne",
+    "chateau-de-riell",
+    "chateau-des-avenieres",
+    "chateaula-commaraine",
+    "collection-vesper",
+    "college-hotel",
+    "drouant",
+    "elysees-union-apartments",
+    "env-hair-studio",
+    "f-and-s-framing",
+    "fourviere-hotel",
+    "gardinier",
+    "grand-barrail",
+    "hostellerie-du-lys",
+    "hotel-beauregard",
+    "hotel-charlemagne",
+    "hotel-chateaudeau",
+    "hotel-de-la-boetie",
+    "hotel-des-dunes",
+    "hotel-edouard-6",
+    "hotel-epoque",
+    "hotel-golf-chateau-de-chailly",
+    "hotel-grichting",
+    "hotel-le-doge",
+    "hotel-m-merignac",
+    "hotel-moliere",
+    "hotel-monge",
+    "hotel-norman",
+    "hotel-parc-montsouris",
+    "hotel-paris-muguet",
+    "hotel-paris-petitlouvre",
+    "hotel-paris-printemps",
+    "hotel-pastel-paris",
+    "hotel-pont-royal",
+    "hotel-prieure",
+    "hotel-royal-st-honore",
+    "hotel-sparis-versailles",
+    "hotel-waldorf",
+    "hotel-wyld-saint-germain",
+    "hotels-demeures-historiques",
+    "ivi-mare-paphos",
+    "le-bois-joli",
+    "legend-beach",
+    "les-berges-de-palombaggia-homepage",
+    "les-berges-de-palombaggia",
+    "les-cures-marines",
+    "les-maisons-de-lea",
+    "leto-hydra",
+    "libert-everdon",
+    "libert-landrellec",
+    "liberte-lacanau",
+    "liss-ard-estate",
+    "lyric-hotel-paris",
+    "maison-des-armateurs",
+    "maison-heler-metz-homepage",
+    "maison-heler-metz",
+    "makass-appart-hotel",
+    "malone-hotels",
+    "moulin-plaza",
+    "my-home-in-paris",
+    "odeon-hotel",
+    "optimum-rv-about",
+    "optimum-rv-contact",
+    "optimum-rv-financing",
+    "optimum-rv-homepage",
+    "optimum-rv-inventory",
+    "optimum-rv",
+    "paris-hotel-lion",
+    "paris-hotel-yllen-eiffel",
+    "pecora-negra",
+    "pomeroy-hotel",
+    "qlik",
+    "relais-christine",
+    "relais-du-moulin",
+    "st-mellion-estate",
+    "the-augustin",
+    "the-wall-street-inn",
+    "thousandhillsresorthotel",
+    "tortiniere",
+    "valdiski",
+    "welfi-hospitality"
+  ]
+}

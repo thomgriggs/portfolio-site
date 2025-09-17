@@ -10,5 +10,10 @@
   },
   "devDependencies": {
     "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "@sanity/client": "^7.11.0",
+    "playwright": "^1.55.0",
+    "sharp": "^0.34.3"
   }
 }

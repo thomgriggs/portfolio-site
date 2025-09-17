@@ -1,0 +1,4777 @@
+[
+  {
+    "_type": "project",
+    "_id": "project-1",
+    "title": "Auberge Du Jeu De Paume Chantilly",
+    "categoryName": "Spotlight",
+    "urlPath": "https://aubergedujeudepaumechantilly.fr/",
+    "imagePath": "/_images/spotlight-projects/aubergedujeudepaume.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "06042019",
+    "description": "Description",
+    "featured": true,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 604
+  },
+  {
+    "_type": "project",
+    "_id": "project-2",
+    "title": "Bernard Loiseau",
+    "categoryName": "Spotlight",
+    "urlPath": "https://bernard-loiseau.com/",
+    "imagePath": "/_images/spotlight-projects/bernardloiseau.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "11302021",
+    "description": "Description",
+    "featured": true,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1130
+  },
+  {
+    "_type": "project",
+    "_id": "project-3",
+    "title": "BHF Paris",
+    "categoryName": "Spotlight",
+    "urlPath": "https://bhfparis.com/",
+    "imagePath": "/_images/spotlight-projects/bhfparis.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "07012019",
+    "description": "Description",
+    "featured": true,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 701
+  },
+  {
+    "_type": "project",
+    "_id": "project-4",
+    "title": "Hotel Golf Chateau De Chailly",
+    "categoryName": "Spotlight",
+    "urlPath": "https://chailly.com/",
+    "imagePath": "/_images/spotlight-projects/chailly.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa",
+      "Golf"
+    ],
+    "dateCreated": "2022-07-25",
+    "description": "Description",
+    "featured": true,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2022
+  },
+  {
+    "_type": "project",
+    "_id": "project-5",
+    "title": "Chanalai Hotel and Resorts",
+    "categoryName": "Spotlight",
+    "urlPath": "https://chanalai.com/",
+    "imagePath": "/_images/spotlight-projects/chanalai.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "01072020",
+    "description": "Description",
+    "featured": true,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 107
+  },
+  {
+    "_type": "project",
+    "_id": "project-6",
+    "title": "Chateau Le Cagnard",
+    "categoryName": "Spotlight",
+    "urlPath": "https://lecagnard.fr/",
+    "imagePath": "/_images/spotlight-projects/chateaudecagnard.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "02172022",
+    "description": "Description",
+    "featured": true,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 217
+  },
+  {
+    "_type": "project",
+    "_id": "project-7",
+    "title": "Ecrin Blanc",
+    "categoryName": "Spotlight",
+    "urlPath": "https://ecrin-blanc.com/",
+    "imagePath": "/_images/spotlight-projects/ecrinblanc.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "04242019",
+    "description": "Description",
+    "featured": true,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 424
+  },
+  {
+    "_type": "project",
+    "_id": "project-8",
+    "title": "French Theory",
+    "categoryName": "Spotlight",
+    "urlPath": "https://frtheory.com/",
+    "imagePath": "/_images/spotlight-projects/frenchtheory.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "10292019",
+    "description": "Description",
+    "featured": true,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1029
+  },
+  {
+    "_type": "project",
+    "_id": "project-9",
+    "title": "369 Hotels  & Maisons",
+    "categoryName": "Spotlight",
+    "urlPath": "https://369degres.com/",
+    "imagePath": "/_images/spotlight-projects/hotels369.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "04272021",
+    "description": "Description",
+    "featured": true,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 427
+  },
+  {
+    "_type": "project",
+    "_id": "project-10",
+    "title": "Hotel Saint Marc",
+    "categoryName": "Spotlight",
+    "urlPath": "https://hotelsaintmarc.com/",
+    "imagePath": "/_images/spotlight-projects/hotelsaintmarc.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "10092018",
+    "description": "Description",
+    "featured": true,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1009
+  },
+  {
+    "_type": "project",
+    "_id": "project-11",
+    "title": "Intercontinental Doha The City",
+    "categoryName": "Spotlight",
+    "urlPath": "https://dohawestbay.intercontinental.com/",
+    "imagePath": "/_images/spotlight-projects/intercontinentaldohathecity.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "12092019",
+    "description": "Description",
+    "featured": true,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1209
+  },
+  {
+    "_type": "project",
+    "_id": "project-12",
+    "title": "La Chambre Du Marais",
+    "categoryName": "Spotlight",
+    "urlPath": "https://lachambredumarais.com/",
+    "imagePath": "/_images/spotlight-projects/lachambredumarais.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "04162019",
+    "description": "Description",
+    "featured": true,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 416
+  },
+  {
+    "_type": "project",
+    "_id": "project-13",
+    "title": "Les Domainesde Fontenille",
+    "categoryName": "Spotlight",
+    "urlPath": "https://lesdomainesdefontenille.com/",
+    "imagePath": "/_images/spotlight-projects/lesdomainesdefontenille.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "04302021",
+    "description": "Description",
+    "featured": true,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 430
+  },
+  {
+    "_type": "project",
+    "_id": "project-14",
+    "title": "MJ Holidays",
+    "categoryName": "Spotlight",
+    "urlPath": "https://mjholidays.com/",
+    "imagePath": "/_images/spotlight-projects/mjholidays.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "07272021",
+    "description": "Description",
+    "featured": true,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 727
+  },
+  {
+    "_type": "project",
+    "_id": "project-15",
+    "title": "Pine Cay",
+    "categoryName": "Spotlight",
+    "urlPath": "https://pinecay.com/",
+    "imagePath": "/_images/spotlight-projects/pinecay.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "06252021",
+    "description": "Description",
+    "featured": true,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 625
+  },
+  {
+    "_type": "project",
+    "_id": "project-16",
+    "title": "Saint James Paris",
+    "categoryName": "Spotlight",
+    "urlPath": "https://saint-james-paris.com/",
+    "imagePath": "/_images/spotlight-projects/saintjamesparis.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "05212021",
+    "description": "Description",
+    "featured": true,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 521
+  },
+  {
+    "_type": "project",
+    "_id": "project-17",
+    "title": "Terra Place",
+    "categoryName": "Spotlight",
+    "urlPath": "https://terra.place/",
+    "imagePath": "/_images/spotlight-projects/terra.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "05242017",
+    "description": "Description",
+    "featured": true,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 524
+  },
+  {
+    "_type": "project",
+    "_id": "project-18",
+    "title": "ENV Hair Studio",
+    "categoryName": "Freelance",
+    "urlPath": "https://envhairstudio.com/",
+    "imagePath": "/_images/freelance-projects/envhairstudio.jpeg",
+    "tags": [
+      "Salon"
+    ],
+    "dateCreated": "04302022",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Other",
+    "year": 430
+  },
+  {
+    "_type": "project",
+    "_id": "project-19",
+    "title": "F and S Framing",
+    "categoryName": "Freelance",
+    "urlPath": "https://fandsframing.com/",
+    "imagePath": "/_images/freelance-projects/fandsframing.jpeg",
+    "tags": [
+      "Framing"
+    ],
+    "dateCreated": "04302022",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Other",
+    "year": 430
+  },
+  {
+    "_type": "project",
+    "_id": "project-20",
+    "title": "Optimum RV",
+    "categoryName": "Freelance",
+    "urlPath": "https://optimumrv.com/",
+    "imagePath": "/_images/newlyadded/optimumrv.webp",
+    "tags": [
+      "RV"
+    ],
+    "dateCreated": "04302022",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Other",
+    "year": 430
+  },
+  {
+    "_type": "project",
+    "_id": "project-21",
+    "title": "Qlik",
+    "categoryName": "Freelance",
+    "urlPath": "https://hepcatstudios.com/QlikCentral/website/index.php",
+    "imagePath": "/_images/freelance-projects/qlik.jpeg",
+    "tags": [
+      "Data"
+    ],
+    "dateCreated": "04302022",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Other",
+    "year": 430
+  },
+  {
+    "_type": "project",
+    "_id": "project-22",
+    "title": "Aida Hotel Spa",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://aidahotelspa.ch/",
+    "imagePath": "/_images/last-2years/aida.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "02012021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 201
+  },
+  {
+    "_type": "project",
+    "_id": "project-23",
+    "title": "Alpen Valley",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://alpenvalley.com/",
+    "imagePath": "/_images/last-2years/alpenvalley.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "09172019",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 917
+  },
+  {
+    "_type": "project",
+    "_id": "project-24",
+    "title": "Ascot Paris Hotel",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://ascotparishotel.com/",
+    "imagePath": "/_images/last-2years/ascot.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "09032020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 903
+  },
+  {
+    "_type": "project",
+    "_id": "project-25",
+    "title": "Grand Hotel Des Balcons",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://balcons.com/",
+    "imagePath": "/_images/last-2years/balcons.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "04032020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 403
+  },
+  {
+    "_type": "project",
+    "_id": "project-26",
+    "title": "Ballyfin",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://ballyfin.com/",
+    "imagePath": "/_images/last-2years/ballyfin.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "01202021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 120
+  },
+  {
+    "_type": "project",
+    "_id": "project-27",
+    "title": "La Bastide En Gascogne",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://bastide-gasconne.com/",
+    "imagePath": "/_images/last-2years/bastide.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "10292018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1029
+  },
+  {
+    "_type": "project",
+    "_id": "project-28",
+    "title": "Relais Bosquet Hotel",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://hotel-paris-bosquet.com/",
+    "imagePath": "/_images/last-2years/bosquet.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "01052021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 105
+  },
+  {
+    "_type": "project",
+    "_id": "project-29",
+    "title": "Le Bristol Hotel",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://hotel-bristol-reims.fr/",
+    "imagePath": "/_images/last-2years/bristol.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "09142020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 914
+  },
+  {
+    "_type": "project",
+    "_id": "project-30",
+    "title": "Bristol",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://bristol-avignon.com/",
+    "imagePath": "/_images/last-2years/bristolavignon.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "10022020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1002
+  },
+  {
+    "_type": "project",
+    "_id": "project-31",
+    "title": "Cadran Hotel",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://cadranhotel.com/",
+    "imagePath": "/_images/last-2years/cadran.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "09082020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 908
+  },
+  {
+    "_type": "project",
+    "_id": "project-32",
+    "title": "Cantu di Mare",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://cantudimare.com/",
+    "imagePath": "/_images/last-2years/cantudimare.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "10282020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1028
+  },
+  {
+    "_type": "project",
+    "_id": "project-33",
+    "title": "Hotel centre Reims",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://hotel-centre-reims.fr/",
+    "imagePath": "/_images/last-2years/centrereims.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "06292020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 629
+  },
+  {
+    "_type": "project",
+    "_id": "project-34",
+    "title": "Residence Charles Floquet",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://residence-charles-floquet.fr/",
+    "imagePath": "/_images/last-2years/charlesfloquet.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "12172021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1217
+  },
+  {
+    "_type": "project",
+    "_id": "project-35",
+    "title": "Chateau De Mercues",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://chateaudemercues.com/",
+    "imagePath": "/_images/last-2years/chateaudemercues.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "09112018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 911
+  },
+  {
+    "_type": "project",
+    "_id": "project-36",
+    "title": "Cocoon Inn",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://cocooninnhotel.com/",
+    "imagePath": "/_images/last-2years/cocooninn.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "12022020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1202
+  },
+  {
+    "_type": "project",
+    "_id": "project-37",
+    "title": "Hotel Colisee",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://hotelcolisee.paris/",
+    "imagePath": "/_images/last-2years/colisee.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "06242021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 624
+  },
+  {
+    "_type": "project",
+    "_id": "project-38",
+    "title": "Hotel Dauphine St Germain",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://dauphine-st-germain.com/",
+    "imagePath": "/_images/last-2years/dauphinestgermain.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "03052018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 305
+  },
+  {
+    "_type": "project",
+    "_id": "project-39",
+    "title": "Hotel de Suez",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://hoteldesuezparis.com/",
+    "imagePath": "/_images/last-2years/desuez.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "05232014",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 523
+  },
+  {
+    "_type": "project",
+    "_id": "project-40",
+    "title": "Hotel du Bois",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://hoteldubois.com/",
+    "imagePath": "/_images/last-2years/dubois.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "12172021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1217
+  },
+  {
+    "_type": "project",
+    "_id": "project-41",
+    "title": "duO Hotel",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://duo-paris.com/",
+    "imagePath": "/_images/last-2years/duo.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "05262021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 526
+  },
+  {
+    "_type": "project",
+    "_id": "project-42",
+    "title": "Eifel Segur",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://paris-hotel-eiffel-segur.com/",
+    "imagePath": "/_images/last-2years/eifelsegur.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "01042022",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 104
+  },
+  {
+    "_type": "project",
+    "_id": "project-43",
+    "title": "Hotel Elysees Union",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://elysees-paris-hotel.com/",
+    "imagePath": "/_images/last-2years/elyseesunion.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "12172021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1217
+  },
+  {
+    "_type": "project",
+    "_id": "project-44",
+    "title": "Folkestone Opera",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://folkestone-paris-hotel.com/",
+    "imagePath": "/_images/last-2years/folkestoneopera.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "12172021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1217
+  },
+  {
+    "_type": "project",
+    "_id": "project-45",
+    "title": "Hotel Grand Parc",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://grand-parc-hotel.com/",
+    "imagePath": "/_images/last-2years/grandparc.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "05222020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 522
+  },
+  {
+    "_type": "project",
+    "_id": "project-46",
+    "title": "Hotel Demeures Historiques",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://hotels-demeures-historiques.com/",
+    "imagePath": "/_images/last-2years/hoteldemeureshistoriques.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "12142021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1214
+  },
+  {
+    "_type": "project",
+    "_id": "project-47",
+    "title": "Ile de France",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://iledefrance-paris-hotel.com/",
+    "imagePath": "/_images/last-2years/iledefrance.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "08212020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 821
+  },
+  {
+    "_type": "project",
+    "_id": "project-48",
+    "title": "KRS Hotels",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://krshotels.com/",
+    "imagePath": "/_images/last-2years/krshotels.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "01042022",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 104
+  },
+  {
+    "_type": "project",
+    "_id": "project-49",
+    "title": "Legend Beach",
+    "categoryName": "Newly Added",
+    "urlPath": "https://legend-beach.com/",
+    "imagePath": "/_images/newlyadded/legend-beach.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-50",
+    "title": "La Mirande",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://la-mirande.fr/",
+    "imagePath": "/_images/last-2years/lamirande.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "10132020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1013
+  },
+  {
+    "_type": "project",
+    "_id": "project-51",
+    "title": "Le Mathurin Hotel & Spa",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://le-mathurin.com/",
+    "imagePath": "/_images/last-2years/lemathurin.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "02262021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 226
+  },
+  {
+    "_type": "project",
+    "_id": "project-52",
+    "title": "Le Millie Rose Hotel Paris",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://hotellemilierose.com/",
+    "imagePath": "/_images/last-2years/lemillierose.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "07152021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 715
+  },
+  {
+    "_type": "project",
+    "_id": "project-53",
+    "title": "Hotel De Lempereur",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://hotelempereurparis.com/",
+    "imagePath": "/_images/last-2years/lempereur.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "12152020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1215
+  },
+  {
+    "_type": "project",
+    "_id": "project-54",
+    "title": "Les Berges de Palombaggia",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotel-palombaggia.com/",
+    "imagePath": "/_images/last-2years/lesbergesdepalombaggia.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "2025-01-02",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-55",
+    "title": "Maison Des Ambassadeurs",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://maisondesambassadeurs.com/",
+    "imagePath": "/_images/last-2years/maisondesambassadeurs.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "07232020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 723
+  },
+  {
+    "_type": "project",
+    "_id": "project-56",
+    "title": "Maison FL",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://maisonfl.com/",
+    "imagePath": "/_images/last-2years/maisonfl.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "03092021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 309
+  },
+  {
+    "_type": "project",
+    "_id": "project-57",
+    "title": "Marguery Villas",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://marguery-villas-resort.com/",
+    "imagePath": "/_images/last-2years/margueryvillas.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "09302021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 930
+  },
+  {
+    "_type": "project",
+    "_id": "project-58",
+    "title": "Montien Hotel",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://montienbangkok.com/",
+    "imagePath": "/_images/last-2years/montienhotel.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "08252021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 825
+  },
+  {
+    "_type": "project",
+    "_id": "project-59",
+    "title": "Moulin Royale",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://moulinroyale.com/",
+    "imagePath": "/_images/last-2years/moulinroyale.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "10142021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1014
+  },
+  {
+    "_type": "project",
+    "_id": "project-60",
+    "title": "Mythic Suites",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://mythic-resort.com/",
+    "imagePath": "/_images/last-2years/mythicsuites.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "12112021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1211
+  },
+  {
+    "_type": "project",
+    "_id": "project-61",
+    "title": "Pine Cay Properties",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://pinecayproperties.com/",
+    "imagePath": "/_images/last-2years/pinecayproperties.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "06252021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 625
+  },
+  {
+    "_type": "project",
+    "_id": "project-62",
+    "title": "Hotel Prieure",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotelprieure.fr/",
+    "imagePath": "/_images/newlyadded/hotelprieure.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2023-02-23",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2023
+  },
+  {
+    "_type": "project",
+    "_id": "project-63",
+    "title": "Hotel De Re",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://hoteldere.com/",
+    "imagePath": "/_images/last-2years/re.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "02162022",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 216
+  },
+  {
+    "_type": "project",
+    "_id": "project-64",
+    "title": "Roosevelt Hotel",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://hotel-roosevelt.com/",
+    "imagePath": "/_images/last-2years/roosevelt.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "03202020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 320
+  },
+  {
+    "_type": "project",
+    "_id": "project-65",
+    "title": "Saint James Club",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://saintjamesclub.com/",
+    "imagePath": "/_images/last-2years/saintjamesclub.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "06182021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 618
+  },
+  {
+    "_type": "project",
+    "_id": "project-66",
+    "title": "7 Eiffel Hotel",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://hotel-7eiffel-paris.com/",
+    "imagePath": "/_images/last-2years/seveneiffel.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "01202022",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 120
+  },
+  {
+    "_type": "project",
+    "_id": "project-67",
+    "title": "St Delis",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://hotel-saint-delis.fr/",
+    "imagePath": "/_images/last-2years/stdelis.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "04232020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 423
+  },
+  {
+    "_type": "project",
+    "_id": "project-68",
+    "title": "St Mellion Estate",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://st-mellion.co.uk/",
+    "imagePath": "/_images/last-2years/stmellion.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "2022-08-18",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2022
+  },
+  {
+    "_type": "project",
+    "_id": "project-69",
+    "title": "Sydney Opera",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://paris-hotel-sydney.com/",
+    "imagePath": "/_images/last-2years/sydneyopera.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "09082021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 908
+  },
+  {
+    "_type": "project",
+    "_id": "project-70",
+    "title": "thousandhillsresorthotel",
+    "categoryName": "Newly Added",
+    "urlPath": "https://thousandhillsresorthotel.com/",
+    "imagePath": "/_images/newlyadded/thousandhillsresorthotel.webp",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "2024-11-21",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2024
+  },
+  {
+    "_type": "project",
+    "_id": "project-71",
+    "title": "Hotel Touraine Opera",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://hoteltouraine.com/",
+    "imagePath": "/_images/last-2years/touraineopera.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "09182020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 918
+  },
+  {
+    "_type": "project",
+    "_id": "project-72",
+    "title": "Vendome Opera Hotel",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://vendomeopera.com/",
+    "imagePath": "/_images/last-2years/vendome.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "07072021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 707
+  },
+  {
+    "_type": "project",
+    "_id": "project-73",
+    "title": "Le Versailles",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://hotel-le-versailles.fr/",
+    "imagePath": "/_images/last-2years/versailles.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "09142020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 914
+  },
+  {
+    "_type": "project",
+    "_id": "project-74",
+    "title": "Villa Abbazia",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://hotelabbazia.com/",
+    "imagePath": "/_images/last-2years/villaabbazia.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "11142019",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1114
+  },
+  {
+    "_type": "project",
+    "_id": "project-75",
+    "title": "Hotel Washington Opera",
+    "categoryName": "Last 2 years",
+    "urlPath": "https://hotelwashingtonopera.com/",
+    "imagePath": "/_images/last-2years/washington.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "12172021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1217
+  },
+  {
+    "_type": "project",
+    "_id": "project-76",
+    "title": "2L Collection",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://2lcollection.com/",
+    "imagePath": "/_images/over-2years/2lcollection.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "05202019",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 520
+  },
+  {
+    "_type": "project",
+    "_id": "project-77",
+    "title": "Residence Acro Plage",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://arcoplage.com/",
+    "imagePath": "/_images/over-2years/acroplage.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "12062019",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1206
+  },
+  {
+    "_type": "project",
+    "_id": "project-78",
+    "title": "Hotel Arcadie",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://hotelarcadie.com/",
+    "imagePath": "/_images/over-2years/arcadie.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "03292019",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 329
+  },
+  {
+    "_type": "project",
+    "_id": "project-79",
+    "title": "Atmospheres Hotel Paris",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://hotelatmospheres.com/",
+    "imagePath": "/_images/over-2years/atmospheres.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "02212020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 221
+  },
+  {
+    "_type": "project",
+    "_id": "project-80",
+    "title": "Auberge De La Source",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://auberge-de-la-source.fr/",
+    "imagePath": "/_images/over-2years/auberge.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "03222017",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 322
+  },
+  {
+    "_type": "project",
+    "_id": "project-81",
+    "title": "Auberge Du Pays Retz",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://auberge-pays-retz.fr/",
+    "imagePath": "/_images/over-2years/aubergepaysretz.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "06182020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 618
+  },
+  {
+    "_type": "project",
+    "_id": "project-82",
+    "title": "Hotel Beaurepaire",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://hotelbeaurepaire.com/",
+    "imagePath": "/_images/over-2years/beaurepaire.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "08142019",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 814
+  },
+  {
+    "_type": "project",
+    "_id": "project-83",
+    "title": "Le Bellechasse Saint Germain",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://lebellechasse.com/",
+    "imagePath": "/_images/over-2years/bellechasse.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "10312017",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1031
+  },
+  {
+    "_type": "project",
+    "_id": "project-84",
+    "title": "Benvengudo",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://benvengudo.com/",
+    "imagePath": "/_images/over-2years/benvengudo.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "03072019",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 307
+  },
+  {
+    "_type": "project",
+    "_id": "project-85",
+    "title": "Hotel Bienvenue",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://hotelbienvenue.fr/",
+    "imagePath": "/_images/over-2years/bienvenue.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "08082019",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 808
+  },
+  {
+    "_type": "project",
+    "_id": "project-86",
+    "title": "Bloomhouse Hotel Paris",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://bloomhouse-hotel.com/",
+    "imagePath": "/_images/over-2years/bloomhouse.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "10142021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1014
+  },
+  {
+    "_type": "project",
+    "_id": "project-87",
+    "title": "Brittany & Spa Hotel Restaurant Spa",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://hotel-brittany.com/",
+    "imagePath": "/_images/over-2years/brittanyspa.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "2022-03-24",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2022
+  },
+  {
+    "_type": "project",
+    "_id": "project-88",
+    "title": "Mercure Cantania Excelsior",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://excelsiorcatania.com/",
+    "imagePath": "/_images/over-2years/cantania.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "09072017",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 907
+  },
+  {
+    "_type": "project",
+    "_id": "project-89",
+    "title": "Capsis Elite Resort",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://capsis.com/",
+    "imagePath": "/_images/over-2years/capsis.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "05292018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 529
+  },
+  {
+    "_type": "project",
+    "_id": "project-90",
+    "title": "Hotel Central Saint Germain",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://hotel-paris-stgermain.com/",
+    "imagePath": "/_images/over-2years/centralsaintgermain.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "12072020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1207
+  },
+  {
+    "_type": "project",
+    "_id": "project-91",
+    "title": "Elysees Ceramic",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://ceramic-paris-hotel.com/",
+    "imagePath": "/_images/over-2years/ceramic.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "12132021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1213
+  },
+  {
+    "_type": "project",
+    "_id": "project-92",
+    "title": "Hotel Champerret Elysees",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://champerret-elysees.fr/",
+    "imagePath": "/_images/over-2years/champerret.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "03072018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 307
+  },
+  {
+    "_type": "project",
+    "_id": "project-93",
+    "title": "Chateau de Riell",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://chateauderiell.com/",
+    "imagePath": "/_images/over-2years/chateauderiell.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "2023-01-20",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2023
+  },
+  {
+    "_type": "project",
+    "_id": "project-94",
+    "title": "Hotel Clement",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://hotelclementparis.com/",
+    "imagePath": "/_images/over-2years/clement.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "05312017",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 531
+  },
+  {
+    "_type": "project",
+    "_id": "project-95",
+    "title": "Le Comptoirdu Caviar",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://lecomptoirducaviar.com/",
+    "imagePath": "/_images/over-2years/comptoirducaviar.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "07052019",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 705
+  },
+  {
+    "_type": "project",
+    "_id": "project-96",
+    "title": "Hotel De L'Etrier",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://hoteletrier.ch/",
+    "imagePath": "/_images/over-2years/deletrier.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "10172019",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1017
+  },
+  {
+    "_type": "project",
+    "_id": "project-97",
+    "title": "Hotel Donjon Vincennes",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://hotel-donjon-vincennes.fr/",
+    "imagePath": "/_images/over-2years/donjon.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "03012022",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 301
+  },
+  {
+    "_type": "project",
+    "_id": "project-98",
+    "title": "Ecrin Blanc Courchevel",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://residenceecrinblanccourchevel.com/",
+    "imagePath": "/_images/over-2years/ecrinblanc.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "12072021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1207
+  },
+  {
+    "_type": "project",
+    "_id": "project-99",
+    "title": "Elegancia Hotels",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://elegancia-hotels.com/",
+    "imagePath": "/_images/over-2years/elegancia.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "01132015",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 113
+  },
+  {
+    "_type": "project",
+    "_id": "project-100",
+    "title": "Ferme Saint Simeon",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://fermesaintsimeon.fr/",
+    "imagePath": "/_images/over-2years/fermesaint.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "11072016",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1107
+  },
+  {
+    "_type": "project",
+    "_id": "project-101",
+    "title": "Fonscolombe",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://fonscolombe.fr/",
+    "imagePath": "/_images/over-2years/fonscolombe.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "03302020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 330
+  },
+  {
+    "_type": "project",
+    "_id": "project-102",
+    "title": "French Coco Luxury Botique Hotel",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://hotelfrenchcoco.com/",
+    "imagePath": "/_images/over-2years/frenchcoco.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "08232019",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 823
+  },
+  {
+    "_type": "project",
+    "_id": "project-103",
+    "title": "Hotel Henry IV",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://henri-paris-hotel.com/",
+    "imagePath": "/_images/over-2years/henriiv.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "06232017",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 623
+  },
+  {
+    "_type": "project",
+    "_id": "project-104",
+    "title": "Hotel Hermitage",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://hotelhermitage.com/",
+    "imagePath": "/_images/over-2years/hermitage.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "06042020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 604
+  },
+  {
+    "_type": "project",
+    "_id": "project-105",
+    "title": "Hotel Emile",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://hotelemile.com/",
+    "imagePath": "/_images/over-2years/hotelemile.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "11092017",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1109
+  },
+  {
+    "_type": "project",
+    "_id": "project-106",
+    "title": "Le Jardin des Douars",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://jardindesdouars.com/",
+    "imagePath": "/_images/over-2years/jardindesdouars.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "10102019",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1010
+  },
+  {
+    "_type": "project",
+    "_id": "project-107",
+    "title": "La Maison Champs Elysees",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://lamaisonchampselysees.com/",
+    "imagePath": "/_images/over-2years/lamaisonchamps.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "09272017",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 927
+  },
+  {
+    "_type": "project",
+    "_id": "project-108",
+    "title": "Hotel Lautrec Opera",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://paris-hotel-lautrec.com/",
+    "imagePath": "/_images/over-2years/lautrecopera.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "01242017",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 124
+  },
+  {
+    "_type": "project",
+    "_id": "project-109",
+    "title": "Hotel Le Lavoisier",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://hotellavoisier.com/",
+    "imagePath": "/_images/over-2years/lelavoisier.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "07292015",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 729
+  },
+  {
+    "_type": "project",
+    "_id": "project-110",
+    "title": "Le M St Germain",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://hotel-paris-stgermain.com/",
+    "imagePath": "/_images/over-2years/lem.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "12072020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1207
+  },
+  {
+    "_type": "project",
+    "_id": "project-111",
+    "title": "Hotel Les Deux Gares",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://hoteldeuxgares.com/",
+    "imagePath": "/_images/over-2years/lesdeuxgares.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "06182020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 618
+  },
+  {
+    "_type": "project",
+    "_id": "project-112",
+    "title": "L'Imprimerie Hotel",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://limprimeriehotel.com/",
+    "imagePath": "/_images/over-2years/limprimerie.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "07212017",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 721
+  },
+  {
+    "_type": "project",
+    "_id": "project-113",
+    "title": "Hotel Londra Palace",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://londrapalace.com/",
+    "imagePath": "/_images/over-2years/londrapalace.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "01292019",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 129
+  },
+  {
+    "_type": "project",
+    "_id": "project-114",
+    "title": "Hotel Longchamp Elysees",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://paris-hotel-longchamp.com/",
+    "imagePath": "/_images/over-2years/longchamp.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "03082015",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 308
+  },
+  {
+    "_type": "project",
+    "_id": "project-115",
+    "title": "Malcom & Barret Hotel and Bar",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://hotelmalcomandbarret.com/",
+    "imagePath": "/_images/over-2years/malcombarret.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "01112018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 111
+  },
+  {
+    "_type": "project",
+    "_id": "project-116",
+    "title": "Manoir de Lan Kerellec",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://lankerellec.com/",
+    "imagePath": "/_images/over-2years/manoirdelankerellec.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "06192018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 619
+  },
+  {
+    "_type": "project",
+    "_id": "project-117",
+    "title": "Marceau Champs-Elysees",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://hotelmarceau.com/",
+    "imagePath": "/_images/over-2years/marceau.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "03202019",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 320
+  },
+  {
+    "_type": "project",
+    "_id": "project-118",
+    "title": "Hotel Maubeuge",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://paris-hotel-maubeuge.com/",
+    "imagePath": "/_images/over-2years/maubeuge.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "10122018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1012
+  },
+  {
+    "_type": "project",
+    "_id": "project-119",
+    "title": "Mercure",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://mercurelasorbonne.com/",
+    "imagePath": "/_images/over-2years/mercure.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "10232015",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1023
+  },
+  {
+    "_type": "project",
+    "_id": "project-120",
+    "title": "Hotel Mermoz",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://hotel-mermoz.fr/",
+    "imagePath": "/_images/over-2years/mermoz.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "08242015",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 824
+  },
+  {
+    "_type": "project",
+    "_id": "project-121",
+    "title": "Montleuri Paris",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://paris-hotel-montfleuri.com/",
+    "imagePath": "/_images/over-2years/montleuri.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "11172021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1117
+  },
+  {
+    "_type": "project",
+    "_id": "project-122",
+    "title": "Hotel Opera D'Antin",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://parishoteloperadantin.com/",
+    "imagePath": "/_images/over-2years/operadantin.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "01112019",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 111
+  },
+  {
+    "_type": "project",
+    "_id": "project-123",
+    "title": "Hotel Opera Lafayette",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://hoteloperalafayette.com/",
+    "imagePath": "/_images/over-2years/operalafayette.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "12262019",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1226
+  },
+  {
+    "_type": "project",
+    "_id": "project-124",
+    "title": "The Palm Seychelles",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://thepalmseychelles.com/",
+    "imagePath": "/_images/over-2years/palmseychelles.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "06242015",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 624
+  },
+  {
+    "_type": "project",
+    "_id": "project-125",
+    "title": "Hotel Panache",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://hotelpanache.com/",
+    "imagePath": "/_images/over-2years/panache.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "2022-03-17",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2022
+  },
+  {
+    "_type": "project",
+    "_id": "project-126",
+    "title": "Paris Art Hotel",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://hotelartparis.com/",
+    "imagePath": "/_images/over-2years/parisarthotel.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "05112021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 511
+  },
+  {
+    "_type": "project",
+    "_id": "project-127",
+    "title": "Pas de l'Ours",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://pasdelours.ch/",
+    "imagePath": "/_images/over-2years/pasdelours.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "11152018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1115
+  },
+  {
+    "_type": "project",
+    "_id": "project-128",
+    "title": "Hotel Pastel Paris",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://hotelpastelparis.com/",
+    "imagePath": "/_images/over-2years/pastel.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "04302022",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 430
+  },
+  {
+    "_type": "project",
+    "_id": "project-129",
+    "title": "Le Petit Coq Aux Champs",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://lepetitcoqauxchamps.fr/",
+    "imagePath": "/_images/over-2years/petitcoq.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "01122017",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 112
+  },
+  {
+    "_type": "project",
+    "_id": "project-130",
+    "title": "Privilege Toulouse",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://privilegetoulouse.com/",
+    "imagePath": "/_images/over-2years/priveilege.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "10272015",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1027
+  },
+  {
+    "_type": "project",
+    "_id": "project-131",
+    "title": "Quay Perth",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://quayperth.com/",
+    "imagePath": "/_images/over-2years/quay.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "03122017",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 312
+  },
+  {
+    "_type": "project",
+    "_id": "project-132",
+    "title": "Relais Christine",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://relais-christine.com/",
+    "imagePath": "/_images/over-2years/relaischristine.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "2022-06-20",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2022
+  },
+  {
+    "_type": "project",
+    "_id": "project-133",
+    "title": "Riad Fes",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://riadfes.com/",
+    "imagePath": "/_images/over-2years/riadfes.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "07302020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 730
+  },
+  {
+    "_type": "project",
+    "_id": "project-134",
+    "title": "Safari Tours",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://burgundy-tourism-safaritours.com/",
+    "imagePath": "/_images/over-2years/safaritours.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "06272015",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 627
+  },
+  {
+    "_type": "project",
+    "_id": "project-135",
+    "title": "Le Saint Hotel Paris",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://lesainthotelparis.com/",
+    "imagePath": "/_images/over-2years/saint.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "04222016",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 422
+  },
+  {
+    "_type": "project",
+    "_id": "project-136",
+    "title": "Chateau de Sainte Feyre",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://chateaudesaintefeyre.com/",
+    "imagePath": "/_images/over-2years/saintefeyre.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "04302022",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 430
+  },
+  {
+    "_type": "project",
+    "_id": "project-137",
+    "title": "Hotel Saintgregoire",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://paris-hotel-saintgregoire.com/",
+    "imagePath": "/_images/over-2years/saintgregoire.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "08282017",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 828
+  },
+  {
+    "_type": "project",
+    "_id": "project-138",
+    "title": "Select Hotel",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://selecthotel.fr/",
+    "imagePath": "/_images/over-2years/select.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "05082020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 508
+  },
+  {
+    "_type": "project",
+    "_id": "project-139",
+    "title": "Serge Vieira",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://sergevieira.com/",
+    "imagePath": "/_images/over-2years/sergevieira.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "01072019",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 107
+  },
+  {
+    "_type": "project",
+    "_id": "project-140",
+    "title": "Pomeroy Hotel",
+    "categoryName": "Newly Added",
+    "urlPath": "https://pomeroyhotel.com/",
+    "imagePath": "/_images/newlyadded/pomeroyhotel.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2024-10-02",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2024
+  },
+  {
+    "_type": "project",
+    "_id": "project-141",
+    "title": "Louis St Elias Resort",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://steliasresort.com/",
+    "imagePath": "/_images/over-2years/stelias.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "12112015",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1211
+  },
+  {
+    "_type": "project",
+    "_id": "project-142",
+    "title": "Suit Case Best Western",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://hotel-suitcase-paris-la-defense.com/",
+    "imagePath": "/_images/over-2years/suitcase.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "11302018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1130
+  },
+  {
+    "_type": "project",
+    "_id": "project-143",
+    "title": "The Suncliff Seafront Hotel by Oceana",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://suncliff.oceana-collection.com/",
+    "imagePath": "/_images/over-2years/suncliff.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "02232017",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 223
+  },
+  {
+    "_type": "project",
+    "_id": "project-144",
+    "title": "Maisons Taillevent Paris",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://taillevent.com/",
+    "imagePath": "/_images/over-2years/taillevent.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "07172018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 717
+  },
+  {
+    "_type": "project",
+    "_id": "project-145",
+    "title": "Ter Elst",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://terelst.be/",
+    "imagePath": "/_images/over-2years/terelst.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "02192019",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 219
+  },
+  {
+    "_type": "project",
+    "_id": "project-147",
+    "title": "Hotel Victor Hugo",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://victorhugohotel.com/",
+    "imagePath": "/_images/over-2years/victorhugo.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "09042019",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 904
+  },
+  {
+    "_type": "project",
+    "_id": "project-148",
+    "title": "Villa Des Orangers",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://villadesorangers.com/",
+    "imagePath": "/_images/over-2years/villadesorangers.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "12122018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1212
+  },
+  {
+    "_type": "project",
+    "_id": "project-149",
+    "title": "Villas Le Barone",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://villalebarone.com/",
+    "imagePath": "/_images/over-2years/villaslebarone.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "12262017",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1226
+  },
+  {
+    "_type": "project",
+    "_id": "project-150",
+    "title": "Vintage Hotel",
+    "categoryName": "Over 2 years ago",
+    "urlPath": "https://vintagehotel.be/",
+    "imagePath": "/_images/over-2years/vintage.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "01032018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 103
+  },
+  {
+    "_type": "project",
+    "_id": "project-151",
+    "title": "Dun Parque Alentejo Star Hotel",
+    "categoryName": "Duna Park",
+    "urlPath": "https://alentejostarhotel.com/",
+    "imagePath": "/_images/dun-parque/alentejo.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "03062017",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 306
+  },
+  {
+    "_type": "project",
+    "_id": "project-152",
+    "title": "Duna Park Beach Club",
+    "categoryName": "Duna Park",
+    "urlPath": "https://dunaparque.com/",
+    "imagePath": "/_images/dun-parque/dunaparquebeach.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "04122017",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 412
+  },
+  {
+    "_type": "project",
+    "_id": "project-153",
+    "title": "Duna Park HS Milfontes Beach",
+    "categoryName": "Duna Park",
+    "urlPath": "https://hsmilfontesbeach.com/",
+    "imagePath": "/_images/dun-parque/hsmilfontesbeach.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "03062017",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 306
+  },
+  {
+    "_type": "project",
+    "_id": "project-154",
+    "title": "Duna Park Milfontes",
+    "categoryName": "Duna Park",
+    "urlPath": "https://milfontesprivatehomes.com/",
+    "imagePath": "/_images/dun-parque/milfontes.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "02022018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 202
+  },
+  {
+    "_type": "project",
+    "_id": "project-155",
+    "title": "Duna Park Mimi",
+    "categoryName": "Duna Park",
+    "urlPath": "https://villasdunaparquegroup.com/",
+    "imagePath": "/_images/dun-parque/mimi.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "03062017",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 306
+  },
+  {
+    "_type": "project",
+    "_id": "project-156",
+    "title": "Duna Park Moinho Da Asneira",
+    "categoryName": "Duna Park",
+    "urlPath": "https://moinhodaasneira.com/",
+    "imagePath": "/_images/dun-parque/moinho.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "03062017",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 306
+  },
+  {
+    "_type": "project",
+    "_id": "project-157",
+    "title": "Duna Park Quinta Da Samoqueirinha",
+    "categoryName": "Duna Park",
+    "urlPath": "https://quintadasamoqueirinha.com/",
+    "imagePath": "/_images/dun-parque/quinta.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "03062017",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 306
+  },
+  {
+    "_type": "project",
+    "_id": "project-158",
+    "title": "Duna Park Unique Apartments",
+    "categoryName": "Duna Park",
+    "urlPath": "https://uniqueapartmentsdunaparquegroup.com/",
+    "imagePath": "/_images/dun-parque/uniqueapartments.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "03062017",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 306
+  },
+  {
+    "_type": "project",
+    "_id": "project-159",
+    "title": "Bob Hotel Paris",
+    "categoryName": "Elegancia",
+    "urlPath": "https://bobhotelparis.com/",
+    "imagePath": "/_images/elegancia/bob.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "04032018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 403
+  },
+  {
+    "_type": "project",
+    "_id": "project-160",
+    "title": "La Comtesse",
+    "categoryName": "Elegancia",
+    "urlPath": "https://comtesse-hotel.com/",
+    "imagePath": "/_images/elegancia/comtesse.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "04152018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 415
+  },
+  {
+    "_type": "project",
+    "_id": "project-161",
+    "title": "Hotel Crayon",
+    "categoryName": "Elegancia",
+    "urlPath": "https://hotelcrayon.com/",
+    "imagePath": "/_images/elegancia/crayon.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "04032018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 403
+  },
+  {
+    "_type": "project",
+    "_id": "project-162",
+    "title": "Hotel Crayon Rouge",
+    "categoryName": "Elegancia",
+    "urlPath": "https://hotelcrayonrouge.com/",
+    "imagePath": "/_images/elegancia/crayonrouge.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "04032018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 403
+  },
+  {
+    "_type": "project",
+    "_id": "project-163",
+    "title": "Dandy Hotel Paris",
+    "categoryName": "Elegancia",
+    "urlPath": "https://dandyhotelparis.com/",
+    "imagePath": "/_images/elegancia/dandy.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "07272021",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 727
+  },
+  {
+    "_type": "project",
+    "_id": "project-164",
+    "title": "Hotel Exquis Paris",
+    "categoryName": "Elegancia",
+    "urlPath": "https://hotelexquisparis.com/",
+    "imagePath": "/_images/elegancia/exquis.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "04152018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 415
+  },
+  {
+    "_type": "project",
+    "_id": "project-165",
+    "title": "Hotel Felicien Paris",
+    "categoryName": "Elegancia",
+    "urlPath": "https://hotelfelicienparis.com/",
+    "imagePath": "/_images/elegancia/felicien.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "04152018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 415
+  },
+  {
+    "_type": "project",
+    "_id": "project-166",
+    "title": "Handsome Hotel paris",
+    "categoryName": "Elegancia",
+    "urlPath": "https://handsomehotelparis.com/",
+    "imagePath": "/_images/elegancia/handsome.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "04152018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 415
+  },
+  {
+    "_type": "project",
+    "_id": "project-167",
+    "title": "Legend Hotel Paris",
+    "categoryName": "Elegancia",
+    "urlPath": "https://legendhotelparis.com/",
+    "imagePath": "/_images/elegancia/legend.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "04032018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 403
+  },
+  {
+    "_type": "project",
+    "_id": "project-168",
+    "title": "Hotel Odyssey Paris",
+    "categoryName": "Elegancia",
+    "urlPath": "https://hotelodysseyparis.com/",
+    "imagePath": "/_images/elegancia/odyssey.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "04032018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 403
+  },
+  {
+    "_type": "project",
+    "_id": "project-169",
+    "title": "Off Paris Siene",
+    "categoryName": "Elegancia",
+    "urlPath": "https://offparisseine.com/",
+    "imagePath": "/_images/elegancia/off.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "04272018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 427
+  },
+  {
+    "_type": "project",
+    "_id": "project-170",
+    "title": "Hotel La Parizienne",
+    "categoryName": "Elegancia",
+    "urlPath": "https://hotel-laparizienne.com/",
+    "imagePath": "/_images/elegancia/parizienne.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "04152018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 415
+  },
+  {
+    "_type": "project",
+    "_id": "project-171",
+    "title": "Hotel Petit Paris",
+    "categoryName": "Elegancia",
+    "urlPath": "https://hotelpetitparis.com/",
+    "imagePath": "/_images/elegancia/petitparis.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "05102018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 510
+  },
+  {
+    "_type": "project",
+    "_id": "project-172",
+    "title": "Hotel paris Richmond",
+    "categoryName": "Elegancia",
+    "urlPath": "https://hotelparisrichmond.com/",
+    "imagePath": "/_images/elegancia/richmond.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "09222020",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 922
+  },
+  {
+    "_type": "project",
+    "_id": "project-173",
+    "title": "Snob Hotel Paris",
+    "categoryName": "Elegancia",
+    "urlPath": "https://snobhotelparis.com/",
+    "imagePath": "/_images/elegancia/snob.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "02012018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 201
+  },
+  {
+    "_type": "project",
+    "_id": "project-174",
+    "title": "Villathena",
+    "categoryName": "Elegancia",
+    "urlPath": "https://villathena.com/",
+    "imagePath": "/_images/elegancia/villathena.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "01262018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 126
+  },
+  {
+    "_type": "project",
+    "_id": "project-175",
+    "title": "Aria Hotel Budapest",
+    "categoryName": "Library",
+    "urlPath": "https://ariahotelbudapest.com/",
+    "imagePath": "/_images/library/aria.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "03222018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 322
+  },
+  {
+    "_type": "project",
+    "_id": "project-176",
+    "title": "Casablanca Hotel",
+    "categoryName": "Library",
+    "urlPath": "https://casablancahotel.com/",
+    "imagePath": "/_images/library/casablanca.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "02142018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 214
+  },
+  {
+    "_type": "project",
+    "_id": "project-177",
+    "title": "Elysee Hotel",
+    "categoryName": "Library",
+    "urlPath": "https://elyseehotel.com/",
+    "imagePath": "/_images/library/elysee.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "02142018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 214
+  },
+  {
+    "_type": "project",
+    "_id": "project-178",
+    "title": "Hotel Giraffe",
+    "categoryName": "Library",
+    "urlPath": "https://hotelgiraffe.com/",
+    "imagePath": "/_images/library/giraffe.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "02142018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 214
+  },
+  {
+    "_type": "project",
+    "_id": "project-179",
+    "title": "Harmony Spa Budapest",
+    "categoryName": "Library",
+    "urlPath": "https://harmonyspabudapest.com/",
+    "imagePath": "/_images/library/harmonyspa.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "06132018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 613
+  },
+  {
+    "_type": "project",
+    "_id": "project-180",
+    "title": "Hotel X Toronto",
+    "categoryName": "Library",
+    "urlPath": "https://hotelxtoronto.com/",
+    "imagePath": "/_images/library/hotelxtoronto.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "04172018",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 417
+  },
+  {
+    "_type": "project",
+    "_id": "project-181",
+    "title": "Library Hotel",
+    "categoryName": "Library",
+    "urlPath": "https://libraryhotel.com/",
+    "imagePath": "/_images/library/library.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "11202017",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 1120
+  },
+  {
+    "_type": "project",
+    "_id": "project-182",
+    "title": "Louis IVI Mare",
+    "categoryName": "Louis",
+    "urlPath": "https://theivimare.com/",
+    "imagePath": "/_images/louis/ivimare.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "03272019",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 327
+  },
+  {
+    "_type": "project",
+    "_id": "project-183",
+    "title": "King Jason Paphos",
+    "categoryName": "Louis",
+    "urlPath": "https://thekingjasonpaphos.com/",
+    "imagePath": "/_images/louis/kingjasonpaphos.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "03292019",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 329
+  },
+  {
+    "_type": "project",
+    "_id": "project-184",
+    "title": "King Jason Protaras",
+    "categoryName": "Louis",
+    "urlPath": "https://thekingjasonprotaras.com/",
+    "imagePath": "/_images/louis/kingjasonprotaras.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "03272019",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 327
+  },
+  {
+    "_type": "project",
+    "_id": "project-185",
+    "title": "The Royal Apollonia",
+    "categoryName": "Louis",
+    "urlPath": "https://theroyalapollonia.com/",
+    "imagePath": "/_images/louis/royalapollonia.jpeg",
+    "tags": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "dateCreated": "01172019",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 117
+  },
+  {
+    "_type": "project",
+    "_id": "project-186",
+    "title": "1er etage",
+    "categoryName": "Newly Added",
+    "urlPath": "https://1eretage.com/",
+    "imagePath": "/_images/newlyadded/1eretage.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-186",
+    "title": "Abbaye de la Bussiere",
+    "categoryName": "Newly Added",
+    "urlPath": "https://abbayedelabussiere.fr/",
+    "imagePath": "/_images/newlyadded/abbayedelabussiere.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2024-06-24",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2024
+  },
+  {
+    "_type": "project",
+    "_id": "project-187",
+    "title": "Academie Hotel",
+    "categoryName": "Newly Added",
+    "urlPath": "https://academie-hotel.com/",
+    "imagePath": "/_images/newlyadded/academie-hotel.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2024-04-03",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2024
+  },
+  {
+    "_type": "project",
+    "_id": "project-188",
+    "title": "Akan Collection",
+    "categoryName": "Newly Added",
+    "urlPath": "https://akancollection.com/",
+    "imagePath": "/_images/newlyadded/akancollection.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2025-06-12",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-189",
+    "title": "Alma Hotel",
+    "categoryName": "Newly Added",
+    "urlPath": "https://almahotel.fr/",
+    "imagePath": "/_images/newlyadded/almahotel.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-190",
+    "title": "Altai Courchevel",
+    "categoryName": "Newly Added",
+    "urlPath": "https://altai-courchevel.com/",
+    "imagePath": "/_images/newlyadded/altai-courchevel.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-191",
+    "title": "Ares Paris Hotel",
+    "categoryName": "Newly Added",
+    "urlPath": "https://ares-paris-hotel.com/",
+    "imagePath": "/_images/newlyadded/ares-paris-hotel.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2023-03-28",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2023
+  },
+  {
+    "_type": "project",
+    "_id": "project-192",
+    "title": "Brasserie Leschenapans",
+    "categoryName": "Newly Added",
+    "urlPath": "https://brasserie-leschenapans.com/fr/",
+    "imagePath": "/_images/newlyadded/brasserie-leschenapans.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-193",
+    "title": "Campings Liberte",
+    "categoryName": "Newly Added",
+    "urlPath": "https://campingsliberte.com/",
+    "imagePath": "/_images/newlyadded/campingsliberte.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2023-12-19",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2023
+  },
+  {
+    "_type": "project",
+    "_id": "project-194",
+    "title": "Cendyn Website",
+    "categoryName": "Newly Added",
+    "urlPath": "https://cendyn-website.com/",
+    "imagePath": "/_images/newlyadded/cendyn-website.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2024-08-05",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2024
+  },
+  {
+    "_type": "project",
+    "_id": "project-195",
+    "title": "Chateau Apigne",
+    "categoryName": "Newly Added",
+    "urlPath": "https://chateau-apigne.fr/",
+    "imagePath": "/_images/newlyadded/chateau-apigne.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2023-08-23",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2023
+  },
+  {
+    "_type": "project",
+    "_id": "project-196",
+    "title": "Chateau des Avenieres",
+    "categoryName": "Newly Added",
+    "urlPath": "https://chateau-des-avenieres.com/",
+    "imagePath": "/_images/newlyadded/chateau-des-avenieres.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2024-07-08",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2024
+  },
+  {
+    "_type": "project",
+    "_id": "project-198",
+    "title": "Chateaula Commaraine",
+    "categoryName": "Newly Added",
+    "urlPath": "https://chateaulacommaraine.com/",
+    "imagePath": "/_images/newlyadded/chateaulacommaraine.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2024-05-29",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2024
+  },
+  {
+    "_type": "project",
+    "_id": "project-199",
+    "title": "Collection Vesper",
+    "categoryName": "Newly Added",
+    "urlPath": "https://collectionvesper.com/",
+    "imagePath": "/_images/newlyadded/collectionvesper.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2024-04-23",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2024
+  },
+  {
+    "_type": "project",
+    "_id": "project-200",
+    "title": "College Hotel",
+    "categoryName": "Newly Added",
+    "urlPath": "https://college-hotel.com/",
+    "imagePath": "/_images/newlyadded/college-hotel.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-201",
+    "title": "Drouant",
+    "categoryName": "Newly Added",
+    "urlPath": "https://drouant.com/",
+    "imagePath": "/_images/newlyadded/drouant.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2022-07-13",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2022
+  },
+  {
+    "_type": "project",
+    "_id": "project-201",
+    "title": "Elsa Hotel Paris",
+    "categoryName": "Newly Added",
+    "urlPath": "https://elsa-hotel-paris.com/",
+    "imagePath": "/_images/newlyadded/elsa-hotel-paris.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2024-03-24",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2024
+  },
+  {
+    "_type": "project",
+    "_id": "project-202",
+    "title": "Elysees Union Apartments",
+    "categoryName": "Newly Added",
+    "urlPath": "https://elyseesunionapartments.com/",
+    "imagePath": "/_images/newlyadded/elyseesunionapartments.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-203",
+    "title": "Fourviere Hotel",
+    "categoryName": "Newly Added",
+    "urlPath": "https://fourviere-hotel.com/",
+    "imagePath": "/_images/newlyadded/fourviere-hotel.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2023-05-17",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2023
+  },
+  {
+    "_type": "project",
+    "_id": "project-204",
+    "title": "Gardinier",
+    "categoryName": "Newly Added",
+    "urlPath": "https://gardinier.com/",
+    "imagePath": "/_images/newlyadded/gardinier.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2023-03-15",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2023
+  },
+  {
+    "_type": "project",
+    "_id": "project-205",
+    "title": "Grand Barrail",
+    "categoryName": "Newly Added",
+    "urlPath": "https://grand-barrail.com/",
+    "imagePath": "/_images/newlyadded/grand-barrail.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2024-01-29",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2024
+  },
+  {
+    "_type": "project",
+    "_id": "project-206",
+    "title": "Hostellerie Du Lys",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hostelleriedulys.com/",
+    "imagePath": "/_images/newlyadded/hostelleriedulys.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-207",
+    "title": "Le Bois Joli",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotel-bois-joli.fr/",
+    "imagePath": "/_images/newlyadded/hotel-bois-joli.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2022-10-24",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2022
+  },
+  {
+    "_type": "project",
+    "_id": "project-208",
+    "title": "Hotel Grichting",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotel-grichting.com/",
+    "imagePath": "/_images/newlyadded/hotel-grichting.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2022-08-12",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2022
+  },
+  {
+    "_type": "project",
+    "_id": "project-209",
+    "title": "Hotel Moliere",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotel-moliere.fr/",
+    "imagePath": "/_images/newlyadded/hotel-moliere.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2023-02-14",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2023
+  },
+  {
+    "_type": "project",
+    "_id": "project-210",
+    "title": "The Wall Street Inn",
+    "categoryName": "Newly Added",
+    "urlPath": "https://thewallstreetinn.com//",
+    "imagePath": "",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-211",
+    "title": "Hotel Parc Montsouris",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotel-parc-montsouris.com/",
+    "imagePath": "/_images/newlyadded/hotel-parc-montsouris.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-212",
+    "title": "Hotel Paris Petitlouvre",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotel-paris-petitlouvre.com/",
+    "imagePath": "/_images/newlyadded/hotel-paris-petitlouvre.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-213",
+    "title": "Hotel Paris Printemps",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotel-paris-printemps.com/",
+    "imagePath": "/_images/newlyadded/hotel-paris-printemps.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-214",
+    "title": "Hotel WYLD Saint Germain",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotel-paris-stgermain.com/",
+    "imagePath": "/_images/newlyadded/hotel-paris-stgermain.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-215",
+    "title": "Hotel Pont Royal",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotel-pont-royal.com/",
+    "imagePath": "/_images/newlyadded/hotel-pont-royal.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2023-04-27",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2023
+  },
+  {
+    "_type": "project",
+    "_id": "project-215",
+    "title": "Hotel Rosalie",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotel-rosalie.com/",
+    "imagePath": "/_images/newlyadded/hotel-rosalie.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2024-03-04",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2024
+  },
+  {
+    "_type": "project",
+    "_id": "project-216",
+    "title": "Hotel Royal St Honore",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotel-royal-st-honore.com/",
+    "imagePath": "/_images/newlyadded/hotel-royal-st-honore.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-217",
+    "title": "Hotel Beauregard",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotelbeauregard.fr/",
+    "imagePath": "/_images/newlyadded/hotelbeauregard.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-218",
+    "title": "Hotel Central Saint Germain",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotelcentralsaintgermain.fr/",
+    "imagePath": "/_images/newlyadded/hotelcentralsaintgermain.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2019-11-27",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2019
+  },
+  {
+    "_type": "project",
+    "_id": "project-219",
+    "title": "Hotel Charlemagne",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotelcharlemagne.com/",
+    "imagePath": "/_images/newlyadded/hotelcharlemagne.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2024-03-04",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2024
+  },
+  {
+    "_type": "project",
+    "_id": "project-220",
+    "title": "Hotel Chateaudeau",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotelchateaudeau.com/",
+    "imagePath": "/_images/newlyadded/hotelchateaudeau.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-221",
+    "title": "Hotel de la Boetie",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hoteldelaboetie.com/",
+    "imagePath": "/_images/newlyadded/hoteldelaboetie.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-222",
+    "title": "Hotel Des Dunes",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hoteldesdunes.com/",
+    "imagePath": "/_images/newlyadded/hoteldesdunes.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2023-04-12",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2023
+  },
+  {
+    "_type": "project",
+    "_id": "project-223",
+    "title": "Hotel Edouard 6",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hoteledouard6.com/",
+    "imagePath": "/_images/newlyadded/hoteledouard6.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-224",
+    "title": "Hotel Epoque",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotelepoque.ro/",
+    "imagePath": "/_images/newlyadded/hotelepoque.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2023-10-17",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2023
+  },
+  {
+    "_type": "project",
+    "_id": "project-225",
+    "title": "Hotel Florida Paris",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotelfloridaparis.com/",
+    "imagePath": "/_images/newlyadded/hotelfloridaparis.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2023-08-10",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2023
+  },
+  {
+    "_type": "project",
+    "_id": "project-226",
+    "title": "Hotel le Doge",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotelledoge.com/",
+    "imagePath": "/_images/newlyadded/hotelledoge.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2023-06-28",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2023
+  },
+  {
+    "_type": "project",
+    "_id": "project-227",
+    "title": "Hotel M Merignac",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotelm-merignac.com/",
+    "imagePath": "/_images/newlyadded/hotelm-merignac.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2022-06-28",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2022
+  },
+  {
+    "_type": "project",
+    "_id": "project-228",
+    "title": "Hotel Monge",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotelmonge.com/",
+    "imagePath": "/_images/newlyadded/hotelmonge.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2022-07-06",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2022
+  },
+  {
+    "_type": "project",
+    "_id": "project-229",
+    "title": "Hotel Norman",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotelnorman.com/",
+    "imagePath": "/_images/newlyadded/hotelnorman.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2023-07-25",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2023
+  },
+  {
+    "_type": "project",
+    "_id": "project-230",
+    "title": "Hotel Paris Muguet",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotelparismuguet.com/",
+    "imagePath": "/_images/newlyadded/hotelparismuguet.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2023-11-09",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2023
+  },
+  {
+    "_type": "project",
+    "_id": "project-231",
+    "title": "Hotels Demeures Historiques",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotels-demeures-historiques.com/",
+    "imagePath": "/_images/newlyadded/hotels-demeures-historiques.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2025-01-18",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-232",
+    "title": "Hotel Sparis Versailles",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotelsparisversailles.com/",
+    "imagePath": "/_images/newlyadded/hotelsparisversailles.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-233",
+    "title": "Hotel Waldorf",
+    "categoryName": "Newly Added",
+    "urlPath": "https://hotelwaldorf.fr/",
+    "imagePath": "/_images/newlyadded/hotelwaldorf.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-234",
+    "title": "Ivi Mare Paphos",
+    "categoryName": "Newly Added",
+    "urlPath": "https://ivimarepaphos.com/",
+    "imagePath": "/_images/newlyadded/ivimarepaphos.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-235",
+    "title": "Welfi Hospitality",
+    "categoryName": "Newly Added",
+    "urlPath": "https://welfihospitality.com/",
+    "imagePath": "/_images/newlyadded/welfihospitality.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-236",
+    "title": "Valdiski",
+    "categoryName": "Newly Added",
+    "urlPath": "https://valdiski.com/",
+    "imagePath": "/_images/newlyadded/valdiski.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2023-06-23",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2023
+  },
+  {
+    "_type": "project",
+    "_id": "project-237",
+    "title": "Tortiniere",
+    "categoryName": "Newly Added",
+    "urlPath": "https://tortiniere.fr/",
+    "imagePath": "/_images/newlyadded/tortiniere.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2025-03-04",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-238",
+    "title": "Tobira",
+    "categoryName": "Newly Added",
+    "urlPath": "https://tobira.co.jp/en/myojinkan.html",
+    "imagePath": "/_images/newlyadded/tobira.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2019-02-22",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2019
+  },
+  {
+    "_type": "project",
+    "_id": "project-239",
+    "title": "The Augustin",
+    "categoryName": "Newly Added",
+    "urlPath": "https://theaugustin.com/",
+    "imagePath": "/_images/newlyadded/theaugustin.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-240",
+    "title": "Relais Du Moulin",
+    "categoryName": "Newly Added",
+    "urlPath": "https://relaisdumoulin.com/",
+    "imagePath": "/_images/newlyadded/relaisdumoulin.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-241",
+    "title": "Pecora Negra",
+    "categoryName": "Newly Added",
+    "urlPath": "https://pecoranegra.fr/",
+    "imagePath": "/_images/newlyadded/pecoranegra.webp",
+    "tags": [
+      "Restaurant"
+    ],
+    "dateCreated": "2024-07-02",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Restaurant",
+    "year": 2024
+  },
+  {
+    "_type": "project",
+    "_id": "project-242",
+    "title": "Paris Hotel Yllen Eiffel",
+    "categoryName": "Newly Added",
+    "urlPath": "https://paris-hotel-yllen-eiffel.com/",
+    "imagePath": "/_images/newlyadded/paris-hotel-yllen-eiffel.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-243",
+    "title": "Paris Hotel Lion",
+    "categoryName": "Newly Added",
+    "urlPath": "https://paris-hotel-lion.com/",
+    "imagePath": "/_images/newlyadded/paris-hotel-lion.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2022-09-26",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2022
+  },
+  {
+    "_type": "project",
+    "_id": "project-244",
+    "title": "Odeon Hotel",
+    "categoryName": "Newly Added",
+    "urlPath": "https://odeonhotel.fr/",
+    "imagePath": "/_images/newlyadded/odeonhotel.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-245",
+    "title": "My Home in Paris",
+    "categoryName": "Newly Added",
+    "urlPath": "https://myhomeinparis.fr/",
+    "imagePath": "/_images/newlyadded/myhomeinparis.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-246",
+    "title": "Moulin Plaza",
+    "categoryName": "Newly Added",
+    "urlPath": "https://moulinplaza.com/",
+    "imagePath": "/_images/newlyadded/moulinplaza.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-247",
+    "title": "Malone Hotels",
+    "categoryName": "Newly Added",
+    "urlPath": "https://malonehotels.com/",
+    "imagePath": "/_images/newlyadded/malonehotels.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2023-05-31",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2023
+  },
+  {
+    "_type": "project",
+    "_id": "project-248",
+    "title": "Makass Appart Hotel",
+    "categoryName": "Newly Added",
+    "urlPath": "https://makassapparthotel.com/",
+    "imagePath": "/_images/newlyadded/makassapparthotel.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2024-01-04",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2024
+  },
+  {
+    "_type": "project",
+    "_id": "project-249",
+    "title": "Maison Heler Metz",
+    "categoryName": "Newly Added",
+    "urlPath": "https://maisonhelermetz.com/",
+    "imagePath": "/_images/newlyadded/maisonhelermetz.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2024-12-04",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2024
+  },
+  {
+    "_type": "project",
+    "_id": "project-250",
+    "title": "Maison des Armateurs",
+    "categoryName": "Newly Added",
+    "urlPath": "https://maisondesarmateurs.com/",
+    "imagePath": "/_images/newlyadded/maisondesarmateurs.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2025-04-17",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-251",
+    "title": "Lyric Hotel Paris",
+    "categoryName": "Newly Added",
+    "urlPath": "https://lyrichotelparis.com/",
+    "imagePath": "/_images/newlyadded/lyrichotelparis.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2024-07-27",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2024
+  },
+  {
+    "_type": "project",
+    "_id": "project-251",
+    "title": "Lermitage Hotel",
+    "categoryName": "Newly Added",
+    "urlPath": "https://lermitage-hotel.com/",
+    "imagePath": "/_images/newlyadded/lermitage-hotel.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2024-05-21",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2024
+  },
+  {
+    "_type": "project",
+    "_id": "project-252",
+    "title": "les Cures Marines",
+    "categoryName": "Newly Added",
+    "urlPath": "https://lescuresmarines.com/",
+    "imagePath": "/_images/newlyadded/lescuresmarines.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2023-09-10",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2023
+  },
+  {
+    "_type": "project",
+    "_id": "project-253",
+    "title": "Les Maisons de Lea",
+    "categoryName": "Newly Added",
+    "urlPath": "https://lesmaisonsdelea.com/",
+    "imagePath": "/_images/newlyadded/lesmaisonsdelea.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2025
+  },
+  {
+    "_type": "project",
+    "_id": "project-254",
+    "title": "Liss Ard Estate",
+    "categoryName": "Newly Added",
+    "urlPath": "https://lissardestate.ie/",
+    "imagePath": "/_images/newlyadded/lissardestate.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2024-04-05",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2024
+  },
+  {
+    "_type": "project",
+    "_id": "project-255",
+    "title": "Libert Everdon",
+    "categoryName": "Newly Added",
+    "urlPath": "https://liberteverdon.com/",
+    "imagePath": "/_images/newlyadded/liberteverdon.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2024-1-19",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2024
+  },
+  {
+    "_type": "project",
+    "_id": "project-256",
+    "title": "Libert Landrellec",
+    "categoryName": "Newly Added",
+    "urlPath": "https://libertelandrellec.com/",
+    "imagePath": "/_images/newlyadded/libertelandrellec.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2024-1-19",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2024
+  },
+  {
+    "_type": "project",
+    "_id": "project-257",
+    "title": "Liberte Lacanau",
+    "categoryName": "Newly Added",
+    "urlPath": "https://libertelacanau.com/",
+    "imagePath": "/_images/newlyadded/libertelacanau.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2024-1-19",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2024
+  },
+  {
+    "_type": "project",
+    "_id": "project-258",
+    "title": "Leto Hydra",
+    "categoryName": "Newly Added",
+    "urlPath": "https://letohydra.gr/",
+    "imagePath": "/_images/newlyadded/letohydra.webp",
+    "tags": [
+      "Hotel"
+    ],
+    "dateCreated": "2022-06-06",
+    "description": "Description",
+    "featured": false,
+    "type": "Website",
+    "industry": "Hospitality",
+    "year": 2022
+  }
+]
