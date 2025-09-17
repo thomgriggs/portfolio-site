@@ -56,12 +56,12 @@ export default function PhotoGallery({ photos, categories, tags = [] }: PhotoGal
       } else if (e.key === 'ArrowLeft') {
         const currentIndex = filteredPhotos.findIndex(p => p.id === selectedPhoto.id);
         const prevIndex = currentIndex > 0 ? currentIndex - 1 : filteredPhotos.length - 1;
-        setSelectedPhoto(filteredPhotos[prevIndex]);
+        setSelectedPhoto(filteredPhotos[prevIndex] || null);
         setCurrentPhotoIndex(prevIndex);
       } else if (e.key === 'ArrowRight') {
         const currentIndex = filteredPhotos.findIndex(p => p.id === selectedPhoto.id);
         const nextIndex = currentIndex < filteredPhotos.length - 1 ? currentIndex + 1 : 0;
-        setSelectedPhoto(filteredPhotos[nextIndex]);
+        setSelectedPhoto(filteredPhotos[nextIndex] || null);
         setCurrentPhotoIndex(nextIndex);
       }
     };
@@ -81,7 +81,7 @@ export default function PhotoGallery({ photos, categories, tags = [] }: PhotoGal
       ? (currentPhotoIndex > 0 ? currentPhotoIndex - 1 : filteredPhotos.length - 1)
       : (currentPhotoIndex < filteredPhotos.length - 1 ? currentPhotoIndex + 1 : 0);
     
-    setSelectedPhoto(filteredPhotos[newIndex]);
+    setSelectedPhoto(filteredPhotos[newIndex] || null);
     setCurrentPhotoIndex(newIndex);
   };
 

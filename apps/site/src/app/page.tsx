@@ -64,7 +64,7 @@ export default async function HomePage() {
                 href="/contact" 
                 className="btn btn-secondary"
               >
-                Let's Talk
+                Let&apos;s Talk
               </Link>
             </div>
           </div>
@@ -84,7 +84,7 @@ export default async function HomePage() {
                   <span className="homepage-code-keyword">const</span>
                   <span className="homepage-code-variable"> developer</span>
                   <span className="homepage-code-operator"> = </span>
-                  <span className="homepage-code-string">"design-to-code specialist"</span>
+                  <span className="homepage-code-string">&quot;design-to-code specialist&quot;</span>
                 </div>
                 <div className="homepage-code-line">
                   <span className="homepage-code-keyword">const</span>
@@ -92,7 +92,7 @@ export default async function HomePage() {
                   <span className="homepage-code-operator"> = </span>
                   <span className="homepage-code-number">15</span>
                   <span className="homepage-code-operator"> + </span>
-                  <span className="homepage-code-string">" years"</span>
+                  <span className="homepage-code-string">&quot; years&quot;</span>
                 </div>
                 <div className="homepage-code-line">
                   <span className="homepage-code-keyword">const</span>
@@ -100,7 +100,7 @@ export default async function HomePage() {
                   <span className="homepage-code-operator"> = </span>
                   <span className="homepage-code-number">250</span>
                   <span className="homepage-code-operator"> + </span>
-                  <span className="homepage-code-string">" websites"</span>
+                  <span className="homepage-code-string">&quot; websites&quot;</span>
                 </div>
               </div>
             </div>
