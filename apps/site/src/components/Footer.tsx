@@ -98,7 +98,7 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/updates" className="footer-link">
+                <Link href="/notes" className="footer-link">
                   Updates
                 </Link>
               </li>
