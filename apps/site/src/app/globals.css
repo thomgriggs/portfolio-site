@@ -4369,3 +4369,13 @@ img {
 		padding: 1rem;
 	}
 }
+
+@import "./styles/tokens.css";
+
+:root{color-scheme:dark;}
+main section{margin-block:var(--space-12);} .stack>*+*{margin-top:var(--space-6);} 
+h1{font-family:var(--font-serif);font-size:clamp(2rem,6vw,3.5rem);letter-spacing:-.02em}
+h2{font-size:clamp(1.25rem,3vw,2rem);color:var(--muted)}
+a:hover{text-decoration:underline}
+a:focus-visible{outline:2px solid var(--primary);outline-offset:4px}
+.btn, nav a{padding:.75rem 1rem}
