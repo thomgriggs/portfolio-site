@@ -416,6 +416,44 @@ select:focus-visible {
 }
 
 /* ========================================
+	404 PAGE STYLES
+======================================== */
+
+.not-found {
+	min-height: 60vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: var(--space-16) 0;
+}
+
+.not-found-content {
+	text-align: center;
+	max-width: 500px;
+}
+
+.not-found-title {
+	font-size: 8rem;
+	font-weight: 900;
+	color: var(--primary);
+	margin-bottom: var(--space-4);
+	line-height: 1;
+}
+
+.not-found-subtitle {
+	font-size: 2rem;
+	margin-bottom: var(--space-4);
+	color: var(--text);
+}
+
+.not-found-description {
+	font-size: 1.125rem;
+	color: var(--muted);
+	margin-bottom: var(--space-8);
+	line-height: 1.6;
+}
+
+/* ========================================
 	RESET & BASE STYLES
 ======================================== */
 
