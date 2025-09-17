@@ -1,7 +1,6 @@
 {
 	"$schema": "https://openapi.vercel.sh/vercel.json",
 	"framework": "nextjs",
-	"rootDirectory": "apps/site",
 	"installCommand": "npm ci",
 	"buildCommand": "npm run build -- --no-lint",
 	"ignoreCommand": "git diff --quiet HEAD^ HEAD ./apps/site"
