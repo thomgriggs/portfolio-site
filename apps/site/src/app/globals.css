@@ -454,6 +454,34 @@ select:focus-visible {
 }
 
 /* ========================================
+	NOW PAGE STYLES
+======================================== */
+
+.now-page {
+	max-width: 600px;
+	margin: 0 auto;
+	padding: var(--space-16) 0;
+}
+
+.now-page h1 {
+	font-size: 2.5rem;
+	margin-bottom: var(--space-6);
+	color: var(--text);
+}
+
+.now-page p {
+	font-size: 1.125rem;
+	line-height: 1.7;
+	margin-bottom: var(--space-4);
+	color: var(--text);
+}
+
+.now-page em {
+	color: var(--muted);
+	font-size: 1rem;
+}
+
+/* ========================================
 	RESET & BASE STYLES
 ======================================== */
 
