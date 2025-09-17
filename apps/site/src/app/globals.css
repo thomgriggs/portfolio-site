@@ -131,6 +131,37 @@ a {
 	color: var(--primary); 
 	text-underline-offset: 3px; 
 }
+a:hover { 
+	text-decoration: underline; 
+}
+a:focus-visible { 
+	outline: 2px solid var(--primary); 
+	outline-offset: 4px; 
+}
+
+/* Typography with unified rhythm */
+h1 { 
+	font-size: clamp(2rem, 6vw, 3.5rem);
+}
+h2 { 
+	font-size: clamp(1.25rem, 3vw, 2rem);
+}
+
+/* Buttons/Links min-tap target */
+button, .btn {
+	padding-block: 0.75rem;
+	padding-inline: 1rem;
+}
+
+/* Section spacing */
+section {
+	margin-block: var(--space-12);
+}
+
+/* Stack gaps */
+.grid, .flex {
+	gap: var(--space-6);
+}
 
 /* ========================================
 	ACCESSIBILITY & PERFORMANCE

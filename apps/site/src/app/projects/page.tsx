@@ -5,9 +5,7 @@ import projectsData from '@/content/projects.json';
 interface Project {
   slug: string;
   title: string;
-  role: string;
-  stack: string[];
-  year: number;
+  tagline: string;
   challenge: string;
   solution: string;
   impact: string;
@@ -22,40 +20,39 @@ export default function ProjectsPage() {
   return (
     <div className="container">
       <div className="projects-hero">
-        <h1>Featured Work</h1>
-        <p>Three flagship projects that showcase my approach to front-end development, accessibility, and performance optimization.</p>
+        <h1>My Work</h1>
+        <p>A selection of my flagship projects, showcasing my expertise in front-end development, accessibility, and performance.</p>
       </div>
 
       <div className="projects-grid">
         {projects.map((project) => (
           <div key={project.slug} className="project-card card">
             <div className="project-image">
-              <Image
-                src={project.image}
-                alt={project.title}
-                width={400}
-                height={300}
-                className="project-img"
-                loading="lazy"
-                sizes="(max-width: 768px) 100vw, 400px"
-              />
+              {project.image ? (
+                <Image
+                  src={project.image}
+                  alt={project.title}
+                  width={400}
+                  height={300}
+                  className="project-img"
+                  loading="lazy"
+                  sizes="(max-width: 768px) 100vw, 400px"
+                />
+              ) : (
+                <div className="project-placeholder">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                    <rect x="3" y="3" width="18" height="18" rx="2" ry="2"/>
+                    <circle cx="8.5" cy="8.5" r="1.5"/>
+                    <polyline points="21,15 16,10 5,21"/>
+                  </svg>
+                  <span className="project-placeholder-text">{project.title}</span>
+                </div>
+              )}
             </div>
             
             <div className="project-content">
-              <div className="project-meta">
-                <span className="project-year">{project.year}</span>
-                <span className="project-role">{project.role}</span>
-              </div>
-              
               <h2 className="project-title">{project.title}</h2>
-              
-              <div className="project-stack">
-                {project.stack.map((tech, index) => (
-                  <span key={index} className="stack-tag">
-                    {tech}
-                  </span>
-                ))}
-              </div>
+              <p className="project-tagline">{project.tagline}</p>
               
               <div className="project-challenge">
                 <h3>Challenge</h3>
@@ -80,16 +77,6 @@ export default function ProjectsPage() {
                 ))}
               </div>
               
-              <div className="project-actions">
-                <a 
-                  href={project.url} 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="project-link"
-                >
-                  View Live Site →
-                </a>
-              </div>
             </div>
           </div>
         ))}

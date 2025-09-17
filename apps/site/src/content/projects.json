@@ -1,41 +1,35 @@
 [
 	{
-		"slug": "brand-spotlight",
-		"title": "Brand Spotlight Microsite",
-		"role": "Front-End Developer",
-		"stack": ["HTML/SASS", "jQuery/JS", "Swiper"],
-		"year": 2024,
-		"challenge": "Turn a complex Figma into a smooth, ADA-conscious microsite in 10 days.",
-		"solution": "Hand-coded responsive grid, custom Swiper helpers, keyboard nav & skip links.",
-		"impact": "Shipped on time; +18% page engagement; lighthouse a11y 96–100.",
-		"image": "/images/spotlight-projects/brand-spotlight.jpg",
-		"url": "https://example.com/brand-spotlight",
-		"tags": ["Accessibility", "Performance", "Responsive Design"]
+		"slug": "modular-template-system",
+		"title": "Modular Template System",
+		"tagline": "Reusable page templates for faster launches.",
+		"challenge": "Pages were rebuilt by hand and drifted in style.",
+		"solution": "Created a small template system—cards, hero, gallery, and FAQ—with consistent spacing and tokens.",
+		"impact": "Cut setup time and reduced one-off CSS. Easier maintenance and predictable UI.",
+		"image": "/images/newlyadded/modular-templates.webp",
+		"url": "#",
+		"tags": ["HTML/CSS", "SASS", "Templates"]
 	},
 	{
-		"slug": "slider-lab",
-		"title": "Interactive Slider Component Library",
-		"role": "Front-End Developer",
-		"stack": ["React", "TypeScript", "CSS Modules"],
-		"year": 2024,
-		"challenge": "Build a reusable slider component that works across 50+ hotel websites with zero accessibility violations.",
-		"solution": "Custom React hooks for keyboard navigation, ARIA labels, and smooth animations.",
-		"impact": "Reduced development time by 60%; 100% accessibility compliance; zero client complaints.",
-		"image": "/images/spotlight-projects/slider-lab.jpg",
-		"url": "https://example.com/slider-lab",
-		"tags": ["React", "TypeScript", "Component Library"]
+		"slug": "accessible-slider-toolkit",
+		"title": "Accessible Slider Toolkit",
+		"tagline": "Swiper-based sliders with keyboard and reduced-motion support.",
+		"challenge": "Sliders looked good but ignored keyboard focus and motion settings.",
+		"solution": "Built a helper layer for Swiper: focus rings, skip links, sensible aria, and reduced-motion fallbacks.",
+		"impact": "Better Lighthouse a11y scores and fewer support issues on content pages.",
+		"image": "/images/newlyadded/slider-toolkit.webp",
+		"url": "#",
+		"tags": ["JavaScript", "Swiper", "Accessibility"]
 	},
 	{
-		"slug": "cms-ux-upgrades",
-		"title": "CMS UX Performance Overhaul",
-		"role": "Front-End Developer",
-		"stack": ["Next.js", "Sanity", "Performance"],
-		"year": 2024,
-		"challenge": "Migrate legacy CMS to modern stack while maintaining 250+ existing hotel websites.",
-		"solution": "Incremental migration with Next.js 15, Sanity integration, and performance monitoring.",
-		"impact": "40% faster load times; 95% Core Web Vitals green; zero downtime migration.",
-		"image": "/images/spotlight-projects/cms-upgrade.jpg",
-		"url": "https://example.com/cms-upgrade",
-		"tags": ["Next.js", "Performance", "Migration"]
+		"slug": "navigation-performance-cleanup",
+		"title": "Navigation & Performance Cleanup",
+		"tagline": "Stable menus, faster first paint.",
+		"challenge": "Menus jumped around and images caused layout shift.",
+		"solution": "Fixed menu behavior, added image dimensions and lazy loading, and normalized heading scale.",
+		"impact": "Smoother feel on mobile and cleaner scan patterns for long pages.",
+		"image": "/images/newlyadded/navigation-cleanup.webp",
+		"url": "#",
+		"tags": ["Performance", "CSS", "Layout"]
 	}
 ]

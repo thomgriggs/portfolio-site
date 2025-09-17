@@ -24,27 +24,29 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://thomgriggs-portfolio.vercel.app"),
   title: {
-    default: "Thomas Griggs - Senior Frontend Developer",
+    default: "Thomas Griggs - Front-end Developer",
     template: "%s | Thomas Griggs",
   },
-  description: "Senior frontend developer specializing in accessible, performant, and interactive web experiences. 250+ hotel websites built. Available for remote work worldwide.",
-  keywords: ["frontend developer", "React", "Next.js", "TypeScript", "accessibility", "performance", "web development", "hotel websites", "remote work"],
+  description: "Front-end developer who hand-codes clean, fast, accessible sites for brands and hospitality.",
+  keywords: ["frontend developer", "HTML", "CSS", "JavaScript", "accessibility", "performance", "web development", "responsive design"],
   authors: [{ name: "Thomas Griggs" }],
   creator: "Thomas Griggs",
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://thomgriggs.vercel.app",
-    title: "Thomas Griggs - Portfolio",
-    description: "Portfolio showcasing selected work and projects by Thomas Griggs.",
+    title: "Thomas Griggs - Front-end Developer",
+    description: "Front-end developer who hand-codes clean, fast, accessible sites for brands and hospitality.",
     siteName: "Thomas Griggs Portfolio",
+    images: [{ url: "/api/og", width: 1200, height: 630, alt: "Thomas Griggs Portfolio" }],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Thomas Griggs - Portfolio",
-    description: "Portfolio showcasing selected work and projects by Thomas Griggs.",
+    title: "Thomas Griggs - Front-end Developer",
+    description: "Front-end developer who hand-codes clean, fast, accessible sites for brands and hospitality.",
     creator: "@thomgriggs",
+    images: ["/api/og"],
   },
   robots: {
     index: true,

@@ -19,54 +19,21 @@ export default async function HomePage() {
         <div className="homepage-hero-content">
           <div className="homepage-hero-text">
             <h1 className="homepage-title">
-              Senior Frontend Developer
+              Front-end developer who ships clean, accessible sites.
             </h1>
             <p className="homepage-subtitle">
-              Building accessible, performant web experiences
-            </p>
-            <p className="homepage-description">
-              I specialize in React, Next.js, and TypeScript. With 250+ hotel websites built and 
-              a focus on accessibility and performance, I help teams ship quality code that users love.
+              I turn rough ideas into fast, responsive UI with solid keyboard support and clear structure.
             </p>
             
             <div className="homepage-cta">
-              <Link href="/contact" className="cta-button">
-                Let&apos;s Work Together
+              <Link href="/projects" className="cta-button">
+                View my work
               </Link>
-              <Link href="/projects" className="cta-button-secondary">
-                View My Work
+              <Link href="/contact" className="cta-button-secondary">
+                Say hello
               </Link>
             </div>
             
-            <div className="homepage-stats">
-              <div className="homepage-stat">
-                <span className="homepage-stat-number">250+</span>
-                <span className="homepage-stat-label">Websites Built</span>
-              </div>
-              <div className="homepage-stat">
-                <span className="homepage-stat-number">15+</span>
-                <span className="homepage-stat-label">Years Experience</span>
-              </div>
-              <div className="homepage-stat">
-                <span className="homepage-stat-number">100%</span>
-                <span className="homepage-stat-label">Remote Work</span>
-              </div>
-            </div>
-            
-            <div className="homepage-actions">
-              <Link 
-                href="/work" 
-                className="btn btn-primary"
-              >
-                View My Work
-              </Link>
-              <Link 
-                href="/contact" 
-                className="btn btn-secondary"
-              >
-                Let&apos;s Talk
-              </Link>
-            </div>
           </div>
           
           <div className="homepage-hero-visual">
@@ -82,25 +49,21 @@ export default async function HomePage() {
               <div className="homepage-code-content">
                 <div className="homepage-code-line">
                   <span className="homepage-code-keyword">const</span>
-                  <span className="homepage-code-variable"> developer</span>
+                  <span className="homepage-code-variable"> approach</span>
                   <span className="homepage-code-operator"> = </span>
-                  <span className="homepage-code-string">&quot;design-to-code specialist&quot;</span>
+                  <span className="homepage-code-string">&quot;clean, accessible&quot;</span>
                 </div>
                 <div className="homepage-code-line">
                   <span className="homepage-code-keyword">const</span>
-                  <span className="homepage-code-variable"> experience</span>
+                  <span className="homepage-code-variable"> focus</span>
                   <span className="homepage-code-operator"> = </span>
-                  <span className="homepage-code-number">15</span>
-                  <span className="homepage-code-operator"> + </span>
-                  <span className="homepage-code-string">&quot; years&quot;</span>
+                  <span className="homepage-code-string">&quot;keyboard support&quot;</span>
                 </div>
                 <div className="homepage-code-line">
                   <span className="homepage-code-keyword">const</span>
-                  <span className="homepage-code-variable"> projects</span>
+                  <span className="homepage-code-variable"> result</span>
                   <span className="homepage-code-operator"> = </span>
-                  <span className="homepage-code-number">250</span>
-                  <span className="homepage-code-operator"> + </span>
-                  <span className="homepage-code-string">&quot; websites&quot;</span>
+                  <span className="homepage-code-string">&quot;fast, responsive UI&quot;</span>
                 </div>
               </div>
             </div>
@@ -161,55 +124,23 @@ export default async function HomePage() {
         </section>
       )}
 
-      {/* What I Do Section */}
-      <section className="homepage-what-i-do">
-        <div className="homepage-what-i-do-content">
-          <div className="homepage-what-i-do-header">
-            <h2 className="homepage-what-i-do-title">What I Do</h2>
-            <p className="homepage-what-i-do-subtitle">
-              I help teams bridge the gap between design and development
-            </p>
+      {/* About Section */}
+      <section className="homepage-about">
+        <div className="homepage-about-content">
+          <div className="homepage-about-header">
+            <h2 className="homepage-about-title">About</h2>
           </div>
           
-          <div className="homepage-what-i-do-grid">
-            <div className="homepage-what-i-do-item">
-              <div className="homepage-what-i-do-icon">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
-                </svg>
-              </div>
-              <h3 className="homepage-what-i-do-item-title">Design to Code</h3>
-              <p className="homepage-what-i-do-item-description">
-                Translate Figma designs into pixel-perfect, responsive code that works across all devices.
-              </p>
-            </div>
-            
-            <div className="homepage-what-i-do-item">
-              <div className="homepage-what-i-do-icon">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                  <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/>
-                </svg>
-              </div>
-              <h3 className="homepage-what-i-do-item-title">Performance</h3>
-              <p className="homepage-what-i-do-item-description">
-                Optimize for speed and accessibility, ensuring your site loads fast and works for everyone.
-              </p>
-            </div>
-            
-            <div className="homepage-what-i-do-item">
-              <div className="homepage-what-i-do-icon">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                  <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/>
-                  <circle cx="9" cy="7" r="4"/>
-                  <path d="M23 21v-2a4 4 0 0 0-3-3.87"/>
-                  <path d="M16 3.13a4 4 0 0 1 0 7.75"/>
-                </svg>
-              </div>
-              <h3 className="homepage-what-i-do-item-title">Team Collaboration</h3>
-              <p className="homepage-what-i-do-item-description">
-                Work seamlessly with designers, developers, and stakeholders to deliver exceptional results.
-              </p>
-            </div>
+          <div className="homepage-about-text">
+            <p>
+              I build front-end for brands and hospitality—clean HTML/CSS, straightforward JavaScript, and small, reliable components.
+            </p>
+            <p>
+              I like tidy code, sensible spacing, and features that respect the keyboard. I&apos;ll take the messy parts, organize them, and make them feel simple.
+            </p>
+            <p>
+              Right now I&apos;m polishing patterns for sliders, menus, and content templates, and leaning into performance and accessibility basics.
+            </p>
           </div>
         </div>
       </section>

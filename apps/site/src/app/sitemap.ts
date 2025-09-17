@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://your-domain.com'; // Replace with your actual domain
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://thomgriggs-portfolio.vercel.app';
   
   return [
     {
@@ -11,15 +11,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1,
     },
     {
+      url: `${baseUrl}/projects`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.9,
+    },
+    {
       url: `${baseUrl}/archive`,
       lastModified: new Date(),
       changeFrequency: 'weekly',
-      priority: 0.8,
-    },
-    {
-      url: `${baseUrl}/work`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
@@ -35,19 +35,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     },
     {
-      url: `${baseUrl}/email-design`,
+      url: `${baseUrl}/now`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.6,
     },
     {
-      url: `${baseUrl}/photos`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.6,
-    },
-    {
-      url: `${baseUrl}/updates`,
+      url: `${baseUrl}/notes`,
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.5,
