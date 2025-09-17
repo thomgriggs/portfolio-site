@@ -1,0 +1,62 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Noto Serif, Georgia, serif" color="#1b1f23" />
+      <mj-section padding="0" />
+      <mj-text font-size="16px" line-height="1.5" />
+      <mj-button background-color="#0ea5b7" color="#ffffff" font-weight="700" border-radius="8px" padding="16px 24px" />
+    </mj-attributes>
+    <mj-font name="Noto Serif" href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap" />
+    <mj-style inline="inline">a { color:#0ea5b7; text-decoration:none; }</mj-style>
+  </mj-head>
+  <mj-body background-color="#f5f7fb">
+    <mj-section background-color="#0d0f12" padding="24px 0">
+      <mj-column>
+        <mj-text color="#e8ecf1" font-size="20px" align="center">Thom Griggs — Front‑End Developer</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="24px">
+      <mj-column>
+        <mj-text font-size="28px" font-weight="700">Subject Line Headline</mj-text>
+        <mj-text>Short preheader copy goes here. Summarize the value in one sentence.</mj-text>
+        <mj-button href="https://thomgriggs.com">View Portfolio</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0 24px 24px">
+      <mj-column>
+        <mj-text font-weight="700" font-size="18px">Feature Block</mj-text>
+        <mj-text>• Bullet highlight one<br/>• Bullet highlight two<br/>• Bullet highlight three</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0 24px 24px">
+      <mj-column>
+        <mj-divider border-color="#e5e7eb" />
+        <mj-text font-weight="700" font-size="18px">Project Spotlight</mj-text>
+        <mj-image src="https://via.placeholder.com/600x300" alt="Project screenshot" padding="0 0 12px" />
+        <mj-text>Quick paragraph describing the problem → solution → impact. Link to case study.</mj-text>
+        <mj-button href="https://thomgriggs.com/work/case-study">Read Case Study</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0 24px 24px">
+      <mj-column>
+        <mj-divider border-color="#e5e7eb" />
+        <mj-text font-weight="700" font-size="18px">Two‑Column Features</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0 24px 24px">
+      <mj-column width="50%">
+        <mj-text font-weight="700">Accessibility</mj-text>
+        <mj-text>Skip links, keyboard nav, color contrast, semantic HTML.</mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text font-weight="700">Performance</mj-text>
+        <mj-text>Image optimization, code splitting, lazy loading, caching.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#0d0f12" padding="24px 0">
+      <mj-column>
+        <mj-text color="#9aa4b2" font-size="14px" align="center">© 2025 Thom Griggs • <a href="https://thomgriggs.com">thomgriggs.com</a> • <a href="#">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
