@@ -264,7 +264,7 @@ export default function ContactPage() {
   };
 
   return (
-    <main className="contact-page" id="main-content" role="main">
+    <main className="contact-page" id="main" role="main">
       {/* Search Engine Style Header */}
       <section className="contact-search-header">
         <div className="contact-search-container">

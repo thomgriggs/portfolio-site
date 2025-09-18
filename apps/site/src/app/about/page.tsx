@@ -7,7 +7,7 @@ export const metadata = {
 
 export default function AboutPage() {
   return (
-    <main className="about-page" id="main-content" role="main">
+    <main className="about-page" id="main" role="main">
       {/* Header */}
       <section className="about-hero">
         <div className="about-hero-content">

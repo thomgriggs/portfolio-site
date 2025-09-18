@@ -1,0 +1,35 @@
+[
+	{
+		"slug": "modular-template-system",
+		"title": "Modular Template System",
+		"tagline": "Reusable page templates for faster launches.",
+		"challenge": "Pages were rebuilt by hand and drifted in style.",
+		"solution": "Created a small template system—cards, hero, gallery, and FAQ—with consistent spacing and tokens.",
+		"impact": "Cut setup time and reduced one-off CSS. Easier maintenance and predictable UI.",
+		"image": "",
+		"url": "#",
+		"tags": ["HTML/CSS", "SASS", "Templates"]
+	},
+	{
+		"slug": "accessible-slider-toolkit",
+		"title": "Accessible Slider Toolkit",
+		"tagline": "Swiper-based sliders with keyboard and reduced-motion support.",
+		"challenge": "Sliders looked good but ignored keyboard focus and motion settings.",
+		"solution": "Built a helper layer for Swiper: focus rings, skip links, sensible aria, and reduced-motion fallbacks.",
+		"impact": "Better Lighthouse a11y scores and fewer support issues on content pages.",
+		"image": "",
+		"url": "#",
+		"tags": ["JavaScript", "Swiper", "Accessibility"]
+	},
+	{
+		"slug": "navigation-performance-cleanup",
+		"title": "Navigation & Performance Cleanup",
+		"tagline": "Stable menus, faster first paint.",
+		"challenge": "Menus jumped around and images caused layout shift.",
+		"solution": "Fixed menu behavior, added image dimensions and lazy loading, and normalized heading scale.",
+		"impact": "Smoother feel on mobile and cleaner scan patterns for long pages.",
+		"image": "",
+		"url": "#",
+		"tags": ["Performance", "CSS", "Layout"]
+	}
+]

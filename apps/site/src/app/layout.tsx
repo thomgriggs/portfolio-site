@@ -73,7 +73,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <ErrorBoundary>
-          <a href="#main-content" className="skip-link">
+          <a href="#main" className="skip-link">
             Skip to main content
           </a>
           <Navigation />

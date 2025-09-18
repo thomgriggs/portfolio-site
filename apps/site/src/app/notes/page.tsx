@@ -57,7 +57,7 @@ const formatDate = (dateString: string) => {
 
 export default function NotesPage() {
   return (
-    <main className="notes-page" id="main-content" role="main">
+    <main className="notes-page" id="main" role="main">
       {/* Header */}
       <section className="notes-hero">
         <div className="notes-hero-content">

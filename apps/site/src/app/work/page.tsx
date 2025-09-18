@@ -110,13 +110,13 @@ export default function WorkPage() {
   };
 
   return (
-    <main className="work-page" id="main-content" role="main">
+    <main className="work-page" id="main" role="main">
       {/* Header */}
       <section className="work-hero">
         <div className="work-hero-content">
           <h1 className="work-title">Here&apos;s My Work</h1>
           <p className="work-subtitle">
-            Senior frontend developer with 15+ years experience translating designs into clean, accessible code
+            Over a decade of front-end for boutique brands and hospitality. I focus on tidy HTML/CSS, small JS, and smooth handoffs.
           </p>
           <Link href="/" className="work-back-link">
             ← Back to Home
@@ -268,7 +268,7 @@ export default function WorkPage() {
               </div>
               <h3 className="work-process-item-title">Technical Guidance</h3>
               <p className="work-process-item-text">
-                I guide designers and teams away from potential pitfalls, suggesting techniques that require less copy or stronger images based on my experience with 250+ projects.
+                I guide designers and teams away from potential pitfalls, suggesting techniques that require less copy or stronger images based on my experience.
               </p>
             </div>
             
@@ -320,13 +320,12 @@ export default function WorkPage() {
                 </svg>
               </div>
               <div className="work-differentiation-content">
-                <h3 className="work-differentiation-item-title">250+ Boutique Websites</h3>
+                <h3 className="work-differentiation-item-title">Boutique Websites</h3>
                 <div className="work-differentiation-counter">
-                  <span className="work-differentiation-number">250</span>
-                  <span className="work-differentiation-plus">+</span>
+                  <span className="work-differentiation-number">Many</span>
                 </div>
                 <p className="work-differentiation-item-text">
-                  I&apos;ve built and maintained 250+ handcrafted hotel websites, developing the ability to fill in design details from minimal information and move projects forward efficiently.
+                  I&apos;ve built and maintained handcrafted hotel websites, developing the ability to fill in design details from minimal information and move projects forward efficiently.
                 </p>
               </div>
             </div>
@@ -388,15 +387,15 @@ export default function WorkPage() {
                 </svg>
               </div>
               <div className="work-differentiation-content">
-                <h3 className="work-differentiation-item-title">Remote Work Mastery</h3>
+                <h3 className="work-differentiation-item-title">Remote Work</h3>
                 <div className="work-differentiation-stats">
                   <div className="work-differentiation-stat">
-                    <span className="work-differentiation-stat-number">15+</span>
-                    <span className="work-differentiation-stat-label">Years Remote</span>
+                    <span className="work-differentiation-stat-number">✓</span>
+                    <span className="work-differentiation-stat-label">Remote Ready</span>
                   </div>
                   <div className="work-differentiation-stat">
-                    <span className="work-differentiation-stat-number">100%</span>
-                    <span className="work-differentiation-stat-label">Communication</span>
+                    <span className="work-differentiation-stat-number">✓</span>
+                    <span className="work-differentiation-stat-label">Clear Communication</span>
                   </div>
                 </div>
                 <p className="work-differentiation-item-text">

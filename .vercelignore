@@ -1,0 +1,5 @@
+apps/studio
+apps/site/node_modules
+apps/site/.next
+node_modules
+.git

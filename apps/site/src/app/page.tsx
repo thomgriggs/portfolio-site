@@ -13,16 +13,16 @@ export default async function HomePage() {
   const featuredProjects = projects.filter(p => p.featured).slice(0, 3);
 
   return (
-    <main className="homepage" id="main-content" role="main">
+    <main className="homepage" id="main" role="main">
       {/* Hero Section */}
       <section className="homepage-hero">
         <div className="homepage-hero-content">
           <div className="homepage-hero-text">
             <h1 className="homepage-title">
-              Front-end developer who builds clean, accessible sites.
+              Front-end developer building clean, accessible sites.
             </h1>
             <p className="homepage-subtitle">
-              I work with brands and hospitality to create fast, responsive interfaces with solid keyboard support and clear structure.
+              I turn rough ideas into fast, responsive UI with solid keyboard support and clear structure.
             </p>
             
             <div className="homepage-cta">
@@ -34,39 +34,6 @@ export default async function HomePage() {
               </Link>
             </div>
             
-          </div>
-          
-          <div className="homepage-hero-visual">
-            <div className="homepage-code-preview">
-              <div className="homepage-code-header">
-                <div className="homepage-code-dots">
-                  <span></span>
-                  <span></span>
-                  <span></span>
-                </div>
-                <span className="homepage-code-title">thomgriggs.com</span>
-              </div>
-              <div className="homepage-code-content">
-                <div className="homepage-code-line">
-                  <span className="homepage-code-keyword">const</span>
-                  <span className="homepage-code-variable"> approach</span>
-                  <span className="homepage-code-operator"> = </span>
-                  <span className="homepage-code-string">&quot;clean, accessible&quot;</span>
-                </div>
-                <div className="homepage-code-line">
-                  <span className="homepage-code-keyword">const</span>
-                  <span className="homepage-code-variable"> focus</span>
-                  <span className="homepage-code-operator"> = </span>
-                  <span className="homepage-code-string">&quot;keyboard support&quot;</span>
-                </div>
-                <div className="homepage-code-line">
-                  <span className="homepage-code-keyword">const</span>
-                  <span className="homepage-code-variable"> result</span>
-                  <span className="homepage-code-operator"> = </span>
-                  <span className="homepage-code-string">&quot;fast, responsive UI&quot;</span>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
       </section>

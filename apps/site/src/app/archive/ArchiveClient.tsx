@@ -119,7 +119,7 @@ export default function ArchiveClient({ projects }: ArchiveClientProps) {
   }, []);
 
   return (
-    <main className="archive-page" id="main-content" role="main">
+    <main className="archive-page" id="main" role="main">
       <div className="archive-container">
         {/* Header */}
         <div className="archive-header">

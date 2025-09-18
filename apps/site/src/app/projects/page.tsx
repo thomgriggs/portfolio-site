@@ -18,7 +18,8 @@ export default function ProjectsPage() {
   const projects: Project[] = projectsData;
 
   return (
-    <div className="container">
+    <main className="projects-page" id="main" role="main">
+      <div className="container">
       <div className="projects-hero">
         <h1>Projects</h1>
         <p>Three projects that show how I approach front-end development—clean code, accessibility, and performance.</p>
@@ -81,6 +82,7 @@ export default function ProjectsPage() {
           </div>
         ))}
       </div>
-    </div>
+      </div>
+    </main>
   );
 }
