@@ -19,10 +19,10 @@ export default async function HomePage() {
         <div className="homepage-hero-content">
           <div className="homepage-hero-text">
             <h1 className="homepage-title">
-              Front-end developer who ships clean, accessible sites.
+              Front-end developer who builds clean, accessible sites.
             </h1>
             <p className="homepage-subtitle">
-              I turn rough ideas into fast, responsive UI with solid keyboard support and clear structure.
+              I work with brands and hospitality to create fast, responsive interfaces with solid keyboard support and clear structure.
             </p>
             
             <div className="homepage-cta">

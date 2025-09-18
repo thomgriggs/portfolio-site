@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 export const metadata = {
   title: 'About',
-  description: 'Learn about Thom Griggs, a senior frontend developer with 15+ years experience translating designs into clean, accessible code.',
+  description: 'Learn about Thom Griggs, a frontend developer who builds clean, accessible sites for brands and hospitality.',
 };
 
 export default function AboutPage() {

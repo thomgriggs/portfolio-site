@@ -58,6 +58,8 @@ export default function Navigation() {
               onClick={() => setIsOpen(!isOpen)}
               className="mobile-menu-button"
               aria-label="Toggle menu"
+              aria-expanded={isOpen}
+              aria-controls="mobile-navigation"
             >
             <svg
               className="mobile-menu-icon"
@@ -86,7 +88,7 @@ export default function Navigation() {
 
           {/* Mobile Navigation */}
           {isOpen && (
-            <div className="mobile-nav">
+            <div className="mobile-nav" id="mobile-navigation">
               <div className="mobile-nav-content">
                 {navItems.map((item) => (
                   <Link

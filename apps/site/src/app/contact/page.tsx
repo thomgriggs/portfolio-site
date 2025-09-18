@@ -16,7 +16,7 @@ export default function ContactPage() {
     {
       id: '1',
       type: 'ai',
-      content: "Hey! What brings you here today? Are you looking for a full-time developer, need help with a project, or just want to chat about what Thomas does?",
+      content: "Hi! I'm here to help you connect with Thomas. What brings you here today?",
       timestamp: new Date()
     }
   ]);
@@ -126,28 +126,28 @@ export default function ContactPage() {
     if (conversationStage === 'greeting') {
       if (message.includes('full-time') || message.includes('job') || message.includes('employment')) {
         setConversationStage('qualifying');
-        return "Nice! Thomas is definitely interested in full-time opportunities. He's got 15+ years under his belt and has built over 250 websites, so he brings both the technical chops and creative problem-solving you'd want.\n\nWhat makes him special is that he started in design and moved to development, so he's great at bridging that gap between design and code. What kind of company are you with?";
+        return "Great! Thomas is interested in full-time opportunities. He builds front-end for brands and hospitality with clean HTML/CSS, straightforward JavaScript, and accessibility basics.\n\nWhat kind of company are you with?";
       }
       
       if (message.includes('contract') || message.includes('freelance') || message.includes('project')) {
         setConversationStage('qualifying');
-        return "Cool! Thomas does a lot of contract work. He's really good at:\n\n• Website rebuilds (modern tech, clean code)\n• Accessibility audits (WCAG compliance)\n• Taking designs and turning them into code\n• Performance optimization\n• Custom interactive stuff\n\nWhat kind of project are you thinking about?";
+        return "Good! Thomas does contract work. He focuses on:\n\n• Clean HTML/CSS and straightforward JavaScript\n• Swiper sliders with keyboard support\n• Accessibility basics (skip links, focus rings)\n• Performance optimization\n\nWhat kind of project are you thinking about?";
       }
       
       if (message.includes('help') || message.includes('advice') || message.includes('consultation')) {
         setConversationStage('qualifying');
-        return "Thomas does consultations too! He can help with:\n\n• Accessibility audits and fixes\n• Performance optimization\n• Design-to-code best practices\n• Technical decisions\n• Team workflow stuff\n\nWhat's the main challenge you're dealing with?";
+        return "Thomas does consultations. He can help with:\n\n• Accessibility basics and keyboard navigation\n• Performance optimization\n• Clean HTML/CSS patterns\n• Swiper slider implementation\n\nWhat's the main challenge you're dealing with?";
       }
       
       if (message.includes('services') || message.includes('offer')) {
-        return "Thomas does a bunch of frontend stuff:\n\n**Main Services:**\n• Website rebuilds\n• Accessibility audits\n• Performance optimization\n• Design-to-code translation\n• Custom interactive features\n\n**Consultation:**\n• Technical reviews\n• Team workflow help\n• Code quality checks\n• Accessibility training\n\nWhat sounds most interesting to you?";
+        return "Thomas focuses on front-end development:\n\n• Clean HTML/CSS and JavaScript\n• Swiper sliders with accessibility\n• Performance optimization\n• Keyboard navigation and focus management\n\nWhat sounds most interesting to you?";
       }
       
       if (message.includes('charge') || message.includes('cost') || message.includes('price') || message.includes('budget')) {
-        return "Pricing depends on what you need:\n\n**Contract Work:**\n• Hourly rates for ongoing stuff\n• Fixed pricing for specific projects\n• Retainer for ongoing support\n\n**Consultations:**\n• Free 30-minute discovery call\n• Transparent pricing upfront\n• Flexible payment terms\n\nWhat kind of project are you thinking about?";
+        return "Pricing depends on the project scope:\n\n• Hourly rates for ongoing work\n• Fixed pricing for specific projects\n• Free 30-minute consultation call\n\nWhat kind of project are you thinking about?";
       }
       
-      return "Cool! Thomas is a senior frontend developer with 15+ years experience. He's really good at taking designs and turning them into clean code. What brings you here? Are you looking for:\n\n• Full-time work\n• Contract projects\n• Technical help\n• Something specific\n\nJust tell me what you're thinking!";
+      return "Thomas is a frontend developer who builds clean, accessible sites for brands and hospitality. What brings you here? Are you looking for:\n\n• Full-time work\n• Contract projects\n• Technical help\n• Something specific\n\nJust tell me what you're thinking!";
     }
     
     // Qualifying stage responses
