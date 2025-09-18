@@ -314,3 +314,5 @@ Object.entries(comprehensiveMapping).slice(0, 15).forEach(([project, screenshot]
 console.log(`\n✅ Mapping corrected! Reduced fallback usage from ${Object.keys(comprehensiveMapping).length} to ${muguetCount} hotels using hotel-paris-muguet.png`);
 
 
+
+

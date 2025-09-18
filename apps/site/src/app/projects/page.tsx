@@ -20,8 +20,8 @@ export default function ProjectsPage() {
   return (
     <div className="container">
       <div className="projects-hero">
-        <h1>My Work</h1>
-        <p>A selection of my flagship projects, showcasing my expertise in front-end development, accessibility, and performance.</p>
+        <h1>Projects</h1>
+        <p>Three projects that show how I approach front-end development—clean code, accessibility, and performance.</p>
       </div>
 
       <div className="projects-grid">
