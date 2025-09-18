@@ -77,7 +77,7 @@ export default function RootLayout({
             Skip to main content
           </a>
           <Navigation />
-          <main id="main-content">
+          <main id="main" id="main-content">
             {children}
           </main>
           <Footer />
