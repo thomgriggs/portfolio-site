@@ -1,6 +1,18 @@
 /* Custom CSS - No Tailwind imports needed */
 @import "./tokens.css";
 
+:root{ color-scheme: dark; }
+main section{ margin-block: var(--space-12); }
+.stack > * + *{ margin-top: var(--space-6); }
+a:hover{ text-decoration: underline; }
+a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visible{
+  outline: 2px solid var(--primary);
+  outline-offset: 4px;
+}
+.btn{ display:inline-block; padding:.625rem .9rem; border-radius:.5rem; }
+.input, .textarea{ width:100%; padding:.625rem .75rem; border-radius:.5rem; }
+.text-muted{ color: var(--muted, #6b7280); }
+
 /* ========================================
 	DESIGN SYSTEM FOUNDATION
 ======================================== */
