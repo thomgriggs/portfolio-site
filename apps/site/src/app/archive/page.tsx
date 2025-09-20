@@ -4,9 +4,6 @@ import { useState, useEffect } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { ArrowLeft, Search, ExternalLink, Globe, Calendar, Tag } from "lucide-react";
-import { sanity } from "../../sanity/client";
-import { ALL_PROJECTS } from "../../sanity/queries";
-import type { Project } from "../../types/sanity";
 import "./archive.css";
 
 interface ArchiveProject {
@@ -25,6 +22,7 @@ interface ArchiveProject {
 export default function ArchivePage() {
   const [projects, setProjects] = useState<ArchiveProject[]>([]);
   const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedCategory, setSelectedCategory] = useState("all");
   const [displayedProjects, setDisplayedProjects] = useState(24);
@@ -32,9 +30,14 @@ export default function ArchivePage() {
   useEffect(() => {
     async function fetchProjects() {
       try {
-        const data = await sanity.fetch(ALL_PROJECTS);
+        // Test with a simple fetch first
+        const response = await fetch('/api/projects');
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const data = await response.json();
         
-        const archiveProjects: ArchiveProject[] = data.map((project: Project) => ({
+        const archiveProjects: ArchiveProject[] = data.map((project: any) => ({
           id: project._id,
           title: project.title,
           description: project.description || 'No description available',
@@ -50,6 +53,7 @@ export default function ArchivePage() {
         setProjects(archiveProjects);
       } catch (error) {
         console.error('Error fetching projects:', error);
+        setError(error instanceof Error ? error.message : 'Failed to fetch projects');
         setProjects([]);
       } finally {
         setLoading(false);
@@ -72,6 +76,31 @@ export default function ArchivePage() {
               </div>
             </div>
             <p className="archive-loading-text">Loading archive...</p>
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className="archive-page">
+        <div className="archive-container">
+          <div className="archive-header">
+            <Link href="/" className="archive-back-link">
+              <ArrowLeft className="w-4 h-4 mr-2" />
+              Back to Home
+            </Link>
+            <h1 className="archive-title">Project Archive</h1>
+            <div className="text-center py-8">
+              <p className="text-red-500 mb-4">Error loading projects: {error}</p>
+              <button 
+                onClick={() => window.location.reload()} 
+                className="btn btn-primary"
+              >
+                Try Again
+              </button>
+            </div>
           </div>
         </div>
       </div>
