@@ -4,7 +4,6 @@ import { useState, useEffect } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { ArrowLeft, ExternalLink } from "lucide-react";
-import { Badge } from "../../components/ui/badge";
 
 interface ArchiveProject {
   id: string;
@@ -173,16 +172,20 @@ export default function ArchivePage() {
                   </p>
                   
                   {/* Technologies */}
-                  <div className="flex flex-wrap gap-1 mb-4">
-                    {project.technologies.map((tech, idx) => (
-                      <Badge 
-                        key={idx} 
-                        variant="secondary"
-                        className={`skill-ombre-${Math.min((idx % 5) + 1, 5)} text-xs`}
+                  <div className="flex flex-wrap gap-2 mb-4">
+                    {project.technologies.slice(0, 4).map((tech, idx) => (
+                      <span 
+                        key={idx}
+                        className="px-3 py-1 text-xs font-sans font-medium rounded-full skill-ombre-1"
                       >
                         {tech}
-                      </Badge>
+                      </span>
                     ))}
+                    {project.technologies.length > 4 && (
+                      <span className="px-3 py-1 bg-muted text-muted-foreground text-xs font-sans font-medium rounded-full">
+                        +{project.technologies.length - 4}
+                      </span>
+                    )}
                   </div>
 
                   {/* Action Button */}
