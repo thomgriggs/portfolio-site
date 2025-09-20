@@ -30,12 +30,15 @@ export default function ArchivePage() {
   useEffect(() => {
     async function fetchProjects() {
       try {
+        console.log('Starting to fetch projects...');
         // Test with a simple fetch first
         const response = await fetch('/api/projects');
+        console.log('Response status:', response.status);
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
         const data = await response.json();
+        console.log('Data received:', data.length, 'projects');
         
         const archiveProjects: ArchiveProject[] = data.map((project: any) => ({
           id: project._id,
