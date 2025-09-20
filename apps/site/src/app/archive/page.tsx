@@ -1,3 +1,8 @@
+import { Badge } from "../../components/ui/badge";
+import { Card, CardContent } from "../../components/ui/card";
+import { Button } from "../../components/ui/button";
+import { Calendar, ExternalLink, MapPin, Users, Briefcase, Star, Filter, X, ChevronDown } from "lucide-react";
+import Link from "next/link";
 import { sanity } from "../../sanity/client";
 import { ALL_PROJECTS } from "../../sanity/queries";
 import type { Project } from "../../types/sanity";

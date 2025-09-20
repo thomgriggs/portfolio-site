@@ -118,7 +118,7 @@ export default function ArchivePageClient({ projects }: ArchivePageClientProps) 
         </button>
         
         {isOpen && (
-          <div className="absolute top-full left-0 mt-2 bg-popover border border-border rounded-lg shadow-lg z-10 min-w-[200px]">
+          <div className="absolute top-full left-0 mt-2 bg-popover border border-border rounded-lg shadow-lg z-10 min-w-[200px] animate-fade-in-up">
             <div className="p-2 max-h-64 overflow-y-auto">
               <button
                 onClick={() => {
@@ -159,7 +159,16 @@ export default function ArchivePageClient({ projects }: ArchivePageClientProps) 
   };
 
   const ProjectCard = ({ project, index }: { project: ArchiveProject; index: number }) => (
-    <Card className="group hover:shadow-lg transition-all duration-500 hover:-translate-y-1">
+    <Card 
+      className={`group hover:shadow-lg transition-all duration-500 hover:-translate-y-1 ${
+        true 
+          ? 'opacity-100 translate-y-0' 
+          : 'opacity-0 translate-y-8'
+      }`}
+      style={{
+        transitionDelay: true ? `${index * 100}ms` : '0ms'
+      }}
+    >
       <CardContent className="p-6">
         <div className="flex items-start justify-between mb-4">
           <div className="flex-1">
@@ -168,7 +177,7 @@ export default function ArchivePageClient({ projects }: ArchivePageClientProps) 
                 variant={project.type === 'featured' ? 'default' : 'secondary'}
                 className={`${
                   project.type === 'featured' ? 'bg-primary' : 
-                  project.type === 'client' ? 'bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-200' : 'bg-purple-100 text-purple-800 dark:bg-purple-900 dark:text-purple-200'
+                  project.type === 'client' ? 'skill-ombre-2' : 'skill-ombre-4'
                 } text-xs`}
               >
                 {project.type === 'featured' && <Star className="w-3 h-3 mr-1" />}
@@ -225,20 +234,15 @@ export default function ArchivePageClient({ projects }: ArchivePageClientProps) 
           <div>
             <div className="text-xs text-muted-foreground mb-2">Technologies</div>
             <div className="flex flex-wrap gap-1">
-              {project.technologies.slice(0, 4).map((tech, idx) => (
+              {project.technologies.map((tech, idx) => (
                 <Badge 
                   key={idx} 
                   variant="secondary"
-                  className="text-xs"
+                  className={`skill-ombre-${Math.min((idx % 5) + 1, 5)} text-xs`}
                 >
                   {tech}
                 </Badge>
               ))}
-              {project.technologies.length > 4 && (
-                <Badge variant="secondary" className="text-xs">
-                  +{project.technologies.length - 4}
-                </Badge>
-              )}
             </div>
           </div>
         </div>
@@ -315,8 +319,11 @@ export default function ArchivePageClient({ projects }: ArchivePageClientProps) 
               <div 
                 key={stat.label}
                 className="text-center space-y-2"
+                style={{
+                  animationDelay: `${index * 150}ms`
+                }}
               >
-                <div className="text-3xl sm:text-4xl font-semibold text-foreground">
+                <div className="text-3xl sm:text-4xl font-semibold text-foreground animate-count-up">
                   {stat.value}
                 </div>
                 <div className="text-sm text-muted-foreground">
@@ -330,7 +337,7 @@ export default function ArchivePageClient({ projects }: ArchivePageClientProps) 
 
       {/* Filters */}
       {showFilters && (
-        <section className="py-8 px-4 sm:px-6 lg:px-8 bg-background border-b border-border">
+        <section className="py-8 px-4 sm:px-6 lg:px-8 bg-background border-b border-border animate-fade-in-up">
           <div className="max-w-7xl mx-auto">
             <div className="flex flex-wrap gap-4 items-center justify-between mb-6">
               <div className="flex flex-wrap gap-3">
