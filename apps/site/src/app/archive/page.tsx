@@ -1,12 +1,14 @@
-import { Badge } from "./ui/badge";
-import { Card, CardContent } from "./ui/card";
-import { Button } from "./ui/button";
+"use client";
+
+import { Badge } from "../../components/ui/badge";
+import { Card, CardContent } from "../../components/ui/card";
+import { Button } from "../../components/ui/button";
 import { Calendar, ExternalLink, MapPin, Users, Briefcase, Star, Filter, X, ChevronDown } from "lucide-react";
 import Link from "next/link";
 import { sanity } from "../../sanity/client";
 import { ALL_PROJECTS } from "../../sanity/queries";
 import type { Project } from "../../types/sanity";
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 import Image from "next/image";
 
 interface ArchiveProject {
@@ -22,27 +24,54 @@ interface ArchiveProject {
   type: 'featured' | 'client' | 'personal';
 }
 
-export default async function ArchivePage() {
-  // Fetch projects from Sanity
-  const projects = await sanity.fetch(ALL_PROJECTS, {}, {
-    next: { revalidate: 7200, tags: ['projects'] }
-  });
+export default function ArchivePage() {
+  const [projects, setProjects] = useState<ArchiveProject[]>([]);
+  const [loading, setLoading] = useState(true);
 
-  // Transform Sanity projects to ArchiveProject format
-  const archiveProjects: ArchiveProject[] = projects.map((project: Project) => ({
-    id: project._id,
-    title: project.title,
-    description: project.description || 'No description available',
-    year: new Date(project.dateCreated).getFullYear().toString(),
-    category: project.industry || 'Hospitality',
-    technologies: project.skills || [],
-    image: project.images?.[0]?.asset?.url,
-    urlPath: project.urlPath,
-    status: project.urlPath ? 'live' : 'archived',
-    type: project.featured ? 'featured' : 'client'
-  }));
+  useEffect(() => {
+    async function fetchProjects() {
+      try {
+        const data = await sanity.fetch(ALL_PROJECTS, {}, {
+          next: { revalidate: 7200, tags: ['projects'] }
+        });
 
-  return <ArchivePageClient projects={archiveProjects} />;
+        // Transform Sanity projects to ArchiveProject format
+        const archiveProjects: ArchiveProject[] = data.map((project: Project) => ({
+          id: project._id,
+          title: project.title,
+          description: project.description || 'No description available',
+          year: new Date(project.dateCreated).getFullYear().toString(),
+          category: project.industry || 'Hospitality',
+          technologies: project.skills || [],
+          image: project.images?.[0]?.asset?.url,
+          urlPath: project.urlPath,
+          status: project.urlPath ? 'live' : 'archived',
+          type: project.featured ? 'featured' : 'client'
+        }));
+
+        setProjects(archiveProjects);
+      } catch (error) {
+        console.error('Error fetching projects:', error);
+      } finally {
+        setLoading(false);
+      }
+    }
+
+    fetchProjects();
+  }, []);
+
+  if (loading) {
+    return (
+      <div className="min-h-screen bg-background flex items-center justify-center">
+        <div className="text-center">
+          <div className="animate-spin rounded-full h-32 w-32 border-b-2 border-primary mx-auto mb-4"></div>
+          <p className="text-muted-foreground">Loading archive...</p>
+        </div>
+      </div>
+    );
+  }
+
+  return <ArchivePageClient projects={projects} />;
 }
 
 function ArchivePageClient({ projects }: { projects: ArchiveProject[] }) {
