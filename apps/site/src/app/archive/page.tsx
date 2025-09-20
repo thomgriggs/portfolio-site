@@ -110,10 +110,10 @@ export default function ArchivePage() {
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         {/* Page Title */}
         <div className="mb-12">
-          <h1 className="text-4xl sm:text-5xl font-semibold mb-4">
+          <h1 className="text-4xl sm:text-5xl display-serif mb-4">
             Project Archive
           </h1>
-          <p className="text-xl text-muted-foreground max-w-3xl">
+          <p className="text-xl font-serif-body text-muted-foreground max-w-3xl">
             A comprehensive collection of {projects.length} projects spanning over a decade of front-end development work.
           </p>
         </div>
@@ -159,15 +159,15 @@ export default function ArchivePage() {
                 {/* Project Info */}
                 <div className="p-6">
                   <div className="flex items-start justify-between mb-3">
-                    <h3 className="text-lg font-semibold group-hover:text-primary transition-colors">
+                    <h3 className="text-lg font-serif-body font-medium group-hover:text-primary transition-colors">
                       {project.title}
                     </h3>
-                    <span className="text-sm text-muted-foreground ml-2">
+                    <span className="text-sm font-sans text-muted-foreground ml-2">
                       {project.year}
                     </span>
                   </div>
                   
-                  <p className="text-sm text-muted-foreground mb-4 line-clamp-2">
+                  <p className="text-sm font-serif-body text-muted-foreground mb-4 line-clamp-2">
                     {project.description}
                   </p>
                   
@@ -176,13 +176,13 @@ export default function ArchivePage() {
                     {project.technologies.slice(0, 4).map((tech, idx) => (
                       <span 
                         key={idx}
-                        className="px-3 py-1 bg-primary/10 text-primary text-xs font-medium rounded-full border border-primary/20"
+                        className={`px-3 py-1 text-xs font-sans font-medium rounded-full skill-ombre-${Math.min((idx % 5) + 1, 5)}`}
                       >
                         {tech}
                       </span>
                     ))}
                     {project.technologies.length > 4 && (
-                      <span className="px-3 py-1 bg-muted text-muted-foreground text-xs font-medium rounded-full">
+                      <span className="px-3 py-1 bg-muted text-muted-foreground text-xs font-sans font-medium rounded-full">
                         +{project.technologies.length - 4}
                       </span>
                     )}
@@ -194,13 +194,13 @@ export default function ArchivePage() {
                       href={project.urlPath} 
                       target="_blank" 
                       rel="noopener noreferrer"
-                      className="inline-flex items-center text-sm text-primary hover:text-primary/80 transition-colors"
+                      className="inline-flex items-center text-sm font-sans text-primary hover:text-primary/80 transition-colors"
                     >
                       Visit Website
                       <ExternalLink className="w-3 h-3 ml-1" />
                     </a>
                   ) : (
-                    <span className="text-sm text-muted-foreground">
+                    <span className="text-sm font-sans text-muted-foreground">
                       Case Study Coming Soon
                     </span>
                   )}
