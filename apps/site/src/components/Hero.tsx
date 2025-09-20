@@ -107,30 +107,7 @@ export function Hero() {
           </div>
           
           {/* Right side - Visual elements */}
-          <div className="hero-visual" role="complementary" aria-label="Professional profile and skills">
-            <div className="hero-profile-container">
-              <div className="hero-profile-bg" aria-hidden="true"></div>
-              <div className="hero-profile-card" role="region" aria-label="Professional profile card">
-                <div className="hero-profile-image" role="img" aria-label="Profile image placeholder">
-                  <span>Profile Image</span>
-                </div>
-                <div className="hero-profile-details" role="list" aria-label="Professional details">
-                  <div className="hero-profile-detail" role="listitem">
-                    <span className="hero-profile-detail-label">Location</span>
-                    <span className="hero-profile-detail-value">Remote</span>
-                  </div>
-                  <div className="hero-profile-detail" role="listitem">
-                    <span className="hero-profile-detail-label">Experience</span>
-                    <span className="hero-profile-detail-value">10+ Years</span>
-                  </div>
-                  <div className="hero-profile-detail" role="listitem">
-                    <span className="hero-profile-detail-label">Focus</span>
-                    <span className="hero-profile-detail-value">Hospitality</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-            
+          <div className="hero-visual" role="complementary" aria-label="Visual elements">
             {/* Floating badges - only show on larger screens to avoid crowding */}
             <div className="hero-floating-badges" role="region" aria-label="Technical skills badges" aria-hidden="true">
               <div className="hero-floating-badge hero-floating-badge-1" role="img" aria-label="HTML/CSS Expert skill level">
