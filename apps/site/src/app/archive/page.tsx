@@ -40,19 +40,47 @@ export default function ArchivePage() {
         const data = await response.json();
         console.log('Data received:', data.length, 'projects');
         
-        const archiveProjects: ArchiveProject[] = data.map((project: any) => ({
-          id: project._id,
-          title: project.title,
-          description: project.description || 'No description available',
-          year: new Date(project.dateCreated).getFullYear().toString(),
-          category: project.industry?.toLowerCase() || 'hospitality',
-          technologies: project.skills || [],
-          image: project.images?.[0]?.asset?.url,
-          urlPath: project.urlPath,
-          status: project.urlPath ? 'live' : 'archived',
-          type: project.featured ? 'featured' : 'client'
-        }));
+        // Add timeout to prevent infinite loading
+        setTimeout(() => {
+          if (loading) {
+            console.log('Timeout reached, setting loading to false');
+            setLoading(false);
+          }
+        }, 5000);
+        
+        console.log('Processing projects...');
+        const archiveProjects: ArchiveProject[] = data.map((project: any) => {
+          try {
+            return {
+              id: project._id || 'unknown',
+              title: project.title || 'Untitled Project',
+              description: project.description || 'No description available',
+              year: project.dateCreated ? new Date(project.dateCreated).getFullYear().toString() : '2024',
+              category: project.industry?.toLowerCase() || 'hospitality',
+              technologies: project.skills || [],
+              image: project.images?.[0]?.asset?.url,
+              urlPath: project.urlPath,
+              status: project.urlPath ? 'live' : 'archived',
+              type: project.featured ? 'featured' : 'client'
+            };
+          } catch (err) {
+            console.error('Error processing project:', project, err);
+            return {
+              id: 'error',
+              title: 'Error Project',
+              description: 'Error processing this project',
+              year: '2024',
+              category: 'other',
+              technologies: [],
+              image: undefined,
+              urlPath: undefined,
+              status: 'archived',
+              type: 'client'
+            };
+          }
+        });
 
+        console.log('Projects processed:', archiveProjects.length);
         setProjects(archiveProjects);
       } catch (error) {
         console.error('Error fetching projects:', error);
