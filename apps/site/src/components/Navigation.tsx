@@ -14,7 +14,6 @@ export default function Header() {
   const isHomePage = pathname === '/';
 
   const navItems = [
-    { id: 'about', label: 'About' },
     { id: 'projects', label: 'Projects' },
     { id: 'skills', label: 'Skills' },
     { id: 'contact', label: 'Contact' }
