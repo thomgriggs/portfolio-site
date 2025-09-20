@@ -97,8 +97,7 @@ export function Skills() {
             Technical <span className="text-primary italic">Skills</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-4xl mx-auto leading-relaxed">
-            Skills developed over 10+ years working in hospitality web development, 
-            with growing experience in modern frameworks and development workflows.
+            Technical capabilities and tools I use to build clean, accessible websites.
           </p>
         </div>
 
@@ -212,20 +211,6 @@ export function Skills() {
           </CardContent>
         </Card>
 
-        {/* Growth mindset */}
-        <div className="mt-16 text-center bg-gradient-to-r from-primary/5 to-accent/5 rounded-3xl p-8 md:p-12">
-          <div className="max-w-2xl mx-auto">
-            <h3 className="text-2xl font-semibold mb-4 text-foreground">Always Learning</h3>
-            <p className="text-lg text-muted-foreground mb-6">
-              Currently learning React, TypeScript, and exploring AI-enhanced development while 
-              building on my foundation in hand-crafted, accessible web experiences.
-            </p>
-            <div className="inline-flex items-center text-primary font-medium">
-              <Brain className="w-4 h-4 mr-2" />
-              Exploring new technologies and approaches
-            </div>
-          </div>
-        </div>
       </div>
     </section>
   );

@@ -43,21 +43,13 @@ export function Hero() {
             
             <div className="hero-description">
               <p className="hero-description-text" role="text" aria-label="Professional description">
-                Crafting pixel-perfect, responsive websites for the hospitality industry. 
-                <span className="text-foreground font-medium" aria-label="10 plus years of experience">
-                  <Counter end={10} suffix="+ years" />
-                </span> of hand-coding 
-                with a deep appreciation for <span className="text-foreground font-medium">typography</span> and 
-                the <span className="text-foreground font-medium">craft</span>.
+                Front-end developer building clean, accessible sites.
               </p>
               
               <div className="hero-status" role="status" aria-live="polite">
                 <div className="hero-status-item">
                   <div className="hero-status-dot" aria-hidden="true"></div>
                   <span>Available for work</span>
-                </div>
-                <div>
-                  <Counter end={260} suffix="+ websites" /> delivered
                 </div>
               </div>
             </div>
