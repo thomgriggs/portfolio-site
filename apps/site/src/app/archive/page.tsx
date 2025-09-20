@@ -172,18 +172,18 @@ export default function ArchivePage() {
                   </p>
                   
                   {/* Technologies */}
-                  <div className="flex flex-wrap gap-1 mb-4">
-                    {project.technologies.slice(0, 3).map((tech, idx) => (
+                  <div className="flex flex-wrap gap-2 mb-4">
+                    {project.technologies.slice(0, 4).map((tech, idx) => (
                       <span 
                         key={idx}
-                        className="px-2 py-1 bg-muted text-muted-foreground text-xs rounded"
+                        className="px-3 py-1 bg-primary/10 text-primary text-xs font-medium rounded-full border border-primary/20"
                       >
                         {tech}
                       </span>
                     ))}
-                    {project.technologies.length > 3 && (
-                      <span className="px-2 py-1 bg-muted text-muted-foreground text-xs rounded">
-                        +{project.technologies.length - 3}
+                    {project.technologies.length > 4 && (
+                      <span className="px-3 py-1 bg-muted text-muted-foreground text-xs font-medium rounded-full">
+                        +{project.technologies.length - 4}
                       </span>
                     )}
                   </div>
