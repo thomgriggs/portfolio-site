@@ -1,8 +1,9 @@
 import React from 'react';
-import { sanity } from '@/sanity/client';
-import { ALL_PROJECTS } from '@/sanity/queries';
-import type { Project } from '@/types/sanity';
+import { sanity } from '../../sanity/client';
+import { ALL_PROJECTS } from '../../sanity/queries';
+import type { Project } from '../../types/sanity';
 import ArchiveClient from './ArchiveClient';
+import './archive.css';
 
 // Optimized caching strategy
 export const revalidate = 7200; // Revalidate every 2 hours

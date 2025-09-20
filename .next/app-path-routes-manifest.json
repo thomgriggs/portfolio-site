@@ -1,0 +1,21 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/rss.xml/route": "/rss.xml",
+  "/favicon.ico/route": "/favicon.ico",
+  "/robots.txt/route": "/robots.txt",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/contact/page": "/contact",
+  "/logo-showcase/page": "/logo-showcase",
+  "/now/page": "/now",
+  "/preview-demo/page": "/preview-demo",
+  "/projects/page": "/projects",
+  "/archive/page": "/archive",
+  "/about/page": "/about",
+  "/notes/page": "/notes",
+  "/page": "/",
+  "/photos/page": "/photos",
+  "/email-design/page": "/email-design",
+  "/work/page": "/work",
+  "/api/og/route": "/api/og",
+  "/opengraph-image/route": "/opengraph-image"
+}

@@ -1,0 +1,29 @@
+{
+  "exportDate": "2025-09-19T17:15:03.868Z",
+  "projectId": "669ljbt4",
+  "dataset": "production",
+  "stats": {
+    "totalProjects": 258,
+    "featuredProjects": 3,
+    "totalContent": 258,
+    "industries": [
+      "hospitality",
+      "other",
+      "spa-wellness"
+    ],
+    "skills": [
+      "RV",
+      "Hotel",
+      "Restaurant",
+      "Spa",
+      "Golf",
+      "Salon",
+      "Framing",
+      "Data"
+    ]
+  },
+  "files": {
+    "projects": "sanity-projects-export.json",
+    "allContent": "sanity-all-content-export.json"
+  }
+}

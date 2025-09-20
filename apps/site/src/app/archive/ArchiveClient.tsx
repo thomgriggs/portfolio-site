@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState, useMemo, useCallback, useEffect, useRef } from 'react';
-import type { Project } from '@/types/sanity';
+import type { Project } from '../../types/sanity';
 import Link from 'next/link';
 import ImprovedCardPreview from './ImprovedCardPreview';
 
@@ -171,7 +171,7 @@ export default function ArchiveClient({ projects }: ArchiveClientProps) {
               Showing {visibleProjects.length} of {filteredProjects.length} projects
               {hasMore && (
                 <span className="archive-results-hint">
-                  (scroll to load more)
+                  {' '}(scroll to load more)
                 </span>
               )}
             </p>

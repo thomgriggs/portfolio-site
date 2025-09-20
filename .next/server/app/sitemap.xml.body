@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://thomgriggs-portfolio.vercel.app/</loc>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://thomgriggs-portfolio.vercel.app/projects</loc>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://thomgriggs-portfolio.vercel.app/about</loc>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://thomgriggs-portfolio.vercel.app/contact</loc>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://thomgriggs-portfolio.vercel.app/notes</loc>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://thomgriggs-portfolio.vercel.app/archive</loc>
+<priority>0.7</priority>
+</url>
+</urlset>

@@ -1,0 +1,6029 @@
+[
+  {
+    "_id": "935ba1f3-51f1-4baa-bd60-1592dc7ed1d3",
+    "dateCreated": "2025-09-09",
+    "description": "Luxury hotel rebuild with sliders, filtering, popups; tuned for performance.",
+    "featured": true,
+    "images": [
+      {
+        "_key": "image-0-1757538360426",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/cea0e993ad43c26ae9017a44242d9e83479f9b43-1400x9460.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [],
+    "title": "Hotel Palombaggia",
+    "urlPath": null
+  },
+  {
+    "_id": "eaef51e2-ea09-46d7-8e5a-2e40d9464122",
+    "dateCreated": "2025-09-09",
+    "description": "No description available",
+    "featured": true,
+    "images": [
+      {
+        "_key": "image-0-1757538361790",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/221dff7de012cd801cd94233e4e9785defcf4ffb-1400x709.webp"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [],
+    "title": "Maison Heler",
+    "urlPath": null
+  },
+  {
+    "_id": "project-20",
+    "dateCreated": "2022-04-30",
+    "description": "Description",
+    "featured": true,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/ca2ff79bc524ef0305b596da23fbb488071f8cd3-1400x5408.webp"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "RV"
+    ],
+    "title": "Optimum RV",
+    "urlPath": "https://optimumrv.com/"
+  },
+  {
+    "_id": "project-186",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/699bd2eca9ead0cf42138a794f47c3c0da1cfbaa-1400x4061.webp"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "1er etage",
+    "urlPath": "https://1eretage.com/"
+  },
+  {
+    "_id": "project-189",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/78dd85ddab17a8db3c231cceb55d3f0cc6db429c-1400x2464.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Alma Hotel",
+    "urlPath": "https://almahotel.fr/"
+  },
+  {
+    "_id": "project-190",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/afab036df3d20935ce6b7750cf378eb16213fdc1-1400x6559.webp"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Altai Courchevel",
+    "urlPath": "https://altai-courchevel.com/"
+  },
+  {
+    "_id": "project-192",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/9b1ad00f5ed7b5ac5b4cd29c6d6774aaecc19350-1400x5325.webp"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Brasserie Leschenapans",
+    "urlPath": "https://brasserie-leschenapans.com/fr/"
+  },
+  {
+    "_id": "project-200",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/42709eff0eac53c56a1df19fbc9b5592ad435108-1400x6613.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "College Hotel",
+    "urlPath": "https://college-hotel.com/"
+  },
+  {
+    "_id": "project-202",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/4c0ceef4903b0022df74d6555cf165195984bffd-1400x1057.webp"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Elysees Union Apartments",
+    "urlPath": "https://elyseesunionapartments.com/"
+  },
+  {
+    "_id": "project-206",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/c71d868262d1ee6b9601a2fec22dd6984bbd61f1-1400x7259.webp"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hostellerie Du Lys",
+    "urlPath": "https://hostelleriedulys.com/"
+  },
+  {
+    "_id": "project-210",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/11e91fd980fdb5a540e0760a48984adda88e1da6-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "The Wall Street Inn",
+    "urlPath": "https://thewallstreetinn.com//"
+  },
+  {
+    "_id": "project-211",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/ad2d32e999d05391583d24078c7eace707a201c2-1400x2573.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotel Parc Montsouris",
+    "urlPath": "https://hotel-parc-montsouris.com/"
+  },
+  {
+    "_id": "project-212",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/0c134a6a10659199caeb7a2eb5f6f38ab61f79ec-1400x2068.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotel Paris Petitlouvre",
+    "urlPath": "https://hotel-paris-petitlouvre.com/"
+  },
+  {
+    "_id": "project-213",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/d4162abd8780bd61608db04fb3f06dc047a10e4a-1400x717.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotel Paris Printemps",
+    "urlPath": "https://hotel-paris-printemps.com/"
+  },
+  {
+    "_id": "project-214",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/8d787a85bfc3f3bc531e0a980cec1a42c1211257-1400x3778.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotel WYLD Saint Germain",
+    "urlPath": "https://hotel-paris-stgermain.com/"
+  },
+  {
+    "_id": "project-216",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/be90facc65c72276bd85081e68198dd37f6f90b9-1400x4308.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotel Royal St Honore",
+    "urlPath": "https://hotel-royal-st-honore.com/"
+  },
+  {
+    "_id": "project-217",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/c9c935253cca3a1ddac2242ffa65bf32806739df-1400x4086.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotel Beauregard",
+    "urlPath": "https://hotelbeauregard.fr/"
+  },
+  {
+    "_id": "project-220",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/03ddca97d6753c3776019a155d982ff2958d19ab-1400x4432.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotel Chateaudeau",
+    "urlPath": "https://hotelchateaudeau.com/"
+  },
+  {
+    "_id": "project-221",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/42ced9e379b0ae7000d5e2d9969fd942c2f1c231-1400x3691.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotel de la Boetie",
+    "urlPath": "https://hoteldelaboetie.com/"
+  },
+  {
+    "_id": "project-223",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/c2d9eb068f9051ad9fb10548a1246cac294d0c30-1400x4330.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotel Edouard 6",
+    "urlPath": "https://hoteledouard6.com/"
+  },
+  {
+    "_id": "project-232",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/a54a9d6f5506b73b625b8919b1a4727390f7ca5a-1400x769.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotel Sparis Versailles",
+    "urlPath": "https://hotelsparisversailles.com/"
+  },
+  {
+    "_id": "project-233",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/08f9f9237e96674a342a9f4264d4781dedee4c07-1400x3930.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotel Waldorf",
+    "urlPath": "https://hotelwaldorf.fr/"
+  },
+  {
+    "_id": "project-234",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/b955a1812f806b82e2d68ad8c966512833f461e7-1400x4360.webp"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Ivi Mare Paphos",
+    "urlPath": "https://ivimarepaphos.com/"
+  },
+  {
+    "_id": "project-235",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/902473cb6512589e19d0f27e26344124d4895dcd-1400x7334.webp"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Welfi Hospitality",
+    "urlPath": "https://welfihospitality.com/"
+  },
+  {
+    "_id": "project-239",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/e4ec1b6bd7b6c9943f7fb65d9eb4b73a195514c3-1400x5484.webp"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "The Augustin",
+    "urlPath": "https://theaugustin.com/"
+  },
+  {
+    "_id": "project-240",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/bdab348152a4b09a1e9ed09d85552c7ac3ce71d9-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Relais Du Moulin",
+    "urlPath": "https://relaisdumoulin.com/"
+  },
+  {
+    "_id": "project-242",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/4b1f98a792608b9956638c3dccc9e69c740b9a3a-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Paris Hotel Yllen Eiffel",
+    "urlPath": "https://paris-hotel-yllen-eiffel.com/"
+  },
+  {
+    "_id": "project-244",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/363bf2aa439ade1bc5a116f8cc2872ce03b057ca-1400x4032.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Odeon Hotel",
+    "urlPath": "https://odeonhotel.fr/"
+  },
+  {
+    "_id": "project-245",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/a4d41b7a537e88803fd444378401a01323428d5d-1400x1544.webp"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "My Home in Paris",
+    "urlPath": "https://myhomeinparis.fr/"
+  },
+  {
+    "_id": "project-246",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/407b5db504b1b03b6863d347802c62575d0888cc-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Moulin Plaza",
+    "urlPath": "https://moulinplaza.com/"
+  },
+  {
+    "_id": "project-253",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/b0b1e4f74ce4798d768ce1970d08fc489eb33e95-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Les Maisons de Lea",
+    "urlPath": "https://lesmaisonsdelea.com/"
+  },
+  {
+    "_id": "project-49",
+    "dateCreated": "2025-09-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/d49cc94cdadef3e8e38bd599d5f5db81fd141109-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Legend Beach",
+    "urlPath": "https://legend-beach.com/"
+  },
+  {
+    "_id": "project-188",
+    "dateCreated": "2025-06-12",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/ca95d88a5d009b6557aa5c3ac887c6fd6192220b-1400x6661.webp"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Akan Collection",
+    "urlPath": "https://akancollection.com/"
+  },
+  {
+    "_id": "project-250",
+    "dateCreated": "2025-04-17",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/1322e78f3fc55aed96c610a0591c9976bb2c7dc5-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Maison des Armateurs",
+    "urlPath": "https://maisondesarmateurs.com/"
+  },
+  {
+    "_id": "project-237",
+    "dateCreated": "2025-03-04",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/ab7822d307feed9f8d4f805e70aed0e4948af0b9-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Tortiniere",
+    "urlPath": "https://tortiniere.fr/"
+  },
+  {
+    "_id": "project-231",
+    "dateCreated": "2025-01-18",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/a058a4cd3052b6ba38c06f0be1241e1a4ee08983-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotels Demeures Historiques",
+    "urlPath": "https://hotels-demeures-historiques.com/"
+  },
+  {
+    "_id": "project-54",
+    "dateCreated": "2025-01-02",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/b97046721b93ca0cad55eab891ae249381e98ad4-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Les Berges de Palombaggia",
+    "urlPath": "https://hotel-palombaggia.com/"
+  },
+  {
+    "_id": "project-249",
+    "dateCreated": "2024-12-04",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/1322e78f3fc55aed96c610a0591c9976bb2c7dc5-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Maison Heler Metz",
+    "urlPath": "https://maisonhelermetz.com/"
+  },
+  {
+    "_id": "project-70",
+    "dateCreated": "2024-11-21",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/ab7822d307feed9f8d4f805e70aed0e4948af0b9-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "thousandhillsresorthotel",
+    "urlPath": "https://thousandhillsresorthotel.com/"
+  },
+  {
+    "_id": "project-140",
+    "dateCreated": "2024-10-02",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539244321",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/aea976019f089749b2a934417bfdb25f1511c966-1400x4577.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Pomeroy Hotel",
+    "urlPath": "https://pomeroyhotel.com/"
+  },
+  {
+    "_id": "project-194",
+    "dateCreated": "2024-08-05",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/76f74b275a8a93a22ebaff8ccfe06b08d23b7224-1400x2115.webp"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Cendyn Website",
+    "urlPath": "https://cendyn-website.com/"
+  },
+  {
+    "_id": "project-251",
+    "dateCreated": "2024-07-27",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/ffcaa26d9f2c16125711a5e56a130ff6a7225d87-1400x5137.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Lyric Hotel Paris",
+    "urlPath": "https://lyrichotelparis.com/"
+  },
+  {
+    "_id": "project-196",
+    "dateCreated": "2024-07-08",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/dd07199a485ac829e33ea8ee3ad70c89c7b0673d-1400x6650.webp"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Chateau des Avenieres",
+    "urlPath": "https://chateau-des-avenieres.com/"
+  },
+  {
+    "_id": "project-241",
+    "dateCreated": "2024-07-02",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/79133938f62ecd849f5c957be1f7d1398f27b206-1400x7914.webp"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Restaurant"
+    ],
+    "title": "Pecora Negra",
+    "urlPath": "https://pecoranegra.fr/"
+  },
+  {
+    "_id": "project-198",
+    "dateCreated": "2024-05-29",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/08444f99bba9d48769be6f758c4b694ff70ff368-400x300.svg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Chateaula Commaraine",
+    "urlPath": "https://chateaulacommaraine.com/"
+  },
+  {
+    "_id": "project-199",
+    "dateCreated": "2024-04-23",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/c7a82bc7a50f02a63bfc25a196b6787a2c606f13-1400x4998.webp"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Collection Vesper",
+    "urlPath": "https://collectionvesper.com/"
+  },
+  {
+    "_id": "project-254",
+    "dateCreated": "2024-04-05",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/08444f99bba9d48769be6f758c4b694ff70ff368-400x300.svg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Liss Ard Estate",
+    "urlPath": "https://lissardestate.ie/"
+  },
+  {
+    "_id": "project-187",
+    "dateCreated": "2024-04-03",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/2530bb11ff1a84ebc464aa77eeac6203f5d0bb66-1400x709.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Academie Hotel",
+    "urlPath": "https://academie-hotel.com/"
+  },
+  {
+    "_id": "project-219",
+    "dateCreated": "2024-03-04",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/f5ed595a4a89181b83f2779dd7e2e0e8a6356d9a-1400x5897.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotel Charlemagne",
+    "urlPath": "https://hotelcharlemagne.com/"
+  },
+  {
+    "_id": "project-205",
+    "dateCreated": "2024-01-29",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/d30b1d402bbee66f40e8c69185345b38b115304d-1400x6057.webp"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Grand Barrail",
+    "urlPath": "https://grand-barrail.com/"
+  },
+  {
+    "_id": "project-255",
+    "dateCreated": "2024-01-19",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/08444f99bba9d48769be6f758c4b694ff70ff368-400x300.svg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Libert Everdon",
+    "urlPath": "https://liberteverdon.com/"
+  },
+  {
+    "_id": "project-256",
+    "dateCreated": "2024-01-19",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/08444f99bba9d48769be6f758c4b694ff70ff368-400x300.svg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Libert Landrellec",
+    "urlPath": "https://libertelandrellec.com/"
+  },
+  {
+    "_id": "project-257",
+    "dateCreated": "2024-01-19",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/08444f99bba9d48769be6f758c4b694ff70ff368-400x300.svg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Liberte Lacanau",
+    "urlPath": "https://libertelacanau.com/"
+  },
+  {
+    "_id": "project-248",
+    "dateCreated": "2024-01-04",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/455ca799bba3cf5ace2789ebf89cf175ed6aae49-1400x5303.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Makass Appart Hotel",
+    "urlPath": "https://makassapparthotel.com/"
+  },
+  {
+    "_id": "project-193",
+    "dateCreated": "2023-12-19",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/c92f86f4770dde745385bb48d1599f2446f141d3-1400x5144.webp"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Campings Liberte",
+    "urlPath": "https://campingsliberte.com/"
+  },
+  {
+    "_id": "project-230",
+    "dateCreated": "2023-11-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/b8165bf19509bbfc0e172b8a4de5f0bcd7b6fee9-1400x4777.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotel Paris Muguet",
+    "urlPath": "https://hotelparismuguet.com/"
+  },
+  {
+    "_id": "project-224",
+    "dateCreated": "2023-10-17",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/fbc663da5a3574e9f47e9d7abdb92ecf4d1a4b83-1400x6042.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotel Epoque",
+    "urlPath": "https://hotelepoque.ro/"
+  },
+  {
+    "_id": "project-252",
+    "dateCreated": "2023-09-10",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/df9a5d72f9d7d0ebe0799cee8b75ed49a9b9484c-1400x7830.webp"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "les Cures Marines",
+    "urlPath": "https://lescuresmarines.com/"
+  },
+  {
+    "_id": "project-195",
+    "dateCreated": "2023-08-23",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/3fa5ae87a7e81ab14b6dd46c1db9f1a54986eb9b-1400x6093.webp"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Chateau Apigne",
+    "urlPath": "https://chateau-apigne.fr/"
+  },
+  {
+    "_id": "project-225",
+    "dateCreated": "2023-08-10",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/bd8dd7e60828b263769b5fac78378512c7fa4bfb-1400x709.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotel Florida Paris",
+    "urlPath": "https://hotelfloridaparis.ro/"
+  },
+  {
+    "_id": "project-229",
+    "dateCreated": "2023-07-25",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/b3259189ff1d03d7aad583c92aaaafd7904d5625-1400x6645.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotel Norman",
+    "urlPath": "https://hotelnorman.com/"
+  },
+  {
+    "_id": "project-226",
+    "dateCreated": "2023-06-28",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/17d8aa331c949e6941044280e3ce217c524377b9-1400x6379.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotel le Doge",
+    "urlPath": "https://hotelledoge.com/"
+  },
+  {
+    "_id": "project-236",
+    "dateCreated": "2023-06-23",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/f8dc0a82956b02e26f4c94e946767fa4f416c0dc-1400x2103.webp"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Valdiski",
+    "urlPath": "https://valdiski.com/"
+  },
+  {
+    "_id": "project-247",
+    "dateCreated": "2023-05-31",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/7f8626fc188b40cc4f8f497cb504cd867561e31c-1400x7196.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Malone Hotels",
+    "urlPath": "https://malonehotels.com/"
+  },
+  {
+    "_id": "project-203",
+    "dateCreated": "2023-05-17",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/a5928209f9419d698f6aafba93bd7c1584fdc8ee-1400x7642.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Fourviere Hotel",
+    "urlPath": "https://fourviere-hotel.com/"
+  },
+  {
+    "_id": "project-215",
+    "dateCreated": "2023-04-27",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/51d5fc1a58f1761897064cf0c610a9c75cb471b9-1400x6505.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotel Pont Royal",
+    "urlPath": "https://hotel-pont-royal.com/"
+  },
+  {
+    "_id": "project-222",
+    "dateCreated": "2023-04-12",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/10ed43b657acacb455047fdc044c7ead25fca5b2-1400x5951.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotel Des Dunes",
+    "urlPath": "https://hoteldesdunes.com/"
+  },
+  {
+    "_id": "project-191",
+    "dateCreated": "2023-03-28",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/c81cf33ed10c4598ac0459378664d837c3b9313e-1400x5849.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Ares Paris Hotel",
+    "urlPath": "https://ares-paris-hotel.com/"
+  },
+  {
+    "_id": "project-204",
+    "dateCreated": "2023-03-15",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/82ce614a57cb70207d58ced91dcda38f9effafbe-1400x2402.webp"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Gardinier",
+    "urlPath": "https://gardinier.com/"
+  },
+  {
+    "_id": "project-62",
+    "dateCreated": "2023-02-23",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/28adf12bb3ff6193ea439f3b6e8551d9a36cd856-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotel Prieure",
+    "urlPath": "https://hotelprieure.fr/"
+  },
+  {
+    "_id": "project-209",
+    "dateCreated": "2023-02-14",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/28adf12bb3ff6193ea439f3b6e8551d9a36cd856-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotel Moliere",
+    "urlPath": "https://hotel-moliere.fr/"
+  },
+  {
+    "_id": "project-93",
+    "dateCreated": "2023-01-20",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/7727f898a6f6b48af3a34b9a005fd194a6a5dd9c-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Chateau de Riell",
+    "urlPath": "https://chateauderiell.com/"
+  },
+  {
+    "_id": "project-207",
+    "dateCreated": "2022-10-24",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/48c68bfb2e43a5fec786bb86a9e30349576e35c3-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Le Bois Joli",
+    "urlPath": "https://hotel-bois-joli.fr/"
+  },
+  {
+    "_id": "project-243",
+    "dateCreated": "2022-09-26",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/4b1f98a792608b9956638c3dccc9e69c740b9a3a-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Paris Hotel Lion",
+    "urlPath": "https://paris-hotel-lion.com/"
+  },
+  {
+    "_id": "project-68",
+    "dateCreated": "2022-08-18",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/b19cd6f81641a7c40c5f10e6423a2cdf1c9a5a1f-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "St Mellion Estate",
+    "urlPath": "https://st-mellion.co.uk/"
+  },
+  {
+    "_id": "project-208",
+    "dateCreated": "2022-08-12",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/97272885ac4a539d4fc4480cde767f5297cd9b45-1400x5664.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotel Grichting",
+    "urlPath": "https://hotel-grichting.com/"
+  },
+  {
+    "_id": "project-4",
+    "dateCreated": "2022-07-25",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/e2f5455b11cd224e71ba5a30cb5a62fdd16ad35c-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa",
+      "Golf"
+    ],
+    "title": "Hotel Golf Chateau De Chailly",
+    "urlPath": "https://chailly.com/"
+  },
+  {
+    "_id": "project-201",
+    "dateCreated": "2022-07-13",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/9b2b278dfa04a7ce9d177bbe73c847535cf532c1-1400x7294.webp"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Drouant",
+    "urlPath": "https://drouant.com/"
+  },
+  {
+    "_id": "project-228",
+    "dateCreated": "2022-07-06",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/28adf12bb3ff6193ea439f3b6e8551d9a36cd856-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotel Monge",
+    "urlPath": "https://hotelmonge.com/"
+  },
+  {
+    "_id": "project-227",
+    "dateCreated": "2022-06-28",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/8e87361e4c1ddaba17b80f6439e3d2b47f96fc8b-1400x6299.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotel M Merignac",
+    "urlPath": "https://hotelm-merignac.com/"
+  },
+  {
+    "_id": "project-132",
+    "dateCreated": "2022-06-20",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538558724",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/baaaa80b765b64208633aacf0f93488535df54f1-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Relais Christine",
+    "urlPath": "https://relais-christine.com/"
+  },
+  {
+    "_id": "project-258",
+    "dateCreated": "2022-06-06",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/08444f99bba9d48769be6f758c4b694ff70ff368-400x300.svg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Leto Hydra",
+    "urlPath": "https://letohydra.gr/"
+  },
+  {
+    "_id": "project-128",
+    "dateCreated": "2022-04-30",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538553659",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/e0fc14a1541982d3a3223800c3ce5f11091334c0-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Pastel Paris",
+    "urlPath": "https://hotelpastelparis.com/"
+  },
+  {
+    "_id": "project-136",
+    "dateCreated": "2022-04-30",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538562794",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/5daa2a77f4e0b9fc35d8aefc2fcd4c787d218582-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Chateau de Sainte Feyre",
+    "urlPath": "https://chateaudesaintefeyre.com/"
+  },
+  {
+    "_id": "project-18",
+    "dateCreated": "2022-04-30",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539304462",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/6cf4fc9500ad0ee721df87f88fcbf1f895d384d8-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Salon"
+    ],
+    "title": "ENV Hair Studio",
+    "urlPath": "https://envhairstudio.com/"
+  },
+  {
+    "_id": "project-19",
+    "dateCreated": "2022-04-30",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/02d299b4cddd85b1e04a1098bca660e4e9cb89dd-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Framing"
+    ],
+    "title": "F and S Framing",
+    "urlPath": "https://fandsframing.com/"
+  },
+  {
+    "_id": "project-21",
+    "dateCreated": "2022-04-30",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/ea7861a2421c7ea9470b299ab64ca32ccdbb2050-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Data"
+    ],
+    "title": "Qlik",
+    "urlPath": "https://hepcatstudios.com/QlikCentral/website/index.php"
+  },
+  {
+    "_id": "project-87",
+    "dateCreated": "2022-03-24",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/cdc60acd28ae92025b3bd5c46f595780e8d9ec1c-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Brittany & Spa Hotel Restaurant Spa",
+    "urlPath": "https://hotel-brittany.com/"
+  },
+  {
+    "_id": "project-125",
+    "dateCreated": "2022-03-17",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538550626",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/5f27b6a51838db972f687edd406cb8975d563078-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Panache",
+    "urlPath": "https://hotelpanache.com/"
+  },
+  {
+    "_id": "project-97",
+    "dateCreated": "2022-03-01",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/ee0a80ac45c487b1c4564890624425bbcd81baac-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Donjon Vincennes",
+    "urlPath": "https://hotel-donjon-vincennes.fr/"
+  },
+  {
+    "_id": "project-6",
+    "dateCreated": "2022-02-17",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/9257580dac5da31118170f8238b5ea3280f5b773-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Chateau Le Cagnard",
+    "urlPath": "https://lecagnard.fr/"
+  },
+  {
+    "_id": "project-63",
+    "dateCreated": "2022-02-16",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/2f4399a6557de647bc9461f0d4eed9251444d65e-1400x1400.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel De Re",
+    "urlPath": "https://hoteldere.com/"
+  },
+  {
+    "_id": "project-66",
+    "dateCreated": "2022-01-20",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/beb460392bdefb04646449531b5ce4bb3152b07a-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "7 Eiffel Hotel",
+    "urlPath": "https://hotel-7eiffel-paris.com/"
+  },
+  {
+    "_id": "project-42",
+    "dateCreated": "2022-01-04",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/4adf9fe875d63ec6d85ada4880d8e08cdd3ed641-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Eifel Segur",
+    "urlPath": "https://paris-hotel-eiffel-segur.com/"
+  },
+  {
+    "_id": "project-48",
+    "dateCreated": "2022-01-04",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/a058a4cd3052b6ba38c06f0be1241e1a4ee08983-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "KRS Hotels",
+    "urlPath": "https://krshotels.com/"
+  },
+  {
+    "_id": "project-34",
+    "dateCreated": "2021-12-17",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/b0b1e4f74ce4798d768ce1970d08fc489eb33e95-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Residence Charles Floquet",
+    "urlPath": "https://residence-charles-floquet.fr/"
+  },
+  {
+    "_id": "project-40",
+    "dateCreated": "2021-12-17",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/bdab348152a4b09a1e9ed09d85552c7ac3ce71d9-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel du Bois",
+    "urlPath": "https://hoteldubois.com/"
+  },
+  {
+    "_id": "project-43",
+    "dateCreated": "2021-12-17",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/7245d0b6eaa6786a115e5723bb0db727711b6c5d-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Elysees Union",
+    "urlPath": "https://elysees-paris-hotel.com/"
+  },
+  {
+    "_id": "project-44",
+    "dateCreated": "2021-12-17",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/aa7349192768c15d6a8d7b19ff5e623bf550a1bf-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Folkestone Opera",
+    "urlPath": "https://folkestone-paris-hotel.com/"
+  },
+  {
+    "_id": "project-75",
+    "dateCreated": "2021-12-17",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/aa7349192768c15d6a8d7b19ff5e623bf550a1bf-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Washington Opera",
+    "urlPath": "https://hotelwashingtonopera.com/"
+  },
+  {
+    "_id": "project-46",
+    "dateCreated": "2021-12-14",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/28adf12bb3ff6193ea439f3b6e8551d9a36cd856-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Demeures Historiques",
+    "urlPath": "https://hotels-demeures-historiques.com/"
+  },
+  {
+    "_id": "project-91",
+    "dateCreated": "2021-12-13",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/65785a9d1ac68770375385eb39aa8743b0368367-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Elysees Ceramic",
+    "urlPath": "https://ceramic-paris-hotel.com/"
+  },
+  {
+    "_id": "project-60",
+    "dateCreated": "2021-12-11",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/893e65746fea60e58ad6cfc87e276ef6395a30b5-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Mythic Suites",
+    "urlPath": "https://mythic-resort.com/"
+  },
+  {
+    "_id": "project-98",
+    "dateCreated": "2021-12-07",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/3004e9c1b7f65000b9bc09abf119da66a218ae1a-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Ecrin Blanc Courchevel",
+    "urlPath": "https://residenceecrinblanccourchevel.com/"
+  },
+  {
+    "_id": "project-2",
+    "dateCreated": "2021-11-30",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/2fdbe992983530aaa675c4631e4c1cf581b1c58a-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Bernard Loiseau",
+    "urlPath": "https://bernard-loiseau.com/"
+  },
+  {
+    "_id": "project-121",
+    "dateCreated": "2021-11-17",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538546585",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/85eac48e9a59e3095a9f9368069a6fe7de3add5b-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Montleuri Paris",
+    "urlPath": "https://paris-hotel-montfleuri.com/"
+  },
+  {
+    "_id": "project-59",
+    "dateCreated": "2021-10-14",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/407b5db504b1b03b6863d347802c62575d0888cc-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Moulin Royale",
+    "urlPath": "https://moulinroyale.com/"
+  },
+  {
+    "_id": "project-86",
+    "dateCreated": "2021-10-14",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/efb36e36e9061a441638a303be05a2b2ae8dc5a8-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Bloomhouse Hotel Paris",
+    "urlPath": "https://bloomhouse-hotel.com/"
+  },
+  {
+    "_id": "project-57",
+    "dateCreated": "2021-09-30",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/cdcad9e693f8f426b96e566ebfebe05a141da327-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Marguery Villas",
+    "urlPath": "https://marguery-villas-resort.com/"
+  },
+  {
+    "_id": "project-69",
+    "dateCreated": "2021-09-08",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/8ad7e5d743eb7677fd388884fde61d48df128550-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Sydney Opera",
+    "urlPath": "https://paris-hotel-sydney.com/"
+  },
+  {
+    "_id": "project-58",
+    "dateCreated": "2021-08-25",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/6c3c73c5d4fcb82d5cbd2b767a1c17ebce136319-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Montien Hotel",
+    "urlPath": "https://montienbangkok.com/"
+  },
+  {
+    "_id": "project-14",
+    "dateCreated": "2021-07-27",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539243306",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/561b8695a77524def5e0ad129e4e2be92516a321-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "MJ Holidays",
+    "urlPath": "https://mjholidays.com/"
+  },
+  {
+    "_id": "project-163",
+    "dateCreated": "2021-07-27",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539276197",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/46f25367d0b9659554f654845ea21e175200f797-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Dandy Hotel Paris",
+    "urlPath": "https://dandyhotelparis.com/"
+  },
+  {
+    "_id": "project-52",
+    "dateCreated": "2021-07-15",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/f5930d39696b8cd16a89ead1c912e0c8efc09111-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Le Millie Rose Hotel Paris",
+    "urlPath": "https://hotellemilierose.com/"
+  },
+  {
+    "_id": "project-72",
+    "dateCreated": "2021-07-07",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/749aaf74e826f4ebac331b93aa9c4c8433110b68-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Vendome Opera Hotel",
+    "urlPath": "https://vendomeopera.com/"
+  },
+  {
+    "_id": "project-15",
+    "dateCreated": "2021-06-25",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539259994",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/2489384d2c2306c2ed1e7aa04d4d05d02a6358b5-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Pine Cay",
+    "urlPath": "https://pinecay.com/"
+  },
+  {
+    "_id": "project-61",
+    "dateCreated": "2021-06-25",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/7ac33962968590984a0048213212ccce143a329b-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Pine Cay Properties",
+    "urlPath": "https://pinecayproperties.com/"
+  },
+  {
+    "_id": "project-37",
+    "dateCreated": "2021-06-24",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/7c28106b185b0e8081d85ce98ac89a064a286358-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Colisee",
+    "urlPath": "https://hotelcolisee.paris/"
+  },
+  {
+    "_id": "project-65",
+    "dateCreated": "2021-06-18",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/1aaacb0b0c09e06465404dedb49ef20360942244-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Saint James Club",
+    "urlPath": "https://saintjamesclub.com/"
+  },
+  {
+    "_id": "project-41",
+    "dateCreated": "2021-05-26",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/822fccee3643587fc6788cf6ce676eee69363d6d-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "duO Hotel",
+    "urlPath": "https://duo-paris.com/"
+  },
+  {
+    "_id": "project-16",
+    "dateCreated": "2021-05-21",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539272139",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/aa8a51b6ae0e753fe4a32c45ebbc823bafc64ea9-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Saint James Paris",
+    "urlPath": "https://saint-james-paris.com/"
+  },
+  {
+    "_id": "project-126",
+    "dateCreated": "2021-05-11",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538551632",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/8c55bad0b7ba276a435365dfd968c352076f4788-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Paris Art Hotel",
+    "urlPath": "https://hotelartparis.com/"
+  },
+  {
+    "_id": "project-13",
+    "dateCreated": "2021-04-30",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538555684",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/d3424ec4956a70fd4ce12fef9427041bff7d7dc0-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Les Domainesde Fontenille",
+    "urlPath": "https://lesdomainesdefontenille.com/"
+  },
+  {
+    "_id": "project-9",
+    "dateCreated": "2021-04-27",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/a903545eb7d44a6e2dabe61641ebb1d5e59178dc-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "369 Hotels  & Maisons",
+    "urlPath": "https://369degres.com/"
+  },
+  {
+    "_id": "project-56",
+    "dateCreated": "2021-03-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/066ea10de472e34266a0cf50e6f8d66852272d3c-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Maison FL",
+    "urlPath": "https://maisonfl.com/"
+  },
+  {
+    "_id": "project-51",
+    "dateCreated": "2021-02-26",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/5866ba2444db92f472075eca37e3afade8bbbd69-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Le Mathurin Hotel & Spa",
+    "urlPath": "https://le-mathurin.com/"
+  },
+  {
+    "_id": "project-22",
+    "dateCreated": "2021-02-01",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/2fca365a04b97ecc4510f18ac4500aaf7501c8bc-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Aida Hotel Spa",
+    "urlPath": "https://aidahotelspa.ch/"
+  },
+  {
+    "_id": "project-26",
+    "dateCreated": "2021-01-20",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/86bb77f8108ff6165d3cf7d8c3cd062fbaf5cf2f-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Ballyfin",
+    "urlPath": "https://ballyfin.com/"
+  },
+  {
+    "_id": "project-28",
+    "dateCreated": "2021-01-05",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/9dd3f9010b23d78c21bf87879bfdb2d7ff7a44d0-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Relais Bosquet Hotel",
+    "urlPath": "https://hotel-paris-bosquet.com/"
+  },
+  {
+    "_id": "project-53",
+    "dateCreated": "2020-12-15",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/d8201803cf4520b78d8375c4869c9f866c49a640-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel De Lempereur",
+    "urlPath": "https://hotelempereurparis.com/"
+  },
+  {
+    "_id": "project-110",
+    "dateCreated": "2020-12-07",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538534404",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/d350d3f82579a05735fd5931bd426861feae4276-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Le M St Germain",
+    "urlPath": "https://hotel-paris-stgermain.com/"
+  },
+  {
+    "_id": "project-90",
+    "dateCreated": "2020-12-07",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/28adf12bb3ff6193ea439f3b6e8551d9a36cd856-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Central Saint Germain",
+    "urlPath": "https://hotel-paris-stgermain.com/"
+  },
+  {
+    "_id": "project-36",
+    "dateCreated": "2020-12-02",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/016f40792ffd6a40e8bb4aa74716bc4d3691c44b-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Cocoon Inn",
+    "urlPath": "https://cocooninnhotel.com/"
+  },
+  {
+    "_id": "project-32",
+    "dateCreated": "2020-10-28",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/f94c68f542481f3dc6ec86898b50565fab20ed10-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Cantu di Mare",
+    "urlPath": "https://cantudimare.com/"
+  },
+  {
+    "_id": "project-50",
+    "dateCreated": "2020-10-13",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/9522d838caf6352b6cc2c49a080cace5fabeacaa-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "La Mirande",
+    "urlPath": "https://la-mirande.fr/"
+  },
+  {
+    "_id": "project-30",
+    "dateCreated": "2020-10-02",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/8dbaa617556ea36be52ad711596baef3569e9671-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Bristol",
+    "urlPath": "https://bristol-avignon.com/"
+  },
+  {
+    "_id": "project-172",
+    "dateCreated": "2020-09-22",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539291358",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/15f6cc06f34d78592742396f76c8669394aed752-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel paris Richmond",
+    "urlPath": "https://hotelparisrichmond.com/"
+  },
+  {
+    "_id": "project-71",
+    "dateCreated": "2020-09-18",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/aa7349192768c15d6a8d7b19ff5e623bf550a1bf-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Touraine Opera",
+    "urlPath": "https://hoteltouraine.com/"
+  },
+  {
+    "_id": "project-29",
+    "dateCreated": "2020-09-14",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/8b953c47933b820d405e777c7af55f017e0909fb-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Le Bristol Hotel",
+    "urlPath": "https://hotel-bristol-reims.fr/"
+  },
+  {
+    "_id": "project-73",
+    "dateCreated": "2020-09-14",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/b5f2d3379923416d77d1ec1546187f1e5ecebf40-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Le Versailles",
+    "urlPath": "https://hotel-le-versailles.fr/"
+  },
+  {
+    "_id": "project-31",
+    "dateCreated": "2020-09-08",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/87219c7767aea21d4499066b8b05c94009f794c6-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Cadran Hotel",
+    "urlPath": "https://cadranhotel.com/"
+  },
+  {
+    "_id": "project-24",
+    "dateCreated": "2020-09-03",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/a520bca632b2a7b5f4d52875e2ee618be33c5d90-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Ascot Paris Hotel",
+    "urlPath": "https://ascotparishotel.com/"
+  },
+  {
+    "_id": "project-47",
+    "dateCreated": "2020-08-21",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/ae93a0e5524f11251c5bdeb43517150aebcef8fc-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Ile de France",
+    "urlPath": "https://iledefrance-paris-hotel.com/"
+  },
+  {
+    "_id": "project-133",
+    "dateCreated": "2020-07-30",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538559737",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/2c617fc2a7e89268e7b64a0176f9f58c839c55d0-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Riad Fes",
+    "urlPath": "https://riadfes.com/"
+  },
+  {
+    "_id": "project-55",
+    "dateCreated": "2020-07-23",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/1322e78f3fc55aed96c610a0591c9976bb2c7dc5-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Maison Des Ambassadeurs",
+    "urlPath": "https://maisondesambassadeurs.com/"
+  },
+  {
+    "_id": "project-33",
+    "dateCreated": "2020-06-29",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/715c9df9368552207b73d6fc765125ae27eb399a-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel centre Reims",
+    "urlPath": "https://hotel-centre-reims.fr/"
+  },
+  {
+    "_id": "project-111",
+    "dateCreated": "2020-06-18",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538535460",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/ab7822d307feed9f8d4f805e70aed0e4948af0b9-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Les Deux Gares",
+    "urlPath": "https://hoteldeuxgares.com/"
+  },
+  {
+    "_id": "project-81",
+    "dateCreated": "2020-06-18",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/a2be0c8eb4fac5a1ac61e6de89b740b47dd8ec89-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Auberge Du Pays Retz",
+    "urlPath": "https://auberge-pays-retz.fr/"
+  },
+  {
+    "_id": "project-104",
+    "dateCreated": "2020-06-04",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538527331",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/132f2497cc64c36fe9fe135f4e15be697d7a69dc-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Hermitage",
+    "urlPath": "https://hotelhermitage.com/"
+  },
+  {
+    "_id": "project-45",
+    "dateCreated": "2020-05-22",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/ca82d59a0593a19345608f53e4e9895b2c032591-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Grand Parc",
+    "urlPath": "https://grand-parc-hotel.com/"
+  },
+  {
+    "_id": "project-138",
+    "dateCreated": "2020-05-08",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539241231",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/e21bdeb9ff4fa626d74cc70b707964a11159a9f0-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Select Hotel",
+    "urlPath": "https://selecthotel.fr/"
+  },
+  {
+    "_id": "project-67",
+    "dateCreated": "2020-04-23",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/efcc551034fd3d8af3656ebec15962c6c75093f5-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "St Delis",
+    "urlPath": "https://hotel-saint-delis.fr/"
+  },
+  {
+    "_id": "project-25",
+    "dateCreated": "2020-04-03",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/469e600b2d00d2486a5b60c808ee315883c90f41-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Grand Hotel Des Balcons",
+    "urlPath": "https://balcons.com/"
+  },
+  {
+    "_id": "project-101",
+    "dateCreated": "2020-03-30",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538524309",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/09dcb38f20cda2a27ab0a201f7c2d2e7cd3b5c6b-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Fonscolombe",
+    "urlPath": "https://fonscolombe.fr/"
+  },
+  {
+    "_id": "project-64",
+    "dateCreated": "2020-03-20",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/0617f7ce129d91484acc24805e2e2aefb3e6eb28-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Roosevelt Hotel",
+    "urlPath": "https://hotel-roosevelt.com/"
+  },
+  {
+    "_id": "project-79",
+    "dateCreated": "2020-02-21",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/761850b0bc207ce537720feac04e955e708d5d86-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Atmospheres Hotel Paris",
+    "urlPath": "https://hotelatmospheres.com/"
+  },
+  {
+    "_id": "project-5",
+    "dateCreated": "2020-01-07",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/5877f2722500b3721892b543c150e366a97a7420-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Chanalai Hotel and Resorts",
+    "urlPath": "https://chanalai.com/"
+  },
+  {
+    "_id": "project-123",
+    "dateCreated": "2019-12-26",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538548594",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/aa7349192768c15d6a8d7b19ff5e623bf550a1bf-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Opera Lafayette",
+    "urlPath": "https://hoteloperalafayette.com/"
+  },
+  {
+    "_id": "project-11",
+    "dateCreated": "2019-12-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538533463",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/5ee46cc1c51ae9deacd6b19062684b329bb9806e-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Intercontinental Doha The City",
+    "urlPath": "https://dohawestbay.intercontinental.com/"
+  },
+  {
+    "_id": "project-77",
+    "dateCreated": "2019-12-06",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/ab7822d307feed9f8d4f805e70aed0e4948af0b9-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Residence Acro Plage",
+    "urlPath": "https://arcoplage.com/"
+  },
+  {
+    "_id": "project-218",
+    "dateCreated": "2019-11-27",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/7cea85c204b2d8e7263a753b95b7921fb13f4270-1400x2596.webp"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Hotel Central Saint Germain",
+    "urlPath": "https://hotelcentralsaintgermain.fr/"
+  },
+  {
+    "_id": "project-74",
+    "dateCreated": "2019-11-14",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/1795fc3979ce05e4ba5d53cafc1879ba8b88c105-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Villa Abbazia",
+    "urlPath": "https://hotelabbazia.com/"
+  },
+  {
+    "_id": "project-8",
+    "dateCreated": "2019-10-29",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/b49be9c028cb413c36b7aa1fe5f08f34fee858d3-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "French Theory",
+    "urlPath": "https://frtheory.com/"
+  },
+  {
+    "_id": "project-96",
+    "dateCreated": "2019-10-17",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/f92a02945d43654e9dc496cec141607dc78de978-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel De L'Etrier",
+    "urlPath": "https://hoteletrier.ch/"
+  },
+  {
+    "_id": "project-106",
+    "dateCreated": "2019-10-10",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538529355",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/8d5056f14bcbc37480b54308bc49b57783f0309b-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Le Jardin des Douars",
+    "urlPath": "https://jardindesdouars.com/"
+  },
+  {
+    "_id": "project-23",
+    "dateCreated": "2019-09-17",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/4606cfd1aa305a47a59db91099419ebaeab75b73-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Alpen Valley",
+    "urlPath": "https://alpenvalley.com/"
+  },
+  {
+    "_id": "project-147",
+    "dateCreated": "2019-09-04",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539250956",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/28adf12bb3ff6193ea439f3b6e8551d9a36cd856-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Victor Hugo",
+    "urlPath": "https://victorhugohotel.com/"
+  },
+  {
+    "_id": "project-102",
+    "dateCreated": "2019-08-23",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538525332",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/d15dcc49ec12db6c9b95174973418a2790f6152b-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "French Coco Luxury Botique Hotel",
+    "urlPath": "https://hotelfrenchcoco.com/"
+  },
+  {
+    "_id": "project-82",
+    "dateCreated": "2019-08-14",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/396563972e868204866c01445c6a9e08df213459-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Beaurepaire",
+    "urlPath": "https://hotelbeaurepaire.com/"
+  },
+  {
+    "_id": "project-85",
+    "dateCreated": "2019-08-08",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/e4617b9eb4756547631cbbe18ce0c71316fb927a-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Bienvenue",
+    "urlPath": "https://hotelbienvenue.fr/"
+  },
+  {
+    "_id": "project-95",
+    "dateCreated": "2019-07-05",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/8773ea0cf6964090d7706654e6a8ab1cd3baf5d9-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Le Comptoirdu Caviar",
+    "urlPath": "https://lecomptoirducaviar.com/"
+  },
+  {
+    "_id": "project-3",
+    "dateCreated": "2019-07-01",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/f9d0c3db03998fc9f642fb055367108cb7ce820c-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "BHF Paris",
+    "urlPath": "https://bhfparis.com/"
+  },
+  {
+    "_id": "project-1",
+    "dateCreated": "2019-06-04",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538362824",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/664243956881b2fe2920dff7270cd7bfdd934b23-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Auberge Du Jeu De Paume Chantilly",
+    "urlPath": "https://aubergedujeudepaumechantilly.fr/"
+  },
+  {
+    "_id": "project-76",
+    "dateCreated": "2019-05-20",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/e1d944db7638f594eddb63fedf7c46e4964eabd8-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "2L Collection",
+    "urlPath": "https://2lcollection.com/"
+  },
+  {
+    "_id": "project-7",
+    "dateCreated": "2019-04-24",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/3004e9c1b7f65000b9bc09abf119da66a218ae1a-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Ecrin Blanc",
+    "urlPath": "https://ecrin-blanc.com/"
+  },
+  {
+    "_id": "project-12",
+    "dateCreated": "2019-04-16",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538544518",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/8edccf8bebb7afb4d2fffcbd29433555caf9a64b-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "La Chambre Du Marais",
+    "urlPath": "https://lachambredumarais.com/"
+  },
+  {
+    "_id": "project-183",
+    "dateCreated": "2019-03-29",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539324574",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/29997bc6e5d9c6e8b90dee0f019443c749e55b53-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "King Jason Paphos",
+    "urlPath": "https://thekingjasonpaphos.com/"
+  },
+  {
+    "_id": "project-78",
+    "dateCreated": "2019-03-29",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/fec6e7cb7cdcc9daa49e2c974eadd2be1796f817-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Arcadie",
+    "urlPath": "https://hotelarcadie.com/"
+  },
+  {
+    "_id": "project-182",
+    "dateCreated": "2019-03-27",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539323549",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/f94c68f542481f3dc6ec86898b50565fab20ed10-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Louis IVI Mare",
+    "urlPath": "https://theivimare.com/"
+  },
+  {
+    "_id": "project-184",
+    "dateCreated": "2019-03-27",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/dddb782b7d20a297abaa487411f7b58bf9d7aa9e-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "King Jason Protaras",
+    "urlPath": "https://thekingjasonprotaras.com/"
+  },
+  {
+    "_id": "project-117",
+    "dateCreated": "2019-03-20",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538541509",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/f3f33ad4a895d5e954f14ca4b4e01a6187bcc27e-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Marceau Champs-Elysees",
+    "urlPath": "https://hotelmarceau.com/"
+  },
+  {
+    "_id": "project-84",
+    "dateCreated": "2019-03-07",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/4884423de566ca21993f2f6b0cb15bdb2dfd4679-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Benvengudo",
+    "urlPath": "https://benvengudo.com/"
+  },
+  {
+    "_id": "project-238",
+    "dateCreated": "2019-02-22",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/d18b1e298dbb8173388d0b0d3301464d56017e6d-1400x8643.webp"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel"
+    ],
+    "title": "Tobira",
+    "urlPath": "https://tobira.co.jp/en/myojinkan.html"
+  },
+  {
+    "_id": "project-145",
+    "dateCreated": "2019-02-19",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539249956",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/61e705d6ffab9efaecc39f9868fc093b64e3789a-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Ter Elst",
+    "urlPath": "https://terelst.be/"
+  },
+  {
+    "_id": "project-113",
+    "dateCreated": "2019-01-29",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538537446",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/2eac298ed19b440bf6ecf5e2ad28d9303f29c1f7-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Londra Palace",
+    "urlPath": "https://londrapalace.com/"
+  },
+  {
+    "_id": "project-185",
+    "dateCreated": "2019-01-17",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/5cf6aebf03936b1fccc51849564d6efeb6962b62-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "The Royal Apollonia",
+    "urlPath": "https://theroyalapollonia.com/"
+  },
+  {
+    "_id": "project-122",
+    "dateCreated": "2019-01-11",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538547587",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/a2829e9a69f5bd71c1ea2b0d6b4c459fa2aa0f83-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Opera D'Antin",
+    "urlPath": "https://parishoteloperadantin.com/"
+  },
+  {
+    "_id": "project-139",
+    "dateCreated": "2019-01-07",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539242281",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/c612495faac8feb6b74bfe06eb7addf8c2f54322-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Serge Vieira",
+    "urlPath": "https://sergevieira.com/"
+  },
+  {
+    "_id": "project-148",
+    "dateCreated": "2018-12-12",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539258035",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/42c5f6dc34299c5ca2392f14622dfe9a965bbea3-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Villa Des Orangers",
+    "urlPath": "https://villadesorangers.com/"
+  },
+  {
+    "_id": "project-142",
+    "dateCreated": "2018-11-30",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539246375",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/443886da304b1bbcdb8eaca96d8e88eefd4d32a9-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Suit Case Best Western",
+    "urlPath": "https://hotel-suitcase-paris-la-defense.com/"
+  },
+  {
+    "_id": "project-127",
+    "dateCreated": "2018-11-15",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538552659",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/6eef142e93e66a7bf4ef6173f9fc89076bbcedc1-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Pas de l'Ours",
+    "urlPath": "https://pasdelours.ch/"
+  },
+  {
+    "_id": "project-27",
+    "dateCreated": "2018-10-29",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/c0f2cb48f571e9482a801872a4afe3b9f8b2e66f-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "La Bastide En Gascogne",
+    "urlPath": "https://bastide-gasconne.com/"
+  },
+  {
+    "_id": "project-118",
+    "dateCreated": "2018-10-12",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538542533",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/ac465488bdbebfc4079a3ea060c8a63269b5335b-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Maubeuge",
+    "urlPath": "https://paris-hotel-maubeuge.com/"
+  },
+  {
+    "_id": "project-10",
+    "dateCreated": "2018-10-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538363815",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/5dcd8c4fd8aa34e56e1ad2021e7b9972ab2e7b46-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Saint Marc",
+    "urlPath": "https://hotelsaintmarc.com/"
+  },
+  {
+    "_id": "project-35",
+    "dateCreated": "2018-09-11",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/883e511e0a26cb73b32caf3e01bb45b1983c484d-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Chateau De Mercues",
+    "urlPath": "https://chateaudemercues.com/"
+  },
+  {
+    "_id": "project-144",
+    "dateCreated": "2018-07-17",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539248927",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/1329f48272a9c4c20502fbf610bf3a53d112051d-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Maisons Taillevent Paris",
+    "urlPath": "https://taillevent.com/"
+  },
+  {
+    "_id": "project-116",
+    "dateCreated": "2018-06-19",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538540477",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/2c0afcad369f29552d37619104246a2aaa49a373-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Manoir de Lan Kerellec",
+    "urlPath": "https://lankerellec.com/"
+  },
+  {
+    "_id": "project-179",
+    "dateCreated": "2018-06-13",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539303441",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/d030e92bf34f300b011c618a9a5a5d8f1743df75-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "spa-wellness",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Harmony Spa Budapest",
+    "urlPath": "https://harmonyspabudapest.com/"
+  },
+  {
+    "_id": "project-89",
+    "dateCreated": "2018-05-29",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/ba06e1093855383877b75135e2bb55f0ec0230bd-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Capsis Elite Resort",
+    "urlPath": "https://capsis.com/"
+  },
+  {
+    "_id": "project-171",
+    "dateCreated": "2018-05-10",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539290323",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/4b1f98a792608b9956638c3dccc9e69c740b9a3a-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Petit Paris",
+    "urlPath": "https://hotelpetitparis.com/"
+  },
+  {
+    "_id": "project-169",
+    "dateCreated": "2018-04-27",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539287274",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/35a7fc03926e2932a9e24890d056ffd7ce388273-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Off Paris Siene",
+    "urlPath": "https://offparisseine.com/"
+  },
+  {
+    "_id": "project-180",
+    "dateCreated": "2018-04-17",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539305466",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/40beadd32d03ddf6fed1dbea36c73795800e378f-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel X Toronto",
+    "urlPath": "https://hotelxtoronto.com/"
+  },
+  {
+    "_id": "project-160",
+    "dateCreated": "2018-04-15",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539273173",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/a7bf316c76b95152d88fb5a1c2988fbc8aacd848-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "La Comtesse",
+    "urlPath": "https://comtesse-hotel.com/"
+  },
+  {
+    "_id": "project-164",
+    "dateCreated": "2018-04-15",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539277214",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/f61c01458e99c51b1418d28656e2fd69c14c2f78-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Exquis Paris",
+    "urlPath": "https://hotelexquisparis.com/"
+  },
+  {
+    "_id": "project-165",
+    "dateCreated": "2018-04-15",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539278228",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/a95177857505923886386ee6dcb8db1c0e1048ed-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Felicien Paris",
+    "urlPath": "https://hotelfelicienparis.com/"
+  },
+  {
+    "_id": "project-166",
+    "dateCreated": "2018-04-15",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539283776",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/a065ad28e11e75d85a54da576a027926e68ba971-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Handsome Hotel paris",
+    "urlPath": "https://handsomehotelparis.com/"
+  },
+  {
+    "_id": "project-170",
+    "dateCreated": "2018-04-15",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539289305",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/11db78dfdc420b9e19ba5d0f4a6156860fc0b676-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel La Parizienne",
+    "urlPath": "https://hotel-laparizienne.com/"
+  },
+  {
+    "_id": "project-159",
+    "dateCreated": "2018-04-03",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539271129",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/b0041b7e8f5b87e7c3c387bb3fc63553d64ce4cf-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Bob Hotel Paris",
+    "urlPath": "https://bobhotelparis.com/"
+  },
+  {
+    "_id": "project-161",
+    "dateCreated": "2018-04-03",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539274163",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/0251de5b61728d83ee6d1b87247ed2cee3be547b-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Crayon",
+    "urlPath": "https://hotelcrayon.com/"
+  },
+  {
+    "_id": "project-162",
+    "dateCreated": "2018-04-03",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539275179",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/9cf3ca60c23c5308527d4ef408223ea01f4bf471-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Crayon Rouge",
+    "urlPath": "https://hotelcrayonrouge.com/"
+  },
+  {
+    "_id": "project-167",
+    "dateCreated": "2018-04-03",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539284849",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/d49cc94cdadef3e8e38bd599d5f5db81fd141109-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Legend Hotel Paris",
+    "urlPath": "https://legendhotelparis.com/"
+  },
+  {
+    "_id": "project-168",
+    "dateCreated": "2018-04-03",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539286105",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/283d1dd130bf41d4cf94f8faa2e54ce822c089f6-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Odyssey Paris",
+    "urlPath": "https://hotelodysseyparis.com/"
+  },
+  {
+    "_id": "project-175",
+    "dateCreated": "2018-03-22",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539299401",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/3ee444ab1d11f1bd19f270c267fcdaa73dd828f9-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Aria Hotel Budapest",
+    "urlPath": "https://ariahotelbudapest.com/"
+  },
+  {
+    "_id": "project-92",
+    "dateCreated": "2018-03-07",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/dc5634ff88cfbd5a853373ea8915e724304f8e38-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Champerret Elysees",
+    "urlPath": "https://champerret-elysees.fr/"
+  },
+  {
+    "_id": "project-38",
+    "dateCreated": "2018-03-05",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/4ff4718422b96dc32d3afe73061b56878837e806-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Dauphine St Germain",
+    "urlPath": "https://dauphine-st-germain.com/"
+  },
+  {
+    "_id": "project-176",
+    "dateCreated": "2018-02-14",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539300397",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/6303c972a143d93c622da783314fa425864f8302-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Casablanca Hotel",
+    "urlPath": "https://casablancahotel.com/"
+  },
+  {
+    "_id": "project-177",
+    "dateCreated": "2018-02-14",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539301417",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/7245d0b6eaa6786a115e5723bb0db727711b6c5d-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Elysee Hotel",
+    "urlPath": "https://elyseehotel.com/"
+  },
+  {
+    "_id": "project-178",
+    "dateCreated": "2018-02-14",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539302436",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/678e04a226afcfa512e4dc76466a8a038520923b-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Giraffe",
+    "urlPath": "https://hotelgiraffe.com/"
+  },
+  {
+    "_id": "project-154",
+    "dateCreated": "2018-02-02",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539265091",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/aa134dd94c31b23cf0c1034ef9d92d8e549e8abf-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Duna Park Milfontes",
+    "urlPath": "https://milfontesprivatehomes.com/"
+  },
+  {
+    "_id": "project-173",
+    "dateCreated": "2018-02-01",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539297133",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/e3c5e1cfe2dde3d842c4fa42216dedb17e2deeff-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Snob Hotel Paris",
+    "urlPath": "https://snobhotelparis.com/"
+  },
+  {
+    "_id": "project-174",
+    "dateCreated": "2018-01-26",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539298379",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/8edccf8bebb7afb4d2fffcbd29433555caf9a64b-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Villathena",
+    "urlPath": "https://villathena.com/"
+  },
+  {
+    "_id": "project-115",
+    "dateCreated": "2018-01-11",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538539479",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/09c37ffba23f704f98663521688f58dd6d85576c-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Malcom & Barret Hotel and Bar",
+    "urlPath": "https://hotelmalcomandbarret.com/"
+  },
+  {
+    "_id": "project-150",
+    "dateCreated": "2018-01-03",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539261010",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/37a6291ebd274f63aa5f9bca9f898550d1f720ee-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Vintage Hotel",
+    "urlPath": "https://vintagehotel.be/"
+  },
+  {
+    "_id": "project-149",
+    "dateCreated": "2017-12-26",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539259042",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/563ad34d1512f7dfe194d8310a5a08e7147c02db-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Villas Le Barone",
+    "urlPath": "https://villalebarone.com/"
+  },
+  {
+    "_id": "project-181",
+    "dateCreated": "2017-11-20",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539322021",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/bf2690ef09de0da5941dee87c456dbb791211985-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Library Hotel",
+    "urlPath": "https://libraryhotel.com/"
+  },
+  {
+    "_id": "project-105",
+    "dateCreated": "2017-11-09",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538528338",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/5644ea6efac7a2f7d3309fbf4504351cd70ae3f3-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Emile",
+    "urlPath": "https://hotelemile.com/"
+  },
+  {
+    "_id": "project-83",
+    "dateCreated": "2017-10-31",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/9f708bc68843f6270252c815c45904ca54aa9c07-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Le Bellechasse Saint Germain",
+    "urlPath": "https://lebellechasse.com/"
+  },
+  {
+    "_id": "project-107",
+    "dateCreated": "2017-09-27",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538530368",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/f3f33ad4a895d5e954f14ca4b4e01a6187bcc27e-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "La Maison Champs Elysees",
+    "urlPath": "https://lamaisonchampselysees.com/"
+  },
+  {
+    "_id": "project-88",
+    "dateCreated": "2017-09-07",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/ab7822d307feed9f8d4f805e70aed0e4948af0b9-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Mercure Cantania Excelsior",
+    "urlPath": "https://excelsiorcatania.com/"
+  },
+  {
+    "_id": "project-137",
+    "dateCreated": "2017-08-28",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538563794",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/28adf12bb3ff6193ea439f3b6e8551d9a36cd856-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Saintgregoire",
+    "urlPath": "https://paris-hotel-saintgregoire.com/"
+  },
+  {
+    "_id": "project-112",
+    "dateCreated": "2017-07-21",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538536496",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/4adf9fe875d63ec6d85ada4880d8e08cdd3ed641-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "L'Imprimerie Hotel",
+    "urlPath": "https://limprimeriehotel.com/"
+  },
+  {
+    "_id": "project-103",
+    "dateCreated": "2017-06-23",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538526360",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/4e1ba81d4c3410118344db23a0383b6b908c7397-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Henry IV",
+    "urlPath": "https://henri-paris-hotel.com/"
+  },
+  {
+    "_id": "project-94",
+    "dateCreated": "2017-05-31",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/1b17dc375ec21a7dd4295751d79ee91aaa8dedad-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Clement",
+    "urlPath": "https://hotelclementparis.com/"
+  },
+  {
+    "_id": "project-17",
+    "dateCreated": "2017-05-24",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539288302",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/997802c3c6b6afcf117f3dc0ba7c70bc274b8c76-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Terra Place",
+    "urlPath": "https://terra.place/"
+  },
+  {
+    "_id": "project-152",
+    "dateCreated": "2017-04-12",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539263036",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/bdab348152a4b09a1e9ed09d85552c7ac3ce71d9-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Duna Park Beach Club",
+    "urlPath": "https://dunaparque.com/"
+  },
+  {
+    "_id": "project-80",
+    "dateCreated": "2017-03-22",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/7ae0a08cb2c6fe6e9cd8ca81a02d39f7ea96f1ec-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Auberge De La Source",
+    "urlPath": "https://auberge-de-la-source.fr/"
+  },
+  {
+    "_id": "project-131",
+    "dateCreated": "2017-03-12",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538557703",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/7a14deb2129fe379e82455f638df0af6b690b1fb-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Quay Perth",
+    "urlPath": "https://quayperth.com/"
+  },
+  {
+    "_id": "project-151",
+    "dateCreated": "2017-03-06",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539262017",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/19e03fc1b335677bb4683ccdd8b4ef4d13fc7edb-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Dun Parque Alentejo Star Hotel",
+    "urlPath": "https://alentejostarhotel.com/"
+  },
+  {
+    "_id": "project-153",
+    "dateCreated": "2017-03-06",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539264042",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/3ca2d9c7596c6c05a36f23cc9eb39c628e4dd0de-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Duna Park HS Milfontes Beach",
+    "urlPath": "https://hsmilfontesbeach.com/"
+  },
+  {
+    "_id": "project-155",
+    "dateCreated": "2017-03-06",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539266081",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/82097655f397a6b20d6dccdd7a20212460df1fd1-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Duna Park Mimi",
+    "urlPath": "https://villasdunaparquegroup.com/"
+  },
+  {
+    "_id": "project-156",
+    "dateCreated": "2017-03-06",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539267089",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/0dcf36f1fdaf1f475499516bc033ae3df2c5e352-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Duna Park Moinho Da Asneira",
+    "urlPath": "https://moinhodaasneira.com/"
+  },
+  {
+    "_id": "project-157",
+    "dateCreated": "2017-03-06",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539269081",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/0cfca880e11636272ed78078413a3cb2c5772bb9-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Duna Park Quinta Da Samoqueirinha",
+    "urlPath": "https://quintadasamoqueirinha.com/"
+  },
+  {
+    "_id": "project-158",
+    "dateCreated": "2017-03-06",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539270123",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/3ac90feaf19c6eae63e8cdc8912549e59b6fc343-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Duna Park Unique Apartments",
+    "urlPath": "https://uniqueapartmentsdunaparquegroup.com/"
+  },
+  {
+    "_id": "project-143",
+    "dateCreated": "2017-02-23",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539247721",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/82d8f776b798cc62b8089a89088c171b04bd4d97-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "The Suncliff Seafront Hotel by Oceana",
+    "urlPath": "https://suncliff.oceana-collection.com/"
+  },
+  {
+    "_id": "project-108",
+    "dateCreated": "2017-01-24",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538531371",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/e66ef22429280f9b369dbbd5f0e791485c13930a-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Lautrec Opera",
+    "urlPath": "https://paris-hotel-lautrec.com/"
+  },
+  {
+    "_id": "project-129",
+    "dateCreated": "2017-01-12",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538554666",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/4b1f98a792608b9956638c3dccc9e69c740b9a3a-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Le Petit Coq Aux Champs",
+    "urlPath": "https://lepetitcoqauxchamps.fr/"
+  },
+  {
+    "_id": "project-100",
+    "dateCreated": "2016-11-07",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538364830",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/651be2bfd73f0ba64d46c7b79d974eb920801dd5-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Ferme Saint Simeon",
+    "urlPath": "https://fermesaintsimeon.fr/"
+  },
+  {
+    "_id": "project-135",
+    "dateCreated": "2016-04-22",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538561767",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/79c713853866858f8ef43c41e422b210854abc7e-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Le Saint Hotel Paris",
+    "urlPath": "https://lesainthotelparis.com/"
+  },
+  {
+    "_id": "project-141",
+    "dateCreated": "2015-12-11",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757539245325",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/6cf4fc9500ad0ee721df87f88fcbf1f895d384d8-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Louis St Elias Resort",
+    "urlPath": "https://steliasresort.com/"
+  },
+  {
+    "_id": "project-130",
+    "dateCreated": "2015-10-27",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538556699",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/08a92ab5b99c3cbbc93584740c3b5e19e0a45c53-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Privilege Toulouse",
+    "urlPath": "https://privilegetoulouse.com/"
+  },
+  {
+    "_id": "project-119",
+    "dateCreated": "2015-10-23",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538543558",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/ab7822d307feed9f8d4f805e70aed0e4948af0b9-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Mercure",
+    "urlPath": "https://mercurelasorbonne.com/"
+  },
+  {
+    "_id": "project-120",
+    "dateCreated": "2015-08-24",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538545566",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/541b380e15c0347301f0529d0c9df1fc086b09dc-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Mermoz",
+    "urlPath": "https://hotel-mermoz.fr/"
+  },
+  {
+    "_id": "project-109",
+    "dateCreated": "2015-07-29",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538532394",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/28adf12bb3ff6193ea439f3b6e8551d9a36cd856-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Le Lavoisier",
+    "urlPath": "https://hotellavoisier.com/"
+  },
+  {
+    "_id": "project-134",
+    "dateCreated": "2015-06-27",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538560749",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/f2ce3f18636e4724724daed34d4bd65a8e096bdf-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Safari Tours",
+    "urlPath": "https://burgundy-tourism-safaritours.com/"
+  },
+  {
+    "_id": "project-124",
+    "dateCreated": "2015-06-24",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538549611",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/8edccf8bebb7afb4d2fffcbd29433555caf9a64b-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "other",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "The Palm Seychelles",
+    "urlPath": "https://thepalmseychelles.com/"
+  },
+  {
+    "_id": "project-114",
+    "dateCreated": "2015-03-08",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": "image-0-1757538538480",
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/49958e7d271dba19fee85513655fdc1d81ee48ae-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel Longchamp Elysees",
+    "urlPath": "https://paris-hotel-longchamp.com/"
+  },
+  {
+    "_id": "project-99",
+    "dateCreated": "2015-01-13",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/a4b4b85797566f6e9de6bf7510b6f30d84e39b5b-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Elegancia Hotels",
+    "urlPath": "https://elegancia-hotels.com/"
+  },
+  {
+    "_id": "project-39",
+    "dateCreated": "2014-05-23",
+    "description": "Description",
+    "featured": false,
+    "images": [
+      {
+        "_key": null,
+        "asset": {
+          "_ref": null,
+          "_type": "sanity.imageAsset",
+          "url": "https://cdn.sanity.io/images/669ljbt4/production/c0ee5a30f7a7099180e76e238c8c9f83e16cfee2-1400x1050.jpg"
+        }
+      }
+    ],
+    "industry": "hospitality",
+    "skills": [
+      "Hotel",
+      "Restaurant",
+      "Spa"
+    ],
+    "title": "Hotel de Suez",
+    "urlPath": "https://hoteldesuezparis.com/"
+  }
+]

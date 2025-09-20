@@ -1,0 +1,141 @@
+{
+  "archiveProjects": [
+    {
+      "_id": "project-001",
+      "title": "Hotel Chateaudeau",
+      "dateCreated": "2024-01-15",
+      "description": "Luxury hotel website with elegant design and smooth animations. Built with clean HTML/CSS and accessible navigation patterns.",
+      "industry": "Hospitality",
+      "featured": true,
+      "urlPath": "https://hotelchateaudeau.com",
+      "images": [
+        {
+          "_key": "main-screenshot",
+          "asset": {
+            "_ref": "image-ref-001",
+            "_type": "reference",
+            "url": "https://cdn.sanity.io/images/abc123/hotel-chateaudeau-homepage.jpg"
+          }
+        }
+      ],
+      "skills": ["HTML", "CSS", "JavaScript", "Accessibility", "Performance"]
+    },
+    {
+      "_id": "project-002", 
+      "title": "Brasserie Leschenapans",
+      "dateCreated": "2023-11-20",
+      "description": "Restaurant website featuring menu integration and reservation system. Focus on mobile-first design and fast loading.",
+      "industry": "Restaurant",
+      "featured": false,
+      "urlPath": "https://brasserie-leschenapans.fr",
+      "images": [
+        {
+          "_key": "main-screenshot",
+          "asset": {
+            "_ref": "image-ref-002", 
+            "_type": "reference",
+            "url": "https://cdn.sanity.io/images/abc123/brasserie-homepage.jpg"
+          }
+        }
+      ],
+      "skills": ["HTML", "CSS", "JavaScript", "Mobile-First", "Performance"]
+    },
+    {
+      "_id": "project-003",
+      "title": "ENV Hair Studio",
+      "dateCreated": "2023-09-10",
+      "description": "Modern salon website with booking functionality and portfolio gallery. Clean, minimalist design with focus on user experience.",
+      "industry": "Beauty",
+      "featured": true,
+      "urlPath": "https://envhairstudio.com",
+      "images": [
+        {
+          "_key": "main-screenshot",
+          "asset": {
+            "_ref": "image-ref-003",
+            "_type": "reference", 
+            "url": "https://cdn.sanity.io/images/abc123/env-hair-homepage.jpg"
+          }
+        }
+      ],
+      "skills": ["HTML", "CSS", "JavaScript", "UX Design", "Accessibility"]
+    },
+    {
+      "_id": "project-004",
+      "title": "F and S Framing",
+      "dateCreated": "2023-07-05",
+      "description": "Art framing business website with gallery showcase and contact forms. Emphasis on visual presentation and easy navigation.",
+      "industry": "Art",
+      "featured": false,
+      "urlPath": "https://fandsframing.com",
+      "images": [
+        {
+          "_key": "main-screenshot",
+          "asset": {
+            "_ref": "image-ref-004",
+            "_type": "reference",
+            "url": "https://cdn.sanity.io/images/abc123/framing-homepage.jpg"
+          }
+        }
+      ],
+      "skills": ["HTML", "CSS", "JavaScript", "Gallery", "Forms"]
+    },
+    {
+      "_id": "project-005",
+      "title": "College Hotel",
+      "dateCreated": "2023-05-18",
+      "description": "Boutique hotel website with room booking system and local area information. Responsive design with accessibility focus.",
+      "industry": "Hospitality", 
+      "featured": true,
+      "urlPath": "https://collegehotel.com",
+      "images": [
+        {
+          "_key": "main-screenshot",
+          "asset": {
+            "_ref": "image-ref-005",
+            "_type": "reference",
+            "url": "https://cdn.sanity.io/images/abc123/college-hotel-homepage.jpg"
+          }
+        }
+      ],
+      "skills": ["HTML", "CSS", "JavaScript", "Booking System", "Accessibility"]
+    }
+  ],
+  "categories": [
+    "All",
+    "Hospitality", 
+    "Restaurant",
+    "Beauty",
+    "Art"
+  ],
+  "totalProjects": 258,
+  "featuredProjects": 3,
+  "industries": [
+    "Hospitality",
+    "Restaurant", 
+    "Beauty",
+    "Art",
+    "Technology",
+    "Education",
+    "Healthcare",
+    "Finance",
+    "Retail",
+    "Non-profit"
+  ],
+  "skills": [
+    "HTML",
+    "CSS", 
+    "JavaScript",
+    "Accessibility",
+    "Performance",
+    "Mobile-First",
+    "UX Design",
+    "Gallery",
+    "Forms",
+    "Booking System",
+    "Animation",
+    "SEO",
+    "Responsive Design",
+    "Progressive Enhancement"
+  ]
+}

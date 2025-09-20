@@ -295,9 +295,11 @@ const ImprovedCardPreview = React.memo(function ImprovedCardPreview({ project, i
           </div>
           
           {/* Address Bar */}
-          <div className="address-bar">
-            {hasValidUrl ? project.urlPath?.replace(/^https?:\/\//, '') : 'No URL available'}
-          </div>
+          {hasValidUrl && (
+            <div className="address-bar">
+              {project.urlPath?.replace(/^https?:\/\//, '')}
+            </div>
+          )}
         </div>
       </div>
 
