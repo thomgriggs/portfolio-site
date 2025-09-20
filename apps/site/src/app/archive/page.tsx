@@ -37,11 +37,16 @@ export default function ArchivePage() {
   useEffect(() => {
     async function fetchProjects() {
       try {
+        console.log('Starting to fetch projects...');
         const response = await fetch('/api/projects');
+        console.log('Response status:', response.status);
+        
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
+        
         const data = await response.json();
+        console.log('Data received:', data.length, 'projects');
         
         const archiveProjects: ArchiveProject[] = data.map((project: any) => ({
           id: project._id || 'unknown',
@@ -56,12 +61,13 @@ export default function ArchivePage() {
           type: project.featured ? 'featured' : 'client'
         }));
 
+        console.log('Processed projects:', archiveProjects.length);
         setProjects(archiveProjects);
+        setLoading(false);
       } catch (error) {
         console.error('Error fetching projects:', error);
         setError(error instanceof Error ? error.message : 'Failed to fetch projects');
         setProjects([]);
-      } finally {
         setLoading(false);
       }
     }
