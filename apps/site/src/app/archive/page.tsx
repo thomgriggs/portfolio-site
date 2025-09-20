@@ -4,6 +4,9 @@ import { useState, useEffect } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { ArrowLeft, Search, ExternalLink, Globe, Calendar, Tag } from "lucide-react";
+import { sanity } from "../../sanity/client";
+import { ALL_PROJECTS } from "../../sanity/queries";
+import type { Project } from "../../types/sanity";
 import "./archive.css";
 
 interface ArchiveProject {
@@ -19,46 +22,6 @@ interface ArchiveProject {
   type: 'featured' | 'client' | 'personal';
 }
 
-// Mock data for testing
-const mockProjects: ArchiveProject[] = [
-  {
-    id: "1",
-    title: "Hotel Palombaggia",
-    description: "Luxury hotel rebuild with sliders, filtering, popups; tuned for performance.",
-    year: "2023",
-    category: "hospitality",
-    technologies: ["HTML", "CSS", "JavaScript"],
-    image: "/placeholder-project.svg",
-    urlPath: "https://example.com",
-    status: "live",
-    type: "client"
-  },
-  {
-    id: "2", 
-    title: "Maison Heler",
-    description: "Boutique hotel website with custom booking integration.",
-    year: "2023",
-    category: "hospitality", 
-    technologies: ["React", "TypeScript"],
-    image: "/placeholder-project.svg",
-    urlPath: "https://example.com",
-    status: "live",
-    type: "client"
-  },
-  {
-    id: "3",
-    title: "Optimum RV",
-    description: "RV rental platform with advanced search and filtering.",
-    year: "2022",
-    category: "other",
-    technologies: ["Vue.js", "Node.js"],
-    image: "/placeholder-project.svg", 
-    urlPath: "https://example.com",
-    status: "live",
-    type: "client"
-  }
-];
-
 export default function ArchivePage() {
   const [projects, setProjects] = useState<ArchiveProject[]>([]);
   const [loading, setLoading] = useState(true);
@@ -67,11 +30,33 @@ export default function ArchivePage() {
   const [displayedProjects, setDisplayedProjects] = useState(24);
 
   useEffect(() => {
-    // Simulate loading
-    setTimeout(() => {
-      setProjects(mockProjects);
-      setLoading(false);
-    }, 1000);
+    async function fetchProjects() {
+      try {
+        const data = await sanity.fetch(ALL_PROJECTS);
+        
+        const archiveProjects: ArchiveProject[] = data.map((project: Project) => ({
+          id: project._id,
+          title: project.title,
+          description: project.description || 'No description available',
+          year: new Date(project.dateCreated).getFullYear().toString(),
+          category: project.industry?.toLowerCase() || 'hospitality',
+          technologies: project.skills || [],
+          image: project.images?.[0]?.asset?.url,
+          urlPath: project.urlPath,
+          status: project.urlPath ? 'live' : 'archived',
+          type: project.featured ? 'featured' : 'client'
+        }));
+
+        setProjects(archiveProjects);
+      } catch (error) {
+        console.error('Error fetching projects:', error);
+        setProjects([]);
+      } finally {
+        setLoading(false);
+      }
+    }
+
+    fetchProjects();
   }, []);
 
   if (loading) {
