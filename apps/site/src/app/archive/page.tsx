@@ -49,14 +49,14 @@ export default function ArchivePage() {
         console.log('Data received:', data.length, 'projects');
         
         const archiveProjects: ArchiveProject[] = data.map((project: Record<string, unknown>) => ({
-          id: project._id || 'unknown',
-          title: project.title || 'Untitled Project',
-          description: project.description || 'No description available',
-          year: project.dateCreated ? new Date(project.dateCreated).getFullYear().toString() : '2024',
-          category: project.industry?.toLowerCase() || 'hospitality',
-          technologies: project.skills || [],
-          image: project.images?.[0]?.asset?.url,
-          urlPath: project.urlPath,
+          id: (project._id as string) || 'unknown',
+          title: (project.title as string) || 'Untitled Project',
+          description: (project.description as string) || 'No description available',
+          year: project.dateCreated ? new Date(project.dateCreated as string).getFullYear().toString() : '2024',
+          category: (project.industry as string)?.toLowerCase() || 'hospitality',
+          technologies: (project.skills as string[]) || [],
+          image: (project.images as any)?.[0]?.asset?.url,
+          urlPath: project.urlPath as string,
           status: project.urlPath ? 'live' : 'archived',
           type: project.featured ? 'featured' : 'client'
         }));
