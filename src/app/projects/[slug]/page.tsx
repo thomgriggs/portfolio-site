@@ -39,7 +39,7 @@ export default function ProjectPage({ params }: ProjectPageProps) {
         <div className="mb-8">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">{project.title}</h1>
           <div className="flex flex-wrap gap-2 mb-4">
-            {project.tags.map((tag) => (
+            {project.tags.map((tag: string) => (
               <span 
                 key={tag} 
                 className="px-3 py-1 bg-gray-100 dark:bg-gray-800 text-sm rounded-full"
