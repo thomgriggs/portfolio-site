@@ -1,4 +1,16 @@
-import { Project } from '@/components/ProjectCard';
+export interface Project {
+  title: string;
+  slug: string;
+  href: string;
+  image: string;
+  year: number;
+  client: string;
+  tags: string[];
+  excerpt: string;
+  featured?: boolean;
+}
+
+// import { Project } from '@/components/ProjectCard';
 
 export const projects: Project[] = [
   {
