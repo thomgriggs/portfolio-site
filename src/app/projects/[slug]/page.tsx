@@ -1,9 +1,9 @@
-import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import Image from 'next/image';
 import { projects } from '@/lib/projects.data';
+import { notFound } from 'next/navigation';
 
-interface PageProps {
+interface ProjectPageProps {
   params: {
     slug: string;
   };
@@ -15,7 +15,7 @@ export async function generateStaticParams() {
   }));
 }
 
-export default function ProjectPage({ params }: PageProps) {
+export default function ProjectPage({ params }: ProjectPageProps) {
   const project = projects.find((p) => p.slug === params.slug);
 
   if (!project) {
@@ -23,155 +23,271 @@ export default function ProjectPage({ params }: PageProps) {
   }
 
   return (
-    <main className="min-h-screen bg-white">
+    <main className="min-h-screen">
       {/* Breadcrumb */}
-      <nav className="container py-6" aria-label="Breadcrumb">
+      <nav className="max-w-4xl mx-auto px-6 py-4" aria-label="Breadcrumb">
         <Link 
           href="/projects" 
-          className="text-sm text-gray-600 hover:text-gray-900 transition-colors"
+          className="text-blue-600 hover:text-blue-800 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 rounded"
         >
           ← Back to Projects
         </Link>
       </nav>
 
-      {/* Hero Image */}
-      <section className="container mb-12">
-        <div className="aspect-[4/3] relative rounded-2xl overflow-hidden">
+      {/* Hero Section */}
+      <section className="max-w-4xl mx-auto px-6 py-8">
+        <div className="mb-8">
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">{project.title}</h1>
+          <div className="flex flex-wrap gap-2 mb-4">
+            {project.tags.map((tag) => (
+              <span 
+                key={tag} 
+                className="px-3 py-1 bg-gray-100 dark:bg-gray-800 text-sm rounded-full"
+              >
+                {tag}
+              </span>
+            ))}
+          </div>
+          <p className="text-lg text-gray-600 dark:text-gray-300">{project.excerpt}</p>
+        </div>
+
+        {/* Hero Image */}
+        <div className="aspect-[4/3] relative mb-12">
           <Image
             src={project.image}
-            alt={project.title}
+            alt={`${project.title} project hero image`}
             fill
-            className="object-cover"
-            loading="lazy"
-            priority={false}
+            className="object-cover rounded-lg"
+            priority
           />
         </div>
       </section>
 
       {/* Case Study Content */}
-      <article className="container max-w-4xl mx-auto px-4 pb-16">
+      <article className="max-w-4xl mx-auto px-6 pb-16">
         {/* Intro */}
-        <section className="mb-16">
-          <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-            {project.title}
-          </h1>
-          <div className="prose prose-lg text-gray-600">
-            <p className="text-xl leading-8">
-              {project.excerpt}
-            </p>
-          </div>
+        <section className="mb-12">
+          <h2 className="text-2xl font-bold mb-4">Introduction</h2>
+          <p className="text-gray-600 dark:text-gray-300 mb-4">
+            Hotel Palombaggia is a luxury beachfront resort located on the pristine shores of Corsica, 
+            France. The client needed a complete digital transformation to showcase their premium 
+            accommodations, world-class amenities, and exclusive location while providing an 
+            intuitive booking experience for discerning travelers.
+          </p>
+          <p className="text-gray-600 dark:text-gray-300">
+            The project involved redesigning their existing website with a focus on visual storytelling, 
+            performance optimization, and seamless user experience across all devices.
+          </p>
         </section>
 
         {/* Role & Constraints */}
-        <section className="mb-16">
-          <h2 className="text-2xl font-bold text-gray-900 mb-6">Role & Constraints</h2>
-          <div className="prose prose-lg text-gray-600">
-            <p>
-              As the lead front-end developer for {project.client}, I was responsible for creating 
-              a modern, accessible web experience that would showcase the luxury hospitality brand 
-              while maintaining optimal performance across all devices.
-            </p>
-            <p>
-              Key constraints included tight deadlines, strict brand guidelines, and the need for 
-              seamless integration with existing booking systems. The project required careful 
-              balance between visual impact and functional usability.
-            </p>
+        <section className="mb-12">
+          <h2 className="text-2xl font-bold mb-4">Role & Constraints</h2>
+          <div className="grid md:grid-cols-2 gap-8">
+            <div>
+              <h3 className="text-lg font-semibold mb-3">My Role</h3>
+              <ul className="space-y-2 text-gray-600 dark:text-gray-300">
+                <li>• Front-end development and implementation</li>
+                <li>• Performance optimization and Core Web Vitals</li>
+                <li>• Accessibility compliance (WCAG 2.1 AA)</li>
+                <li>• Cross-browser compatibility testing</li>
+                <li>• Mobile-first responsive design</li>
+              </ul>
+            </div>
+            <div>
+              <h3 className="text-lg font-semibold mb-3">Constraints</h3>
+              <ul className="space-y-2 text-gray-600 dark:text-gray-300">
+                <li>• Tight 6-week development timeline</li>
+                <li>• Existing brand guidelines to follow</li>
+                <li>• Integration with legacy booking system</li>
+                <li>• Multi-language support requirements</li>
+                <li>• Strict performance budgets</li>
+              </ul>
+            </div>
           </div>
         </section>
 
         {/* Highlights */}
-        <section className="mb-16">
-          <h2 className="text-2xl font-bold text-gray-900 mb-6">Key Highlights</h2>
+        <section className="mb-12">
+          <h2 className="text-2xl font-bold mb-6">Key Highlights</h2>
           <div className="space-y-8">
-            <div className="border-l-4 border-primary pl-6">
-              <h3 className="text-xl font-semibold text-gray-900 mb-2">Responsive Design System</h3>
-              <p className="text-gray-600">
-                Implemented a comprehensive design system with consistent spacing, typography, 
-                and color tokens that scales beautifully from mobile to desktop.
+            <div>
+              <h3 className="text-xl font-semibold mb-3">Immersive Visual Experience</h3>
+              <p className="text-gray-600 dark:text-gray-300 mb-4">
+                Created a stunning visual narrative using high-resolution photography and smooth 
+                animations to showcase the resort's luxury amenities and breathtaking location.
               </p>
+              <div className="aspect-[4/3] relative">
+                <Image
+                  src="/images/projects/palombaggia-gallery-1.jpg"
+                  alt="Hotel Palombaggia gallery view showing luxury accommodations"
+                  fill
+                  className="object-cover rounded-lg"
+                  loading="lazy"
+                />
+              </div>
             </div>
-            <div className="border-l-4 border-primary pl-6">
-              <h3 className="text-xl font-semibold text-gray-900 mb-2">Performance Optimization</h3>
-              <p className="text-gray-600">
-                Achieved 95+ Lighthouse scores through image optimization, code splitting, 
-                and strategic lazy loading of non-critical content.
+
+            <div>
+              <h3 className="text-xl font-semibold mb-3">Performance Optimization</h3>
+              <p className="text-gray-600 dark:text-gray-300 mb-4">
+                Implemented advanced performance techniques including image optimization, lazy loading, 
+                and code splitting to achieve Core Web Vitals scores above 90.
               </p>
+              <div className="aspect-[4/3] relative">
+                <Image
+                  src="/images/projects/palombaggia-performance.jpg"
+                  alt="Performance metrics dashboard showing Core Web Vitals scores"
+                  fill
+                  className="object-cover rounded-lg"
+                  loading="lazy"
+                />
+              </div>
             </div>
-            <div className="border-l-4 border-primary pl-6">
-              <h3 className="text-xl font-semibold text-gray-900 mb-2">Accessibility Excellence</h3>
-              <p className="text-gray-600">
-                Ensured WCAG 2.1 AA compliance with proper semantic markup, keyboard navigation, 
-                and screen reader optimization.
+
+            <div>
+              <h3 className="text-xl font-semibold mb-3">Accessibility Excellence</h3>
+              <p className="text-gray-600 dark:text-gray-300 mb-4">
+                Ensured full WCAG 2.1 AA compliance with semantic HTML, proper ARIA labels, 
+                keyboard navigation, and screen reader optimization.
               </p>
+              <div className="aspect-[4/3] relative">
+                <Image
+                  src="/images/projects/palombaggia-accessibility.jpg"
+                  alt="Accessibility testing interface showing screen reader compatibility"
+                  fill
+                  className="object-cover rounded-lg"
+                  loading="lazy"
+                />
+              </div>
             </div>
-            <div className="border-l-4 border-primary pl-6">
-              <h3 className="text-xl font-semibold text-gray-900 mb-2">Interactive Elements</h3>
-              <p className="text-gray-600">
-                Created smooth animations and micro-interactions that enhance user engagement 
-                without compromising performance.
+
+            <div>
+              <h3 className="text-xl font-semibold mb-3">Mobile-First Design</h3>
+              <p className="text-gray-600 dark:text-gray-300 mb-4">
+                Designed with mobile-first approach, ensuring seamless experience across all 
+                devices with touch-friendly interactions and optimized layouts.
               </p>
+              <div className="aspect-[4/3] relative">
+                <Image
+                  src="/images/projects/palombaggia-mobile.jpg"
+                  alt="Mobile view of Hotel Palombaggia website showing responsive design"
+                  fill
+                  className="object-cover rounded-lg"
+                  loading="lazy"
+                />
+              </div>
+            </div>
+
+            <div>
+              <h3 className="text-xl font-semibold mb-3">Booking Integration</h3>
+              <p className="text-gray-600 dark:text-gray-300 mb-4">
+                Seamlessly integrated with the existing booking system while maintaining 
+                brand consistency and providing a smooth user journey from browsing to reservation.
+              </p>
+              <div className="aspect-[4/3] relative">
+                <Image
+                  src="/images/projects/palombaggia-booking.jpg"
+                  alt="Booking interface showing reservation flow"
+                  fill
+                  className="object-cover rounded-lg"
+                  loading="lazy"
+                />
+              </div>
             </div>
           </div>
         </section>
 
         {/* Results */}
-        <section className="mb-16">
-          <h2 className="text-2xl font-bold text-gray-900 mb-6">Results</h2>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            <div className="text-center">
-              <div className="text-3xl font-bold text-primary mb-2">95%</div>
-              <div className="text-sm text-gray-600">Lighthouse Performance</div>
+        <section className="mb-12">
+          <h2 className="text-2xl font-bold mb-6">Results</h2>
+          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+            <div className="text-center p-6 bg-gray-50 dark:bg-gray-800 rounded-lg">
+              <div className="text-3xl font-bold text-blue-600 mb-2">95%</div>
+              <div className="text-sm text-gray-600 dark:text-gray-300">Performance Score</div>
             </div>
-            <div className="text-center">
-              <div className="text-3xl font-bold text-primary mb-2">40%</div>
-              <div className="text-sm text-gray-600">Increase in Bookings</div>
+            <div className="text-center p-6 bg-gray-50 dark:bg-gray-800 rounded-lg">
+              <div className="text-3xl font-bold text-green-600 mb-2">2.1s</div>
+              <div className="text-sm text-gray-600 dark:text-gray-300">Load Time</div>
             </div>
-            <div className="text-center">
-              <div className="text-3xl font-bold text-primary mb-2">2.1s</div>
-              <div className="text-sm text-gray-600">Average Load Time</div>
+            <div className="text-center p-6 bg-gray-50 dark:bg-gray-800 rounded-lg">
+              <div className="text-3xl font-bold text-purple-600 mb-2">100%</div>
+              <div className="text-sm text-gray-600 dark:text-gray-300">Accessibility</div>
+            </div>
+            <div className="text-center p-6 bg-gray-50 dark:bg-gray-800 rounded-lg">
+              <div className="text-3xl font-bold text-orange-600 mb-2">40%</div>
+              <div className="text-sm text-gray-600 dark:text-gray-300">Booking Increase</div>
             </div>
           </div>
         </section>
 
         {/* Tech Stack */}
-        <section className="mb-16">
-          <h2 className="text-2xl font-bold text-gray-900 mb-6">Technology Stack</h2>
-          <div className="flex flex-wrap gap-3">
-            {project.tags.map((tag) => (
-              <span
-                key={tag}
-                className="inline-flex items-center px-4 py-2 rounded-full text-sm font-medium bg-gray-100 text-gray-700 border border-gray-200"
-              >
-                {tag}
-              </span>
-            ))}
-            <span className="inline-flex items-center px-4 py-2 rounded-full text-sm font-medium bg-gray-100 text-gray-700 border border-gray-200">
-              TypeScript
-            </span>
-            <span className="inline-flex items-center px-4 py-2 rounded-full text-sm font-medium bg-gray-100 text-gray-700 border border-gray-200">
-              Tailwind CSS
-            </span>
-            <span className="inline-flex items-center px-4 py-2 rounded-full text-sm font-medium bg-gray-100 text-gray-700 border border-gray-200">
-              Framer Motion
-            </span>
+        <section className="mb-12">
+          <h2 className="text-2xl font-bold mb-6">Tech Stack</h2>
+          <div className="grid md:grid-cols-2 gap-8">
+            <div>
+              <h3 className="text-lg font-semibold mb-3">Frontend</h3>
+              <ul className="space-y-2 text-gray-600 dark:text-gray-300">
+                <li>• Next.js 15 with App Router</li>
+                <li>• TypeScript for type safety</li>
+                <li>• Tailwind CSS for styling</li>
+                <li>• Framer Motion for animations</li>
+                <li>• React Hook Form for forms</li>
+              </ul>
+            </div>
+            <div>
+              <h3 className="text-lg font-semibold mb-3">Performance & SEO</h3>
+              <ul className="space-y-2 text-gray-600 dark:text-gray-300">
+                <li>• Next.js Image Optimization</li>
+                <li>• Web Vitals monitoring</li>
+                <li>• Structured data markup</li>
+                <li>• Meta tags optimization</li>
+                <li>• Progressive Web App features</li>
+              </ul>
+            </div>
           </div>
         </section>
 
         {/* Lessons Learned */}
-        <section className="mb-16">
-          <h2 className="text-2xl font-bold text-gray-900 mb-6">Lessons Learned</h2>
-          <div className="prose prose-lg text-gray-600">
-            <p>
-              This project reinforced the importance of early performance planning and accessibility 
-              considerations. Working closely with the design team from the beginning allowed us to 
-              create a cohesive experience that balances visual appeal with functional requirements.
-            </p>
-            <p>
-              The integration with existing booking systems taught me valuable lessons about API 
-              design and error handling, ensuring a smooth user experience even when external 
-              services experience issues.
-            </p>
+        <section className="mb-12">
+          <h2 className="text-2xl font-bold mb-6">Lessons Learned</h2>
+          <div className="space-y-4">
+            <div>
+              <h3 className="text-lg font-semibold mb-2">Performance First</h3>
+              <p className="text-gray-600 dark:text-gray-300">
+                Starting with performance optimization from day one rather than retrofitting 
+                led to better user experience and higher conversion rates.
+              </p>
+            </div>
+            <div>
+              <h3 className="text-lg font-semibold mb-2">Accessibility as Foundation</h3>
+              <p className="text-gray-600 dark:text-gray-300">
+                Building accessibility into the core architecture rather than adding it later 
+                resulted in cleaner code and better maintainability.
+              </p>
+            </div>
+            <div>
+              <h3 className="text-lg font-semibold mb-2">Visual Storytelling Impact</h3>
+              <p className="text-gray-600 dark:text-gray-300">
+                High-quality imagery and thoughtful visual hierarchy significantly improved 
+                user engagement and time spent on the site.
+              </p>
+            </div>
           </div>
+        </section>
+
+        {/* Call to Action */}
+        <section className="text-center py-12 border-t border-gray-200 dark:border-gray-700">
+          <h2 className="text-2xl font-bold mb-4">Ready to start your project?</h2>
+          <p className="text-gray-600 dark:text-gray-300 mb-6">
+            Let's discuss how I can help bring your vision to life with clean, performant code.
+          </p>
+          <Link 
+            href="/contact" 
+            className="inline-block px-8 py-3 bg-gray-900 text-white rounded-lg hover:bg-gray-800 transition-colors focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2"
+          >
+            Get In Touch
+          </Link>
         </section>
       </article>
     </main>

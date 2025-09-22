@@ -14,7 +14,7 @@ export default function Hero() {
           </p>
           
           <div className="hero-ctas">
-            <Button asChild variant="default" className="hero-cta-primary">
+            <Button asChild variant="primary" className="hero-cta-primary">
               <Link href="/projects" aria-label="View my work portfolio">
                 View my work
               </Link>

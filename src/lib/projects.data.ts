@@ -5,10 +5,10 @@ export const projects: Project[] = [
     title: "Hotel Palombaggia",
     slug: "hotel-palombaggia",
     href: "/projects/hotel-palombaggia",
-    image: "/images/projects/hotel-palombaggia.jpg",
+    image: "/images/projects/palombaggia-4x3.jpg",
     year: 2024,
     client: "Hotel Palombaggia",
-    tags: ["Hospitality", "Brand", "Next.js"],
+    tags: ["Hospitality", "Brand", "Next.js", "Performance", "Accessibility"],
     excerpt: "Luxury beachfront resort website with seamless booking experience and immersive visual storytelling.",
     featured: true
   },
