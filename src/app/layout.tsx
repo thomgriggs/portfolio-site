@@ -62,6 +62,18 @@ export const metadata: Metadata = {
   },
 };
 
+function LocalBadge() {
+  if (process.env.APP_RUNTIME !== 'local') {
+    return null;
+  }
+
+  return (
+    <div className="local-badge">
+      LOCAL BUILD
+    </div>
+  );
+}
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -76,6 +88,7 @@ export default function RootLayout({
           <a href="#main-content" className="skip-link">
             Skip to main content
           </a>
+          <LocalBadge />
           <Navigation />
           <main id="main">
             {children}

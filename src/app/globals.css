@@ -1,6 +1,31 @@
 /* Custom CSS - No Tailwind imports needed */
 @import "./tokens.css";
 
+/* Local Build Badge */
+.local-badge {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  background: #ff4444;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  z-index: 9999;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  border: 2px solid #ff6666;
+  pointer-events: none;
+  user-select: none;
+}
+
+.local-badge:focus-visible {
+  outline: 2px solid #ffffff;
+  outline-offset: 2px;
+}
+
 /* ========================================
 	DESIGN SYSTEM FOUNDATION
 ======================================== */
