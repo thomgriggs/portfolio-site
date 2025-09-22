@@ -31,26 +31,15 @@ export function Hero() {
           {/* Left side - Text content */}
           <div className="hero-text-content">
             <div className="hero-title-group">
-              <p className="hero-subtitle" role="text" aria-label="Professional title">
-                Front-End Developer
-              </p>
               <h1 className="hero-title" id="main-heading">
-                <span className="hero-title-first">Thom</span>
-                <span className="hero-title-last">Griggs</span>
+                I build production-ready UI—fast, accessible, and maintainable.
               </h1>
             </div>
             
             <div className="hero-description">
               <p className="hero-description-text" role="text" aria-label="Professional description">
-                Front-end developer building clean, accessible sites.
+                Hand-coded with Next.js + TypeScript. Proven on 260+ launches across hospitality and brands.
               </p>
-              
-              <div className="hero-status" role="status" aria-live="polite">
-                <div className="hero-status-item">
-                  <div className="hero-status-dot" aria-hidden="true"></div>
-                  <span>Available for work</span>
-                </div>
-              </div>
             </div>
             
             <div className="hero-actions" role="group" aria-label="Primary actions">
@@ -58,18 +47,18 @@ export function Hero() {
                 onClick={scrollToProjects} 
                 size="lg" 
                 className="group"
-                aria-label="Scroll to projects section to explore my work"
+                aria-label="View my work portfolio"
               >
-                Explore My Work
+                View my work
                 <ArrowDown className="ml-2 h-4 w-4 group-hover:translate-y-1 transition-transform" aria-hidden="true" />
               </Button>
               <Button 
                 onClick={scrollToContact} 
                 variant="outline" 
                 size="lg"
-                aria-label="Scroll to contact section to get in touch"
+                aria-label="Say hello and get in touch"
               >
-                        Let&apos;s Connect
+                Say hello
               </Button>
             </div>
             

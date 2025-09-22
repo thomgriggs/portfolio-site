@@ -1,10 +1,35 @@
 import Link from 'next/link';
-import Hero from '@/components/Hero';
 
 export default function HomePage() {
   return (
     <main className="min-h-screen">
-      <Hero />
+      {/* Hero Section */}
+      <section className="py-24 md:py-32 lg:py-40 px-6">
+        <div className="max-w-4xl mx-auto text-center">
+          <h1 className="text-[clamp(36px,6vw,56px)] leading-tight font-bold mb-4 md:mb-5 lg:mb-6">
+            I build production-ready UI—fast, accessible, and maintainable.
+          </h1>
+          <p className="text-xl leading-8 text-gray-600 dark:text-gray-300 mb-6 max-w-3xl mx-auto">
+            Hand-coded with Next.js + TypeScript. Proven on 260+ launches across hospitality and brands.
+          </p>
+          <div className="flex flex-col sm:flex-row gap-4 justify-center mt-6">
+            <Link 
+              href="/projects" 
+              className="inline-flex items-center justify-center min-h-[44px] px-8 py-3 bg-gray-900 text-white rounded-lg hover:bg-gray-800 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2"
+              aria-label="View my work portfolio"
+            >
+              View my work
+            </Link>
+            <Link 
+              href="/contact" 
+              className="inline-flex items-center justify-center min-h-[44px] px-8 py-3 border border-gray-300 text-gray-700 rounded-lg hover:bg-gray-50 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2"
+              aria-label="Say hello and get in touch"
+            >
+              Say hello
+            </Link>
+          </div>
+        </div>
+      </section>
 
       {/* Featured Work */}
       <section className="max-w-6xl mx-auto px-6 py-16">

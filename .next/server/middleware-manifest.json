@@ -2,6 +2,48 @@
   "version": 3,
   "middleware": {},
   "functions": {
+    "/opengraph-image/route": {
+      "files": [
+        "server/middleware-build-manifest.js",
+        "server/middleware-react-loadable-manifest.js",
+        "server/next-font-manifest.js",
+        "server/interception-route-rewrite-manifest.js",
+        "server/edge-runtime-webpack.js",
+        "server/edge-chunks/381.js",
+        "server/app/opengraph-image/route.js"
+      ],
+      "name": "app/opengraph-image/route",
+      "page": "/opengraph-image/route",
+      "matchers": [
+        {
+          "regexp": "^/opengraph\\-image$",
+          "originalSource": "/opengraph-image"
+        }
+      ],
+      "wasm": [
+        {
+          "name": "wasm_77d9faebf7af9e421806970ce10a58e9d83116d7",
+          "filePath": "server/edge-chunks/wasm_77d9faebf7af9e421806970ce10a58e9d83116d7.wasm"
+        },
+        {
+          "name": "wasm_ef4866ecae192fd87727067cf2c0c0cf9fb8b020",
+          "filePath": "server/edge-chunks/wasm_ef4866ecae192fd87727067cf2c0c0cf9fb8b020.wasm"
+        }
+      ],
+      "assets": [
+        {
+          "name": "noto-sans-v27-latin-regular.5dda3fca77107598.ttf",
+          "filePath": "server/edge-chunks/asset_noto-sans-v27-latin-regular.5dda3fca77107598.ttf"
+        }
+      ],
+      "env": {
+        "__NEXT_BUILD_ID": "c_ZX-BHTRnRypIkabMlCb",
+        "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "7xfAM4ra/ofblePGUQsR1dOKBxZPqv/bYovnItMEUG8=",
+        "__NEXT_PREVIEW_MODE_ID": "355bf5a50f3f1340a99da8043a1b5f04",
+        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "9d234ca92b080cbbdeda50515351158f3167a8bc762834151f654ce7fd018166",
+        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "05efa7695d81363e5169f92b06a8ec00f3b43ec59e5083df681c6f324b1e1c1d"
+      }
+    },
     "/api/og/route": {
       "files": [
         "server/server-reference-manifest.js",
@@ -39,53 +81,11 @@
         }
       ],
       "env": {
-        "__NEXT_BUILD_ID": "XpzcuaMGMhzqDAQR-b3jk",
-        "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "GWoomW01RPgVeRJsvrnyvun/Gf4F67EjTHaADHXJkyA=",
-        "__NEXT_PREVIEW_MODE_ID": "ce98cef5e04f6550062b3ffaa4269baa",
-        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "4039d0cad3bd023f74c495347e82f4034909aeb5d1c74e1250818cf4331b0184",
-        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "8534a568c4c3d6772241a081c608388e36e56e5a74807b9adbd15ab120e7fc2a"
-      }
-    },
-    "/opengraph-image/route": {
-      "files": [
-        "server/middleware-build-manifest.js",
-        "server/middleware-react-loadable-manifest.js",
-        "server/next-font-manifest.js",
-        "server/interception-route-rewrite-manifest.js",
-        "server/edge-runtime-webpack.js",
-        "server/edge-chunks/381.js",
-        "server/app/opengraph-image/route.js"
-      ],
-      "name": "app/opengraph-image/route",
-      "page": "/opengraph-image/route",
-      "matchers": [
-        {
-          "regexp": "^/opengraph\\-image$",
-          "originalSource": "/opengraph-image"
-        }
-      ],
-      "wasm": [
-        {
-          "name": "wasm_77d9faebf7af9e421806970ce10a58e9d83116d7",
-          "filePath": "server/edge-chunks/wasm_77d9faebf7af9e421806970ce10a58e9d83116d7.wasm"
-        },
-        {
-          "name": "wasm_ef4866ecae192fd87727067cf2c0c0cf9fb8b020",
-          "filePath": "server/edge-chunks/wasm_ef4866ecae192fd87727067cf2c0c0cf9fb8b020.wasm"
-        }
-      ],
-      "assets": [
-        {
-          "name": "noto-sans-v27-latin-regular.5dda3fca77107598.ttf",
-          "filePath": "server/edge-chunks/asset_noto-sans-v27-latin-regular.5dda3fca77107598.ttf"
-        }
-      ],
-      "env": {
-        "__NEXT_BUILD_ID": "XpzcuaMGMhzqDAQR-b3jk",
-        "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "GWoomW01RPgVeRJsvrnyvun/Gf4F67EjTHaADHXJkyA=",
-        "__NEXT_PREVIEW_MODE_ID": "ce98cef5e04f6550062b3ffaa4269baa",
-        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "4039d0cad3bd023f74c495347e82f4034909aeb5d1c74e1250818cf4331b0184",
-        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "8534a568c4c3d6772241a081c608388e36e56e5a74807b9adbd15ab120e7fc2a"
+        "__NEXT_BUILD_ID": "c_ZX-BHTRnRypIkabMlCb",
+        "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "7xfAM4ra/ofblePGUQsR1dOKBxZPqv/bYovnItMEUG8=",
+        "__NEXT_PREVIEW_MODE_ID": "355bf5a50f3f1340a99da8043a1b5f04",
+        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "9d234ca92b080cbbdeda50515351158f3167a8bc762834151f654ce7fd018166",
+        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "05efa7695d81363e5169f92b06a8ec00f3b43ec59e5083df681c6f324b1e1c1d"
       }
     }
   },
