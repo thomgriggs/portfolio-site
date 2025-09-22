@@ -1,7 +1,6 @@
 "use client";
 import { Github, Linkedin, Mail, Heart, ExternalLink, ArrowUp } from "lucide-react";
 import { Button } from "./ui/button";
-import Link from "next/link";
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();

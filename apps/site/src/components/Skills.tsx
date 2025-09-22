@@ -141,11 +141,11 @@ export function Skills() {
         <div className="space-y-12 mb-20">
           <div className="text-center">
             <h3 className="text-2xl font-semibold text-foreground mb-4">Areas of Focus</h3>
-            <p className="text-muted-foreground">Skills I've developed working in the hospitality industry</p>
+            <p className="text-muted-foreground">Skills I&apos;ve developed working in the hospitality industry</p>
           </div>
 
           <div 
-            ref={specializationsRef as any}
+            ref={specializationsRef as React.RefObject<HTMLDivElement>}
             className="grid md:grid-cols-3 gap-8"
           >
             {specializations.map((spec, index) => (

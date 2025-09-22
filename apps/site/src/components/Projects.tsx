@@ -139,7 +139,7 @@ export async function Projects() {
           </div>
 
           <div className="grid md:grid-cols-2 gap-8">
-            {clientProjects.map((project, index) => {
+            {clientProjects.map((project) => {
               const projectImage = project.images?.[0]?.asset?.url || "/placeholder-project.svg";
               const projectYear = new Date(project.dateCreated).getFullYear().toString();
               

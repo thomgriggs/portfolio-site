@@ -1,12 +1,12 @@
 'use client';
 
-import React, { useState, useEffect, useRef, useCallback } from 'react';
+import React, { useState, useRef, useCallback } from 'react';
 
 interface SimpleVirtualScrollProps {
-  items: any[];
+  items: unknown[];
   itemHeight: number;
   containerHeight: number;
-  renderItem: (item: any, index: number) => React.ReactNode;
+  renderItem: (item: unknown, index: number) => React.ReactNode;
   className?: string;
 }
 
@@ -18,7 +18,6 @@ const SimpleVirtualScroll: React.FC<SimpleVirtualScrollProps> = ({
   className = ''
 }) => {
   const [scrollTop, setScrollTop] = useState(0);
-  const [containerWidth, setContainerWidth] = useState(0);
   const containerRef = useRef<HTMLDivElement>(null);
 
   // Calculate visible range
@@ -39,18 +38,7 @@ const SimpleVirtualScroll: React.FC<SimpleVirtualScrollProps> = ({
     setScrollTop(e.currentTarget.scrollTop);
   }, []);
 
-  // Update container width on resize
-  useEffect(() => {
-    const updateWidth = () => {
-      if (containerRef.current) {
-        setContainerWidth(containerRef.current.offsetWidth);
-      }
-    };
-
-    updateWidth();
-    window.addEventListener('resize', updateWidth);
-    return () => window.removeEventListener('resize', updateWidth);
-  }, []);
+  // Container width is not needed for this implementation
 
   return (
     <div

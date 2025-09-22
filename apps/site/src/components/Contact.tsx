@@ -19,7 +19,7 @@ export function Contact() {
     e.preventDefault();
     // Here you would typically send the form data to a backend service
     console.log('Form submitted:', formData);
-    alert('Thank you for your message! I\'ll get back to you soon.');
+    alert('Thank you for your message! I&apos;ll get back to you soon.');
     setFormData({ name: '', email: '', subject: '', message: '' });
   };
 
@@ -85,7 +85,7 @@ export function Contact() {
         <div className="text-center mb-20">
           <div className="inline-flex items-center px-4 py-2 rounded-full bg-background border border-border text-sm text-muted-foreground mb-4">
             <MessageSquare className="w-4 h-4 mr-2" />
-            Let's Connect
+            Let&apos;s Connect
           </div>
           <h2 className="text-4xl sm:text-5xl lg:text-6xl mb-6 tracking-tight">
             Ready to <span className="text-primary italic">collaborate</span>?
@@ -102,7 +102,7 @@ export function Contact() {
             <div>
               <h3 className="text-2xl font-semibold mb-6 text-foreground">Get In Touch</h3>
               <p className="text-muted-foreground mb-8 leading-relaxed">
-                Looking for a front-end developer who appreciates the craft? I'm currently exploring 
+                Looking for a front-end developer who appreciates the craft? I&apos;m currently exploring 
                 new opportunities and would love to discuss how my hospitality industry experience 
                 and eye for detail could benefit your team.
               </p>
@@ -161,7 +161,7 @@ export function Contact() {
                 <div className="mb-8">
                   <h3 className="text-2xl font-semibold text-foreground mb-2">Send a Message</h3>
                   <p className="text-muted-foreground">
-                    Have a project in mind? Fill out the form below and I'll get back to you within 24 hours.
+                    Have a project in mind? Fill out the form below and I&apos;ll get back to you within 24 hours.
                   </p>
                 </div>
 
