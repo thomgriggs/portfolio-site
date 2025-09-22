@@ -2,11 +2,11 @@ import React from 'react';
 import { sanity } from '@/sanity/client';
 import { ALL_PROJECTS } from '@/sanity/queries';
 import type { Project } from '@/types/sanity';
-import WebsitePreview from '../archive/WebsitePreview';
-import ModernPreview from '../archive/ModernPreview';
-import CleanPreview from '../archive/CleanPreview';
-import CSSPreview from '../archive/CSSPreview';
-import ImprovedModernPreview from '../archive/ImprovedModernPreview';
+import WebsitePreview from '../../components/WebsitePreview';
+import ModernPreview from '../../components/ModernPreview';
+import CleanPreview from '../../components/CleanPreview';
+import CSSPreview from '../../components/CSSPreview';
+import ImprovedModernPreview from '../../components/ImprovedModernPreview';
 
 async function getProjects(): Promise<Project[]> {
   try {
