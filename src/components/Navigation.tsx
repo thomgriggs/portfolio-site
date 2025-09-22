@@ -1,65 +1,33 @@
 "use client";
 import { Button } from "./ui/button";
-import { Menu, X, ExternalLink } from "lucide-react";
+import { Menu, X } from "lucide-react";
 import { useState, useEffect } from "react";
 import { usePathname } from "next/navigation";
 import Link from "next/link";
 
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-  const [activeSection, setActiveSection] = useState('hero');
   const [isScrolled, setIsScrolled] = useState(false);
   const pathname = usePathname();
 
-  const isHomePage = pathname === '/';
-
   const navItems = [
-    { id: 'projects', label: 'Projects' },
-    { id: 'skills', label: 'Skills' },
-    { id: 'contact', label: 'Contact' }
-  ];
-
-  const pageLinks = [
-    { path: '/archive', label: 'Archive' }
+    { path: '/', label: 'Home' },
+    { path: '/projects', label: 'Projects' },
+    { path: '/work', label: 'Client Work' },
+    { path: '/about', label: 'About' },
+    { path: '/notes', label: 'Notes' }
   ];
 
   useEffect(() => {
     const handleScroll = () => {
       const scrollPosition = window.scrollY;
       setIsScrolled(scrollPosition > 50);
-
-      // Update active section based on scroll position
-      const sections = navItems.map(item => item.id).concat(['hero']);
-      const currentSection = sections.find(section => {
-        const element = document.getElementById(section);
-        if (element) {
-          const rect = element.getBoundingClientRect();
-          return rect.top <= 100 && rect.bottom >= 100;
-        }
-        return false;
-      });
-      
-      if (currentSection) {
-        setActiveSection(currentSection);
-      }
     };
 
     window.addEventListener('scroll', handleScroll);
     return () => window.removeEventListener('scroll', handleScroll);
-  }, [navItems]);
+  }, []);
 
-  const scrollToSection = (sectionId: string) => {
-    if (!isHomePage) {
-      // Navigate to home page first, then scroll
-      window.location.href = `/#${sectionId}`;
-    } else {
-      const element = document.getElementById(sectionId);
-      if (element) {
-        element.scrollIntoView({ behavior: 'smooth' });
-      }
-    }
-    setIsMenuOpen(false);
-  };
 
   return (
     <header className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
@@ -85,45 +53,25 @@ export default function Header() {
           {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center space-x-1">
             {navItems.map((item) => (
-              <button
-                key={item.id}
-                onClick={() => scrollToSection(item.id)}
+              <Link
+                key={item.path}
+                href={item.path}
                 className={`px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200 ${
-                  activeSection === item.id
+                  pathname === item.path
                     ? 'bg-primary/10 text-primary'
                     : 'text-muted-foreground hover:text-foreground hover:bg-muted/50'
                 }`}
+                aria-current={pathname === item.path ? 'page' : undefined}
               >
                 {item.label}
-              </button>
-            ))}
-            
-            {/* Page Links */}
-            {pageLinks.map((link) => (
-              <Link
-                key={link.path}
-                href={link.path}
-                className={`px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200 ${
-                  pathname === link.path
-                    ? 'bg-primary/10 text-primary'
-                    : 'text-muted-foreground hover:text-foreground hover:bg-muted/50'
-                }`}
-              >
-                {link.label}
               </Link>
             ))}
             
-            {/* External link to portfolio */}
-            <Button variant="outline" size="sm" asChild className="ml-4">
-              <a 
-                href="https://thomgriggs-portfolio.vercel.app" 
-                target="_blank" 
-                rel="noopener noreferrer"
-                className="flex items-center space-x-2"
-              >
-                <span>Portfolio</span>
-                <ExternalLink className="h-3 w-3" />
-              </a>
+            {/* Let's Talk Button */}
+            <Button variant="default" size="sm" asChild className="ml-4">
+              <Link href="/contact">
+                Let's Talk
+              </Link>
             </Button>
           </nav>
 
@@ -143,45 +91,30 @@ export default function Header() {
           <div className="md:hidden">
             <div className="px-2 pt-2 pb-3 space-y-1 bg-background/95 backdrop-blur-lg border-t border-border rounded-b-lg">
               {navItems.map((item) => (
-                <button
-                  key={item.id}
-                  onClick={() => scrollToSection(item.id)}
-                  className={`block px-3 py-3 w-full text-left rounded-lg text-sm font-medium transition-colors ${
-                    activeSection === item.id
-                      ? 'bg-primary/10 text-primary'
-                      : 'text-muted-foreground hover:text-foreground hover:bg-muted/50'
-                  }`}
-                >
-                  {item.label}
-                </button>
-              ))}
-              
-              {/* Mobile Page Links */}
-              {pageLinks.map((link) => (
                 <Link
-                  key={link.path}
-                  href={link.path}
+                  key={item.path}
+                  href={item.path}
                   className={`block px-3 py-3 w-full text-left rounded-lg text-sm font-medium transition-colors ${
-                    pathname === link.path
+                    pathname === item.path
                       ? 'bg-primary/10 text-primary'
                       : 'text-muted-foreground hover:text-foreground hover:bg-muted/50'
                   }`}
                   onClick={() => setIsMenuOpen(false)}
+                  aria-current={pathname === item.path ? 'page' : undefined}
                 >
-                  {link.label}
+                  {item.label}
                 </Link>
               ))}
               
+              {/* Mobile Let's Talk Button */}
               <div className="pt-3 border-t border-border mt-3">
-                <a 
-                  href="https://thomgriggs-portfolio.vercel.app" 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="flex items-center space-x-2 px-3 py-3 text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
+                <Link
+                  href="/contact"
+                  className="block px-3 py-3 w-full text-left rounded-lg text-sm font-medium bg-primary text-primary-foreground hover:bg-primary/90 transition-colors"
+                  onClick={() => setIsMenuOpen(false)}
                 >
-                  <span>Portfolio Site</span>
-                  <ExternalLink className="h-3 w-3" />
-                </a>
+                  Let's Talk
+                </Link>
               </div>
             </div>
           </div>

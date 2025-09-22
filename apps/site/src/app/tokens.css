@@ -14,6 +14,21 @@
 	/* spacing & radii */
 	--space-1: 4px;  --space-2: 8px;  --space-3: 12px;  --space-4: 16px;
 	--space-6: 24px; --space-8: 32px; --space-12: 48px; --space-16: 64px;
+	--space-20: 80px; --space-24: 96px;
 	--radius: 16px;
 	--shadow: 0 10px 30px rgba(0,0,0,.25);
+	
+	/* navigation spacing */
+	--nav-item-padding: var(--space-2) var(--space-4);
+	--nav-gap: var(--space-1);
+	
+	/* currently banner */
+	--currently-bg: rgba(123, 215, 255, 0.05);
+	--currently-border: rgba(123, 215, 255, 0.1);
+	--currently-text: var(--muted);
+	
+	/* always learning */
+	--learning-chip-bg: rgba(123, 215, 255, 0.1);
+	--learning-chip-border: rgba(123, 215, 255, 0.2);
+	--learning-chip-text: var(--text);
 }

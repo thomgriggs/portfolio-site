@@ -1,22 +1,5 @@
 {
-  "/_not-found/page": "app/_not-found/page.js",
-  "/robots.txt/route": "app/robots.txt/route.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/sitemap.xml/route": "app/sitemap.xml/route.js",
-  "/rss.xml/route": "app/rss.xml/route.js",
-  "/now/page": "app/now/page.js",
-  "/contact/page": "app/contact/page.js",
   "/page": "app/page.js",
-  "/logo-showcase/page": "app/logo-showcase/page.js",
-  "/projects/page": "app/projects/page.js",
-  "/preview-demo/page": "app/preview-demo/page.js",
-  "/archive/page": "app/archive/page.js",
-  "/email-design/page": "app/email-design/page.js",
-  "/notes/page": "app/notes/page.js",
-  "/photos/page": "app/photos/page.js",
-  "/projects/[slug]/page": "app/projects/[slug]/page.js",
-  "/about/page": "app/about/page.js",
-  "/work/page": "app/work/page.js",
-  "/opengraph-image/route": "app/opengraph-image/route.js",
-  "/api/og/route": "app/api/og/route.js"
+  "/_not-found/page": "app/_not-found/page.js"
 }

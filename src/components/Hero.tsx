@@ -31,7 +31,7 @@ export function Hero() {
           {/* Left side - Text content */}
           <div className="hero-text-content">
             <div className="hero-title-group">
-              <h1 className="hero-title" id="main-heading">
+              <h1 className="hero-title" id="main-heading" style={{ fontSize: 'clamp(36px, 6vw, 56px)', lineHeight: '1.1' }}>
                 I build production-ready UI—fast, accessible, and maintainable.
               </h1>
             </div>
