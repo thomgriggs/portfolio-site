@@ -130,6 +130,14 @@ h1 {
 	background: var(--accent);
 	color: var(--accent-foreground);
 }
+
+/* Utility classes */
+.line-clamp-2 {
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+}
 h2 { 
 	font-size: clamp(1.25rem, 3vw, 2rem);
 }

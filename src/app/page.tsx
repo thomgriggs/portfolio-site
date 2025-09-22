@@ -1,16 +1,12 @@
 import Link from 'next/link';
-import { sanity } from '@/sanity/client';
-import { ALL_PROJECTS } from '@/sanity/queries';
-import type { Project } from '@/types/sanity';
-import { unstable_noStore as noStore } from 'next/cache';
+import { ProjectCard } from '@/components/ProjectCard';
+import { projects } from '@/lib/projects.data';
 import Hero from '@/components/Hero';
 
 export const revalidate = 0;
 export const dynamic = 'force-dynamic';
 
-export default async function HomePage() {
-  noStore();
-  const projects = await sanity.fetch<Project[]>(ALL_PROJECTS);
+export default function HomePage() {
   const featuredProjects = projects.filter(p => p.featured).slice(0, 3);
 
   return (
@@ -30,37 +26,13 @@ export default async function HomePage() {
             
             <div className="homepage-featured-grid">
               {featuredProjects.map((project) => (
-                <article 
-                  key={project._id} 
-                  className="homepage-featured-card"
-                >
-                  <div className="homepage-featured-card-header">
-                    <h3 className="homepage-featured-card-title">
-                      {project.title}
-                    </h3>
-                    <span className="homepage-featured-badge">
-                      Featured
-                    </span>
-                  </div>
-                  
-                  <p className="homepage-featured-card-meta">
-                    {(project as Project & { year?: string }).year ? `${(project as Project & { year?: string }).year} · ` : ''}
-                    {(project as Project & { type?: string }).type || 'Website'}
-                    {project.industry ? ` · ${project.industry}` : ''}
-                  </p>
-                  
-                  {(project as Project & { summary?: string }).summary && (
-                    <p className="homepage-featured-card-description">
-                      {(project as Project & { summary?: string }).summary}
-                    </p>
-                  )}
-                </article>
+                <ProjectCard key={project.slug} project={project} />
               ))}
             </div>
             
             <div className="homepage-featured-footer">
               <Link 
-                href="/work" 
+                href="/projects" 
                 className="homepage-featured-link"
               >
                 View All Projects →
