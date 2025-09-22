@@ -238,3 +238,4 @@ interface Project {
 ---
 
 *This document provides a complete overview of the Archive page structure, functionality, and content requirements. It serves as both technical documentation and content guidelines for maintaining the portfolio archive.*
+

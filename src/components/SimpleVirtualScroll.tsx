@@ -2,23 +2,23 @@
 
 import React, { useState, useEffect, useRef, useCallback } from 'react';
 
-interface SimpleVirtualScrollProps {
-  items: any[];
+interface SimpleVirtualScrollProps<T = unknown> {
+  items: T[];
   itemHeight: number;
   containerHeight: number;
-  renderItem: (item: any, index: number) => React.ReactNode;
+  renderItem: (item: T, index: number) => React.ReactNode;
   className?: string;
 }
 
-const SimpleVirtualScroll: React.FC<SimpleVirtualScrollProps> = ({
+const SimpleVirtualScroll = <T,>({
   items,
   itemHeight,
   containerHeight,
   renderItem,
   className = ''
-}) => {
+}: SimpleVirtualScrollProps<T>) => {
   const [scrollTop, setScrollTop] = useState(0);
-  const [containerWidth, setContainerWidth] = useState(0);
+  const [, setContainerWidth] = useState(0);
   const containerRef = useRef<HTMLDivElement>(null);
 
   // Calculate visible range

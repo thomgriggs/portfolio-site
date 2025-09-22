@@ -10,3 +10,4 @@ export default function Kicker({ children, className = "" }: KickerProps) {
     </div>
   );
 }
+

@@ -10,3 +10,4 @@ export default function Eyebrow({ children, className = "" }: EyebrowProps) {
     </h3>
   );
 }
+

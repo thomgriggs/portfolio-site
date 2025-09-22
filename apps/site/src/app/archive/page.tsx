@@ -48,7 +48,7 @@ export default function ArchivePage() {
         const data = await response.json();
         console.log('Data received:', data.length, 'projects');
         
-        const archiveProjects: ArchiveProject[] = data.map((project: Record<string, any>) => ({
+        const archiveProjects: ArchiveProject[] = data.map((project: Record<string, unknown>) => ({
           id: project._id || 'unknown',
           title: project.title || 'Untitled Project',
           description: project.description || 'No description available',

@@ -103,7 +103,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "/Users/thomasgriggs/",
+    "outputFileTracingRoot": "/Users/thomasgriggs",
     "experimental": {
       "useSkewCookie": false,
       "cacheLife": {
@@ -292,7 +292,7 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.js",
     "turbopack": {
-      "root": "/Users/thomasgriggs/"
+      "root": "/Users/thomasgriggs"
     }
   },
   "appDir": "/Users/thomasgriggs/Development/portfolio-site",

@@ -25,3 +25,4 @@ for page in "${PAGES[@]}"; do
 done
 
 echo "All screenshots complete!"
+
