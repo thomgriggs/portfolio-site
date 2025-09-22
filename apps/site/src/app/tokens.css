@@ -1,11 +1,11 @@
 :root {
-	/* colors */
-	--bg: #0b0b0c;
-	--text: #eaeaea;
-	--muted: #6b7280;
-	--primary: #7bd7ff;
-	--card: #121214;
-	--border: #1f1f22;
+	/* colors - matching Figma design system */
+	--bg: #ffffff;
+	--text: #0a0a0a;
+	--muted: #717182;
+	--primary: #030213;
+	--card: #ffffff;
+	--border: rgba(0, 0, 0, 0.1);
 
 	/* typography */
 	--font-serif: "Noto Serif", ui-serif, Georgia, serif;
@@ -23,12 +23,12 @@
 	--nav-gap: var(--space-1);
 	
 	/* currently banner */
-	--currently-bg: rgba(123, 215, 255, 0.05);
-	--currently-border: rgba(123, 215, 255, 0.1);
+	--currently-bg: rgba(3, 2, 19, 0.05);
+	--currently-border: rgba(3, 2, 19, 0.1);
 	--currently-text: var(--muted);
 	
 	/* always learning */
-	--learning-chip-bg: rgba(123, 215, 255, 0.1);
-	--learning-chip-border: rgba(123, 215, 255, 0.2);
+	--learning-chip-bg: rgba(3, 2, 19, 0.1);
+	--learning-chip-border: rgba(3, 2, 19, 0.2);
 	--learning-chip-text: var(--text);
 }
