@@ -4,7 +4,7 @@ import Section from '../../components/ui/Section';
 
 export default function ContactPage() {
   const [message, setMessage] = useState("");
-  const [assistantText, setAssistantText] = useState("");
+  const [assistantText] = useState("");
 
   function pick(template: string) {
     setMessage(template);
@@ -16,8 +16,8 @@ export default function ContactPage() {
     <main className="contact-page" id="main" role="main">
       <Section>
         <div className="max-w-3xl">
-          <h1>Let's work together</h1>
-          <p className="text-lg text-muted mt-6">Tell me what you need and how I can help. I'll reply quickly.</p>
+          <h1>Let&apos;s work together</h1>
+          <p className="text-lg text-muted mt-6">Tell me what you need and how I can help. I&apos;ll reply quickly.</p>
 
           <div className="mt-8 mb-8">
             <button 
@@ -54,7 +54,7 @@ export default function ContactPage() {
                 <label className="block text-sm font-medium mb-2">Message</label>
                 <textarea id="message" name="message" rows={6} required className="textarea w-full" value={message} onChange={(e)=>setMessage(e.target.value)} />
               </div>
-              <p id="contact-note" className="text-sm text-muted">Prefer a call? Include a time/timezone and we'll sync.</p>
+                      <p id="contact-note" className="text-sm text-muted">Prefer a call? Include a time/timezone and we&apos;ll sync.</p>
               <button type="submit" className="btn btn-primary">Send</button>
             </form>
           </div>

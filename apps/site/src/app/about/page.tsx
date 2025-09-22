@@ -45,12 +45,12 @@ export default function AboutPage() {
                 </p>
                 
                 <p className="text-lg text-muted-foreground leading-relaxed">
-                  I like tidy code, sensible spacing, and features that respect the keyboard. I'll take 
+                  I like tidy code, sensible spacing, and features that respect the keyboard. I&apos;ll take 
                   the messy parts, organize them, and make them feel simple.
                 </p>
 
                 <p className="text-lg text-muted-foreground leading-relaxed">
-                  Right now I'm polishing patterns for sliders, menus, and content templates, and leaning 
+                  Right now I&apos;m polishing patterns for sliders, menus, and content templates, and leaning 
                   into performance and accessibility basics.
                 </p>
               </div>
@@ -66,7 +66,7 @@ export default function AboutPage() {
                   href="/contact"
                   className="inline-flex items-center justify-center px-8 py-3 rounded-md text-sm font-medium border border-input bg-background hover:bg-accent hover:text-accent-foreground transition-colors"
                 >
-                  Let's Connect
+                  Let&apos;s Connect
                 </Link>
               </div>
               
@@ -76,7 +76,7 @@ export default function AboutPage() {
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="group flex items-center space-x-2 text-muted-foreground hover:text-foreground transition-colors"
-                  aria-label="Visit Thom's GitHub profile to view code repositories"
+                  aria-label="Visit Thom&apos;s GitHub profile to view code repositories"
                 >
                   <span className="text-sm">GitHub</span>
                 </a>
@@ -148,7 +148,7 @@ export default function AboutPage() {
               <div className="space-y-4">
                 <h3 className="text-xl font-semibold text-foreground">Clean Code First</h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  I write HTML and CSS that's easy to read, maintain, and extend. Every line serves a purpose, 
+                  I write HTML and CSS that&apos;s easy to read, maintain, and extend. Every line serves a purpose, 
                   and every component is built to last.
                 </p>
               </div>
@@ -157,7 +157,7 @@ export default function AboutPage() {
                 <h3 className="text-xl font-semibold text-foreground">Accessibility Built-In</h3>
                 <p className="text-muted-foreground leading-relaxed">
                   Every site I build works with screen readers, keyboard navigation, and assistive technologies. 
-                  It's not an afterthought—it's part of the foundation.
+                  It&apos;s not an afterthought—it&apos;s part of the foundation.
                 </p>
               </div>
             </div>
@@ -167,7 +167,7 @@ export default function AboutPage() {
                 <h3 className="text-xl font-semibold text-foreground">Performance Focused</h3>
                 <p className="text-muted-foreground leading-relaxed">
                   Fast loading times and smooth interactions. I optimize images, minimize HTTP requests, 
-                  and write efficient code that doesn't slow down the user experience.
+                  and write efficient code that doesn&apos;t slow down the user experience.
                 </p>
               </div>
               

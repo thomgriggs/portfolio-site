@@ -1,7 +1,6 @@
 "use client";
 import { Button } from "./ui/button";
 import { Github, Linkedin, Mail, ArrowDown } from "lucide-react";
-import { Counter } from './Counter';
 
 export function Hero() {
   const scrollToProjects = () => {
@@ -70,7 +69,7 @@ export function Hero() {
                 size="lg"
                 aria-label="Scroll to contact section to get in touch"
               >
-                Let's Connect
+                        Let&apos;s Connect
               </Button>
             </div>
             

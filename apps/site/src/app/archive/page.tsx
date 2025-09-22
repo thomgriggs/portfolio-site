@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import Image from "next/image";
-import { ArrowLeft, ExternalLink, Calendar, Briefcase, Star, Filter, ChevronDown, X } from "lucide-react";
+import { ExternalLink, Calendar, Briefcase, Star, Filter, ChevronDown, X } from "lucide-react";
 import { Badge } from "../../components/ui/badge";
 import { Card, CardContent } from "../../components/ui/card";
 import { Button } from "../../components/ui/button";
@@ -48,7 +48,7 @@ export default function ArchivePage() {
         const data = await response.json();
         console.log('Data received:', data.length, 'projects');
         
-        const archiveProjects: ArchiveProject[] = data.map((project: any) => ({
+        const archiveProjects: ArchiveProject[] = data.map((project: Record<string, any>) => ({
           id: project._id || 'unknown',
           title: project.title || 'Untitled Project',
           description: project.description || 'No description available',
@@ -120,14 +120,12 @@ export default function ArchivePage() {
     label, 
     value, 
     options, 
-    onChange, 
-    type 
+    onChange
   }: { 
     label: string; 
     value: string; 
     options: string[]; 
     onChange: (value: string) => void;
-    type: string;
   }) => {
     const [isOpen, setIsOpen] = useState(false);
 
@@ -370,21 +368,18 @@ export default function ArchivePage() {
                   value={filters.year}
                   options={['2024', '2023', '2022', '2021', '2020']}
                   onChange={(value) => setFilters(prev => ({ ...prev, year: value }))}
-                  type="year"
                 />
                 <FilterDropdown
                   label="Category"
                   value={filters.category}
                   options={['hospitality', 'other']}
                   onChange={(value) => setFilters(prev => ({ ...prev, category: value }))}
-                  type="category"
                 />
                 <FilterDropdown
                   label="Technology"
                   value={filters.technology}
                   options={['HTML5', 'CSS3', 'JavaScript', 'React', 'SASS']}
                   onChange={(value) => setFilters(prev => ({ ...prev, technology: value }))}
-                  type="technology"
                 />
               </div>
               
@@ -459,7 +454,7 @@ export default function ArchivePage() {
         <div className="max-w-4xl mx-auto text-center space-y-6">
           <h2 className="text-2xl font-semibold">Ready to Start Your Next Project?</h2>
           <p className="text-muted-foreground text-lg">
-            Let's discuss how I can bring the same attention to detail and craftsmanship to your hospitality website.
+            Let&apos;s discuss how I can bring the same attention to detail and craftsmanship to your hospitality website.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/">
@@ -467,11 +462,11 @@ export default function ArchivePage() {
                 Back to Portfolio
               </Button>
             </Link>
-            <Button size="lg" asChild>
-              <a href="/#contact">
+            <Link href="/#contact">
+              <Button size="lg">
                 Get In Touch
-              </a>
-            </Button>
+              </Button>
+            </Link>
           </div>
         </div>
       </section>

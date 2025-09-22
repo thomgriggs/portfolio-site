@@ -1,7 +1,7 @@
 import { Card, CardContent } from "./ui/card";
 import { Button } from "./ui/button";
 import { Badge } from "./ui/badge";
-import { ExternalLink, Github, ArrowUpRight, Calendar, Users, Archive } from "lucide-react";
+import { ExternalLink, ArrowUpRight, Calendar, Users, Archive } from "lucide-react";
 import Link from "next/link";
 import Image from "next/image";
 import { sanity } from "../sanity/client";
