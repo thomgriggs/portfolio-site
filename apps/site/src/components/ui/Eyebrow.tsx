@@ -11,3 +11,4 @@ export default function Eyebrow({ children, className = "" }: EyebrowProps) {
   );
 }
 
+

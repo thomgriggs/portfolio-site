@@ -26,3 +26,4 @@ done
 
 echo "All screenshots complete!"
 
+
