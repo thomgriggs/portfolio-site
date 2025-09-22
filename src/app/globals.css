@@ -49,6 +49,87 @@ a:focus-visible {
 h1 { 
 	font-size: clamp(2rem, 6vw, 3.5rem);
 }
+
+/* Hero Section Styles */
+.hero-section {
+	padding: 6rem 0; /* py-24 mobile */
+}
+
+@media (min-width: 768px) {
+	.hero-section {
+		padding: 8rem 0; /* py-32 md */
+	}
+}
+
+@media (min-width: 1024px) {
+	.hero-section {
+		padding: 10rem 0; /* py-40 lg */
+	}
+}
+
+.hero-content {
+	max-width: 1100px;
+	margin: 0 auto;
+	padding: 0 var(--space-4);
+}
+
+.hero-text {
+	max-width: 600px;
+}
+
+.hero-title {
+	font-size: clamp(36px, 6vw, 56px);
+	line-height: 1.1; /* leading-tight */
+	font-weight: 600;
+	margin-bottom: 1rem; /* gap H1→subhead: 16px */
+}
+
+@media (min-width: 768px) {
+	.hero-title {
+		margin-bottom: 1.25rem; /* gap H1→subhead: 20px */
+	}
+}
+
+.hero-subhead {
+	font-size: 20px;
+	line-height: 1.6; /* 32px */
+	margin-bottom: 1.5rem; /* gap subhead→CTAs: 24px */
+	color: var(--text-muted);
+}
+
+.hero-ctas {
+	display: flex;
+	gap: 1rem;
+	flex-wrap: wrap;
+}
+
+.hero-cta-primary,
+.hero-cta-secondary {
+	min-height: 44px;
+	font-size: 16px;
+	padding: 0.75rem 1.5rem;
+}
+
+.hero-cta-primary {
+	background: var(--primary);
+	color: var(--primary-foreground);
+	border: none;
+}
+
+.hero-cta-primary:hover {
+	background: var(--primary-hover);
+}
+
+.hero-cta-secondary {
+	background: transparent;
+	color: var(--text);
+	border: 1px solid var(--border);
+}
+
+.hero-cta-secondary:hover {
+	background: var(--accent);
+	color: var(--accent-foreground);
+}
 h2 { 
 	font-size: clamp(1.25rem, 3vw, 2rem);
 }
