@@ -1,11 +1,11 @@
 :root {
 	/* colors - matching Figma design system */
-	--bg: #ffffff;
-	--text: #0a0a0a;
-	--muted: #717182;
-	--primary: #030213;
-	--card: #ffffff;
-	--border: rgba(0, 0, 0, 0.1);
+	--bg: 220 14% 97%;
+	--text: 224 71% 4%;
+	--muted: 215 16% 46%;
+	--primary: 262 83% 58%;
+	--card: 0 0% 100%;
+	--border: 220 13% 91%;
 
 	/* typography */
 	--font-serif: "Noto Serif", ui-serif, Georgia, serif;
