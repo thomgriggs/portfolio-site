@@ -62,7 +62,7 @@ export async function Projects() {
               <div key={project._id} className={`grid lg:grid-cols-2 gap-12 items-center ${index % 2 === 1 ? 'lg:grid-flow-col-dense' : ''}`}>
                 {/* Image */}
                 <div className={`relative group ${index % 2 === 1 ? 'lg:col-start-2' : ''}`}>
-                  <div className="relative overflow-hidden rounded-2xl bg-card border border-border shadow-card hover:shadow-card-hover transition-shadow">
+                  <div className="relative overflow-hidden rounded-2xl bg-card border border-border shadow-card hover:shadow-lg transition-shadow">
                     <Image
                       src={projectImage}
                       alt={project.title}
@@ -144,7 +144,7 @@ export async function Projects() {
               const projectYear = new Date(project.dateCreated).getFullYear().toString();
               
               return (
-                <Card key={project._id} className="group overflow-hidden rounded-2xl shadow-card hover:shadow-card-hover transition-shadow border-border">
+                <Card key={project._id} className="group overflow-hidden rounded-2xl shadow-card hover:shadow-lg transition-shadow border-border">
                   <div className="relative overflow-hidden">
                     <Image
                       src={projectImage}

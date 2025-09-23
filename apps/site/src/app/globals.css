@@ -1243,7 +1243,7 @@ main section{
 /* Component Styles */
 @layer components {
   .btn {
-    @apply inline-flex items-center justify-center rounded-xl px-5 h-11 text-sm font-medium transition-shadow border border-border bg-card text-foreground shadow-card hover:shadow-card-hover;
+    @apply inline-flex items-center justify-center rounded-xl px-5 h-11 text-sm font-medium transition-shadow border border-border bg-card text-foreground shadow-card hover:shadow-lg;
   }
   
   .btn-primary {
