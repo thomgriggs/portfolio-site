@@ -1,3 +1,3 @@
 export default function Projects() {
-  return <main style={{padding:24}}><h1>Projects</h1><p>Projects page.</p></main>;
+  return <section className="space-y-2"><h1 className="text-2xl font-semibold">Projects</h1><p>Projects page.</p></section>;
 }
