@@ -30,25 +30,25 @@ export function Hero() {
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
           {/* Left side - Text content */}
-          <div className="text-center lg:text-left space-y-6 lg:space-y-8 order-2 lg:order-1">
-            <div className="space-y-3">
+          <div className="text-center lg:text-left pt-28 pb-20 order-2 lg:order-1">
+            <div className="space-y-6">
               <p className="text-sm tracking-[0.2em] uppercase text-muted-foreground font-sans font-medium">
                 Front-End Developer
               </p>
-              <h1 className="text-4xl sm:text-5xl lg:text-6xl xl:text-7xl">
-                <span className="block text-foreground display-serif">Thom</span>
-                <span className="block text-primary display-serif-italic">Griggs</span>
+              <h1 className="text-display-1 font-display tracking-tight">
+                <span className="block text-foreground">Thom</span>
+                <span className="block text-primary italic">Griggs</span>
               </h1>
             </div>
             
-            <div className="max-w-lg space-y-6">
-              <p className="text-base sm:text-lg text-muted-foreground leading-relaxed">
+            <div className="max-w-2xl space-y-6">
+              <p className="text-body-lg text-muted-foreground">
                 Crafting pixel-perfect, responsive websites for the hospitality industry. 
                 <span className="text-foreground font-medium">
                   <Counter end={10} suffix="+ years" />
                 </span> of hand-coding 
                 with a deep appreciation for <span className="text-foreground font-medium">typography</span> and 
-                the <span className="text-foreground font-medium">craft</span>.
+                the <span className="text-primary italic font-medium">craft</span>.
               </p>
               
               <div className="flex flex-col sm:flex-row sm:items-center sm:space-x-6 space-y-2 sm:space-y-0 text-sm text-muted-foreground">

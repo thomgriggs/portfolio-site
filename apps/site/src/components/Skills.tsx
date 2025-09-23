@@ -2,7 +2,7 @@
 import { Card, CardContent } from "./ui/card";
 import { Badge } from "./ui/badge";
 import { Code2, Palette, Zap, Brain, Star } from "lucide-react";
-import { AnimatedProgress } from "./AnimatedProgress";
+import { SkillBar } from "./SkillBar";
 import { useScrollAnimation } from "./hooks/useScrollAnimation";
 
 export function Skills() {
@@ -83,7 +83,7 @@ export function Skills() {
   ];
 
   return (
-    <section id="skills" className="py-32 px-4 sm:px-6 lg:px-8 relative">
+    <section id="skills" data-test="section-skills" className="py-32 px-4 sm:px-6 lg:px-8 relative">
       <div className="absolute inset-0 bg-gradient-to-b from-muted/30 via-background to-muted/30"></div>
       
       <div className="relative z-10 max-w-7xl mx-auto">
@@ -117,18 +117,7 @@ export function Skills() {
                 <div className="space-y-6">
                   {category.skills.map((skill, skillIndex) => (
                     <div key={skillIndex} className="space-y-3">
-                      <div className="flex justify-between items-center">
-                        <span className="font-medium text-foreground">{skill.name}</span>
-                        <div className="flex items-center space-x-2">
-                          <Badge variant="secondary" className="text-xs">
-                            {skill.experience}
-                          </Badge>
-                          <span className="text-sm text-muted-foreground">
-                            <AnimatedProgress value={skill.level} showPercentage={true} className="inline-flex items-center" />
-                          </span>
-                        </div>
-                      </div>
-                      <AnimatedProgress value={skill.level} showPercentage={false} />
+                      <SkillBar label={skill.name} level={skill.level} />
                     </div>
                   ))}
                 </div>

@@ -1239,3 +1239,22 @@ main section{
   color: var(--primary-foreground);
   transform: translateY(-2px);
 }
+
+/* Component Styles */
+@layer components {
+  .btn {
+    @apply inline-flex items-center justify-center rounded-xl px-5 h-11 text-sm font-medium transition-shadow border border-border bg-card text-foreground shadow-card hover:shadow-card-hover;
+  }
+  
+  .btn-primary {
+    @apply bg-primary text-primary-foreground border-transparent hover:brightness-110;
+  }
+  
+  .btn-ghost {
+    @apply bg-transparent hover:bg-accent hover:text-accent-foreground;
+  }
+  
+  .chip {
+    @apply inline-flex items-center rounded-full border px-3 py-1 text-xs font-semibold bg-muted text-muted-fg border-transparent;
+  }
+}

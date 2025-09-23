@@ -87,7 +87,7 @@ export function PersonalProjects() {
     .slice(0, 3);
 
   return (
-    <section className="personal-projects" aria-label="Personal projects" data-test="personal-projects">
+    <section className="personal-projects" aria-label="Personal projects" data-test="section-personal-projects">
       <div className="personal-projects-content">
         <div className="personal-projects-header">
           <h2 className="personal-projects-title">Personal Projects</h2>

@@ -2,7 +2,12 @@
 const path = require('path');
 const nextConfig = {
   outputFileTracingRoot: path.join(__dirname, '../../'),
-  images: { remotePatterns: [{ protocol: 'https', hostname: '**' }] },
+  images: { 
+    remotePatterns: [
+      { protocol: 'https', hostname: 'cdn.sanity.io' },
+      { protocol: 'https', hostname: '**' }
+    ] 
+  },
   experimental: {
     externalDir: true
   }

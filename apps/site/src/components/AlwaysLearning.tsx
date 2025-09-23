@@ -13,7 +13,7 @@ export function AlwaysLearning() {
   ];
 
   return (
-    <section className="always-learning" aria-label="Learning topics" data-test="always-learning">
+    <section className="always-learning" aria-label="Learning topics" data-test="section-always-learning">
       <div className="always-learning-content">
         <h2 className="always-learning-title">Always learning</h2>
         <div className="always-learning-chips" role="list" aria-label="Learning topics">

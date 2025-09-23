@@ -35,7 +35,7 @@ export async function Projects() {
     .slice(0, 4);
 
   return (
-    <section id="projects" className="py-32 px-4 sm:px-6 lg:px-8 bg-muted/30">
+    <section id="projects" data-test="section-projects" className="py-32 px-4 sm:px-6 lg:px-8 bg-muted/30">
       <div className="max-w-7xl mx-auto">
         {/* Header */}
         <div className="text-center mb-20">
@@ -62,13 +62,13 @@ export async function Projects() {
               <div key={project._id} className={`grid lg:grid-cols-2 gap-12 items-center ${index % 2 === 1 ? 'lg:grid-flow-col-dense' : ''}`}>
                 {/* Image */}
                 <div className={`relative group ${index % 2 === 1 ? 'lg:col-start-2' : ''}`}>
-                  <div className="relative overflow-hidden rounded-2xl bg-card border border-border">
+                  <div className="relative overflow-hidden rounded-2xl bg-card border border-border shadow-card hover:shadow-card-hover transition-shadow">
                     <Image
                       src={projectImage}
                       alt={project.title}
                       width={600}
                       height={400}
-                      className="w-full h-80 object-cover group-hover:scale-105 transition-transform duration-700"
+                      className="w-full aspect-[16/9] object-cover group-hover:scale-105 transition-transform duration-700"
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
                   </div>
@@ -144,17 +144,17 @@ export async function Projects() {
               const projectYear = new Date(project.dateCreated).getFullYear().toString();
               
               return (
-                <Card key={project._id} className="group overflow-hidden hover:shadow-xl transition-all duration-300 border-border/50 hover:border-border">
+                <Card key={project._id} className="group overflow-hidden rounded-2xl shadow-card hover:shadow-card-hover transition-shadow border-border">
                   <div className="relative overflow-hidden">
                     <Image
                       src={projectImage}
                       alt={project.title}
                       width={400}
                       height={300}
-                      className="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-700"
+                      className="w-full aspect-[16/9] object-cover group-hover:scale-105 transition-transform duration-700"
                     />
-                    <div className="absolute top-4 left-4 bg-background/90 backdrop-blur-sm border border-border rounded-lg px-2 py-1">
-                      <span className="text-xs font-medium text-foreground">{project.industry || 'Hospitality'}</span>
+                    <div className="absolute top-4 left-4 chip">
+                      <span className="text-xs font-medium">{project.industry || 'Hospitality'}</span>
                     </div>
                   </div>
                   
