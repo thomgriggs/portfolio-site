@@ -28,16 +28,14 @@ const config: Config = {
         "accent-foreground": "hsl(var(--accent-fg))",
       },
       fontFamily: {
-        display: ["Inter Variable", "ui-sans-serif", "system-ui", "sans-serif"],
-        body: ["Inter Variable", "ui-sans-serif", "system-ui", "sans-serif"],
+        display: ["Inter Variable","ui-sans-serif","system-ui","sans-serif"],
+        body: ["Inter Variable","ui-sans-serif","system-ui","sans-serif"],
       },
       fontSize: {
-        // Figma → Tailwind map (adjust these to your exact Figma specs)
-        "display-1": ["clamp(2.5rem, 1.6rem + 2.6vw, 5rem)", { lineHeight: "1.05", letterSpacing: "-0.02em" }],
-        "display-2": ["clamp(2rem, 1.3rem + 2vw, 3.5rem)", { lineHeight: "1.08", letterSpacing: "-0.015em" }],
-        "title-1":   ["2rem", { lineHeight: "1.15", letterSpacing: "-0.01em" }],
-        "title-2":   ["1.5rem", { lineHeight: "1.2" }],
-        "body-lg":   ["1.125rem", { lineHeight: "1.7" }],
+        "display-1": ["clamp(2.5rem,1.6rem+2.6vw,5rem)", { lineHeight:"1.05", letterSpacing:"-0.02em" }],
+        "display-2": ["clamp(2rem,1.3rem+2vw,3.5rem)", { lineHeight:"1.08", letterSpacing:"-0.015em" }],
+        "title-2":   ["1.5rem", { lineHeight:"1.2" }],
+        "body-lg":   ["1.125rem", { lineHeight:"1.7" }],
       },
       boxShadow: {
         card: "0 6px 18px rgba(0,0,0,.08), 0 2px 6px rgba(0,0,0,.06)",
