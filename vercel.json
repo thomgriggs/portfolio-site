@@ -1,6 +1,0 @@
-{
-  "framework": "nextjs",
-  "installCommand": "npm ci && npm --prefix apps/site ci",
-  "buildCommand": "npm --prefix apps/site run build",
-  "ignoreCommand": "git diff --quiet HEAD^ HEAD apps/site || echo 'changes'"
-}
